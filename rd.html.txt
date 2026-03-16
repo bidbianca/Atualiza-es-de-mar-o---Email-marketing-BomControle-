@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BomControle • Novos Recursos</title>
+
+<style>
+body{margin:0;padding:0;background:#eef3f8;}
+table{border-collapse:collapse;}
+img{border:0;display:block;height:auto;}
+@media screen and (max-width:640px){
+.container{width:100%!important}
+.fluid{width:100%!important}
+.mobile-padding{padding-left:20px!important;padding-right:20px!important}
+.hero-title{font-size:30px!important;line-height:36px!important}
+}
+</style>
+
+</head>
+
+<body>
+
+<div style="display:none;font-size:1px;color:#eef3f8;">
+Confira os novos recursos do BomControle em Financeiro, Estoque, CRM, Nota Fiscal e Portal do Cliente.
+</div>
+
+<table width="100%" bgcolor="#eef3f8">
+<tr>
+<td align="center" style="padding:24px 10px 40px 10px;">
+
+<table width="640" class="container" style="max-width:640px;width:640px;font-family:Arial,Helvetica,sans-serif;">
+
+<tr>
+<td align="center" style="font-size:12px;color:#6b7280;padding-bottom:14px;">
+Release Notes • BomControle
+</td>
+</tr>
+
+<!-- HERO -->
+<tr>
+<td bgcolor="#171717" style="border-radius:24px;padding:40px;" class="mobile-padding">
+
+<img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/bomcontrole_01_02.png" width="220" alt="BomControle" style="margin-bottom:24px;">
+
+<div class="hero-title" style="font-size:38px;line-height:44px;color:#ffffff;font-weight:bold;margin-bottom:14px;">
+Novos Recursos
+</div>
+
+<div style="font-size:18px;line-height:28px;color:#e5e7eb;">
+Reunimos as melhorias mais recentes para dar mais agilidade à operação, ampliar o controle do dia a dia e facilitar o uso dos módulos que você mais acessa.
+</div>
+
+</td>
+</tr>
+
+<tr><td height="18"></td></tr>
+
+<!-- INTRO -->
+<tr>
+<td bgcolor="#ffffff" style="border-radius:20px;border:1px solid #eceff3;padding:32px;" class="mobile-padding">
+
+<div style="font-size:24px;font-weight:bold;color:#111827;margin-bottom:10px;">
+Destaques desta edição
+</div>
+
+<div style="font-size:16px;line-height:26px;color:#667085;">
+Abaixo estão os principais lançamentos organizados por módulo para facilitar a leitura e mostrar rapidamente o que mudou no seu dia a dia no BomControle.
+</div>
+
+</td>
+</tr>
+
+<tr><td height="18"></td></tr>
+
+<!-- FINANCEIRO -->
+<tr>
+<td bgcolor="#ffffff" style="border-radius:20px;border:1px solid #e6e8ec;padding:32px;" class="mobile-padding">
+
+<table>
+<tr>
+<td width="40">
+<img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-financeiro.png" width="34">
+</td>
+<td style="font-size:22px;font-weight:bold;color:#111827;">
+Financeiro
+</td>
+</tr>
+</table>
+
+<br>
+
+<div style="font-size:20px;font-weight:bold;color:#1f2937;margin-bottom:8px;">
+Pagamento parcial da fatura de cartão de crédito
+</div>
+
+<div style="font-size:16px;line-height:26px;color:#4b5563;margin-bottom:16px;">
+Agora é possível realizar <strong>pagamentos antecipados ou parciais da fatura do cartão</strong>, trazendo mais flexibilidade no controle financeiro.
+</div>
+
+<img src="https://thumbs2.imgbox.com/e7/97/MNKvvpsL_t.png" width="576" class="fluid" style="border-radius:16px;margin-bottom:10px;">
+
+<div style="font-size:12px;color:#6b7280;text-align:center;margin-bottom:18px;">
+Financeiro > Dia a dia > Fatura cartão de crédito
+</div>
+
+<div style="font-size:16px;line-height:26px;color:#4b5563;">
+<strong>Geração automática de taxas na quitação da movimentação</strong> — As taxas automáticas agora são geradas no momento da quitação da movimentação.<br><br>
+
+<strong>Anexos mais rápidos nas movimentações</strong> — Agora é possível arrastar e soltar arquivos diretamente na movimentação.<br><br>
+
+<strong>Tabela de preços na edição de contratos recorrentes</strong> — O sistema passa a exibir a tabela de preços ao editar parcelas de contratos recorrentes.<br><br>
+
+<strong>Novo aviso no dia do vencimento na régua de cobrança</strong> — Agora é possível enviar notificações também no dia do vencimento.
+</div>
+
+</td>
+</tr>
+
+<tr><td height="18"></td></tr>
+
+<!-- CTA -->
+<tr>
+<td bgcolor="#ffffff" style="border-radius:20px;border:1px solid #eceff3;padding:32px;text-align:center;" class="mobile-padding">
+
+<div style="font-size:26px;font-weight:bold;color:#111827;margin-bottom:10px;">
+Precisa de ajuda com esses recursos?
+</div>
+
+<div style="font-size:16px;color:#4b5563;margin-bottom:22px;">
+Acesse a Central de Ajuda e veja tutoriais detalhados sobre cada funcionalidade do BomControle.
+</div>
+
+<table align="center">
+<tr>
+<td bgcolor="#111827" style="border-radius:999px;">
+<a href="https://bomcontrole.com.br/ajuda" target="_blank"
+style="display:inline-block;padding:16px 30px;color:#ffffff;font-size:14px;font-weight:bold;text-decoration:none;font-family:Arial;">
+Acessar Central de Ajuda
+</a>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" style="padding-top:24px;font-size:12px;color:#6b7280;">
+Você está recebendo este email porque faz parte da comunicação de novidades do BomControle.
+</td>
+</tr>
+
+<tr>
+<td align="center" style="padding-top:10px;font-size:12px;color:#6b7280;">
+Caso não queira mais receber nossas mensagens, <a href="{{ unsubscribe_url }}" style="color:#111827;">clique aqui para descadastrar</a>.
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
