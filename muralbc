@@ -352,42 +352,32 @@
           <tr><td height="20" style="font-size:0; line-height:0;">&nbsp;</td></tr>
 
           <tr>
-            <td style="background-color:#ffffff; border-radius:24px; overflow:hidden;">
-              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-                <tr>
-                  <td class="px-24" style="padding:32px 36px;">
-                    <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-radius:20px; border:1px solid #f2e68a; background-color:#fffdf0;">
-                      <tr>
-                        <td class="card-pad" style="padding:26px; font-family:Arial, Helvetica, sans-serif;">
-                          <div class="section-title" style="font-size:26px; line-height:32px; font-weight:bold; color:#111827; padding-bottom:10px;">Quer ver todas as melhorias desta versão?</div>
-                          <div class="body-text" style="font-size:16px; line-height:26px; color:#4b5563; padding-bottom:18px;">Confira em detalhes as novas funcionalidades dos módulos financeiro, estoque, CRM e vendas.</div>
-                          <table role="presentation" border="0" cellpadding="0" cellspacing="0">
-                            <tr>
-                              <td bgcolor="#111827" style="border-radius:999px;">
-                                <a href="https://bomcontrole.com.br/ajuda" target="_blank" style="display:inline-block; padding:14px 22px; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:14px; font-weight:bold; color:#ffffff; border-radius:999px;">
-                                  Ver todas as novidades
-                                </a>
-                              </td>
-                            </tr>
-                          </table>
-                        </td>
-                      </tr>
-                    </table>
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
+  <td style="background-color:#ffffff;">
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td class="px-24" style="padding:32px 36px; text-align:center;">
+          
+          <div class="section-title" style="font-size:26px; line-height:32px; font-weight:bold; color:#111827; padding-bottom:10px;">
+            Quer ver todas as melhorias desta versão?
+          </div>
 
-          <tr>
-            <td align="center" style="padding:22px 18px 0 18px; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:20px; color:#6b7280;">
-              Você está recebendo este email porque faz parte da comunicação de novidades do BomControle.           
-            </td>
-          </tr>
+          <div class="body-text" style="font-size:16px; line-height:26px; color:#4b5563; padding-bottom:18px;">
+            Confira em detalhes as novas funcionalidades dos módulos financeiro, estoque, CRM e vendas.
+          </div>
 
-        </table>
-      </td>
-    </tr>
-  </table>
-</body>
-</html>
+          <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center">
+            <tr>
+              <td bgcolor="#111827" style="border-radius:999px;">
+                <a href="https://bomcontrole.com.br/ajuda" target="_blank" style="display:inline-block; padding:14px 22px; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:14px; font-weight:bold; color:#ffffff; border-radius:999px; text-align:center;">
+                  Veja as novidades
+                </a>
+              </td>
+            </tr>
+          </table>
+
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
