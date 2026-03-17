@@ -359,8 +359,8 @@
                     <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-radius:20px; border:1px solid #f2e68a; background-color:#fffdf0;">
                       <tr>
                         <td class="card-pad" style="padding:26px; font-family:Arial, Helvetica, sans-serif;">
-                          <div class="section-title" style="font-size:26px; line-height:32px; font-weight:bold; color:#111827; padding-bottom:10px;">Quer explorar tudo em detalhes?</div>
-                          <div class="body-text" style="font-size:16px; line-height:26px; color:#4b5563; padding-bottom:18px;">Acesse a Central de Ajuda e confira os artigos completos sobre cada novidade desta versão.</div>
+                          <div class="section-title" style="font-size:26px; line-height:32px; font-weight:bold; color:#111827; padding-bottom:10px;">Quer ver todas as melhorias desta versão?</div>
+                          <div class="body-text" style="font-size:16px; line-height:26px; color:#4b5563; padding-bottom:18px;">Confira em detalhes as novas funcionalidades dos módulos financeiro, estoque, CRM e vendas.</div>
                           <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                             <tr>
                               <td bgcolor="#111827" style="border-radius:999px;">
