@@ -1,1 +1,353 @@
+<!doctype html>
+<html lang="pt-BR" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="x-apple-disable-message-reformatting" />
+  <title>BomControle • Novos Recursos</title>
+  <!--[if mso]>
+  <style type="text/css">
+    body, table, td, p, a, h1, h2, h3 {font-family: Arial, Helvetica, sans-serif !important;}
+  </style>
+  <![endif]-->
+  <style type="text/css">
+    body, table, td, a { -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+    table, td { mso-table-lspace:0pt; mso-table-rspace:0pt; }
+    img { -ms-interpolation-mode:bicubic; }
+    img { border:0; outline:none; text-decoration:none; display:block; height:auto; line-height:100%; }
+    table { border-collapse:collapse !important; }
+    body { margin:0 !important; padding:0 !important; width:100% !important; height:100% !important; background-color:#f5f7fb; }
+    a { text-decoration:none; }
+
+    .wrapper { width:100%; background-color:#f5f7fb; }
+    .container { width:100%; max-width:680px; }
+    .mobile-full { width:100% !important; }
+    .hide-mobile { display:block; }
+
+    @media screen and (max-width: 680px) {
+      .container { width:100% !important; }
+      .stack, .stack-cell { display:block !important; width:100% !important; }
+      .px-24 { padding-left:24px !important; padding-right:24px !important; }
+      .px-20 { padding-left:20px !important; padding-right:20px !important; }
+      .py-32 { padding-top:32px !important; padding-bottom:32px !important; }
+      .hero-title { font-size:30px !important; line-height:38px !important; }
+      .section-title { font-size:24px !important; line-height:30px !important; }
+      .body-text { font-size:16px !important; line-height:24px !important; }
+      .feature-title { font-size:18px !important; line-height:25px !important; }
+      .caption { font-size:12px !important; line-height:18px !important; }
+      .image-fluid { width:100% !important; max-width:100% !important; height:auto !important; }
+      .spacer-mobile-8 { height:8px !important; line-height:8px !important; }
+      .card-pad { padding:22px !important; }
+      .hide-mobile { display:none !important; }
+    }
+  </style>
+</head>
+<body style="margin:0; padding:0; background-color:#eef3f8;">
+  <div style="display:none; max-height:0; overflow:hidden; opacity:0; mso-hide:all; color:#eef3f8; font-size:1px; line-height:1px;">
+    Confira os novos recursos do BomControle em Financeiro, Estoque, CRM, Nota Fiscal e Portal do Cliente.
+  </div>
+
+  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="wrapper" style="width:100%; background-color:#eef3f8;">
+    <tr>
+      <td align="center" style="padding:24px 12px 40px 12px;">
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="680" class="container" style="width:100%; max-width:680px;">
+
+          <tr>
+            <td align="center" style="padding:0 12px 14px 12px; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#6b7280;">
+              Release Notes • BomControle
+            </td>
+          </tr>
+
+          <tr>
+            <td style="background-color:#0b0b0b; background-image:linear-gradient(135deg,#0b0b0b 0%,#171717 58%,#262626 100%); border-radius:28px; overflow:hidden;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                  <td class="px-24 py-32" style="padding:28px 44px 40px 44px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+                        <td style="padding-bottom:26px;">
+                          <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/bomcontrole_01_02.png" width="220" alt="BomControle" style="width:220px; max-width:220px; height:auto;" />
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="hero-title" style="font-family:Arial, Helvetica, sans-serif; font-size:40px; line-height:46px; font-weight:bold; color:#ffffff; padding-bottom:14px;">
+                          Novos Recursos
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="body-text" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:28px; color:#e5e7eb; padding-bottom:26px;">
+                          Reunimos as melhorias mais recentes para dar mais agilidade à operação, ampliar o controle do dia a dia e facilitar o uso dos módulos que você mais acessa.
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="20" style="font-size:0; line-height:0;">&nbsp;</td></tr>
+
+          <tr>
+            <td style="background-color:#ffffff; border-radius:24px; overflow:hidden; border:1px solid #eceff3;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                  <td class="px-24" style="padding:30px 36px 12px 36px; font-family:Arial, Helvetica, sans-serif; font-size:24px; line-height:30px; font-weight:bold; color:#111827;">
+                    Destaques desta edição
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24 body-text" style="padding:0 36px 28px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#667085;">
+                    Abaixo estão os principais lançamentos organizados por módulo, com uma leitura mais amigável para email marketing e estrutura compatível com os principais clientes de email.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="20" style="font-size:0; line-height:0;">&nbsp;</td></tr>
+
+          <!-- FINANCEIRO -->
+          <tr>
+            <td style="background-color:#ffffff; border-radius:24px; overflow:hidden; border:1px solid #e6e8ec;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                  <td class="px-24" style="padding:32px 36px 8px 36px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td valign="middle" style="padding-right:12px;">
+                          <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-financeiro.png" width="34" alt="Financeiro" style="width:34px; max-width:34px;" />
+                        </td>
+                        <td valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:22px; line-height:28px; font-weight:bold; color:#111827;">
+                          Financeiro
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24" style="padding:10px 36px 8px 36px;">
+                    <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border:1px solid #eceff3; border-radius:18px; background-color:#fffdf0;">
+                      <tr>
+                        <td class="card-pad" style="padding:24px; font-family:Arial, Helvetica, sans-serif;">
+                          <div class="feature-title" style="font-size:20px; line-height:28px; font-weight:bold; color:#1f2937; padding-bottom:10px;">
+                            Pagamento parcial da fatura de cartão de crédito
+                          </div>
+                          <div class="body-text" style="font-size:16px; line-height:26px; color:#4b5563;">Agora é possível realizar <strong>pagamentos antecipados ou parciais da fatura do cartão</strong>, trazendo mais flexibilidade no controle financeiro. <a href="https://bomcontrole.com.br/ajuda/financeiro-dia-a-dia-fatura-de-cartao-de-credito" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24" style="padding:8px 36px 8px 36px;">
+                    <img src="https://thumbs2.imgbox.com/e7/97/MNKvvpsL_t.png" width="608" alt="Tela de pagamento parcial da fatura de cartão de crédito" class="image-fluid" style="width:100%; max-width:608px; border-radius:18px;" />
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24 caption" style="padding:6px 36px 20px 36px; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#6b7280; text-align:center;">
+                    Financeiro &gt; Dia a dia &gt; Fatura cartão de crédito
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24" style="padding:0 36px 32px 36px;">
+                    <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td style="padding:0 0 16px 0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
+                          <strong style="color:#1f2937;">Geração automática de taxas na quitação da movimentação</strong> — As taxas automáticas agora são geradas <strong>no momento da quitação da movimentação</strong>, garantindo mais precisão nos lançamentos financeiros.
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding:0 0 16px 0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
+                          <strong style="color:#1f2937;">Anexos mais rápidos nas movimentações</strong> — Agora é possível <strong>arrastar e soltar arquivos</strong> diretamente na movimentação para anexar documentos com mais agilidade.
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding:0 0 16px 0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
+                          <strong style="color:#1f2937;">Tabela de preços na edição de contratos recorrentes</strong> — Ao editar parcelas de <strong>contratos recorrentes</strong>, o sistema passa a exibir a <strong>tabela de preços</strong>, facilitando conferência e ajustes. <a href="https://bomcontrole.com.br/ajuda/financeiro-dia-a-dia-contratos" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding:0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
+                          <strong style="color:#1f2937;">Novo aviso no dia do vencimento na régua de cobrança</strong> — A régua de cobrança agora permite <strong>enviar notificações também no dia do vencimento</strong>, totalizando <strong>4 opções de avisos automáticos</strong>. <a href="https://bomcontrole.com.br/ajuda/financeiro-avancado-regua-de-cobranca" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="20" style="font-size:0; line-height:0;">&nbsp;</td></tr>
+
+          <!-- ESTOQUE -->
+          <tr>
+            <td style="background-color:#ffffff; border-radius:24px; overflow:hidden; border:1px solid #e6e8ec;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                  <td class="px-24" style="padding:32px 36px 8px 36px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td valign="middle" style="padding-right:12px;">
+                          <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-estoque.png" width="34" alt="Estoque" style="width:34px; max-width:34px;" />
+                        </td>
+                        <td valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:22px; line-height:28px; font-weight:bold; color:#111827;">
+                          Estoque
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24" style="padding:10px 36px 8px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
+                    <strong style="color:#1f2937;">Exibição da quantidade em estoque em vendas, orçamentos e PDV</strong> — Ao lançar uma venda, orçamento ou pedido no PDV, o sistema passa a exibir <strong>a quantidade disponível em estoque do produto</strong>. <a href="https://bomcontrole.com.br/ajuda/vendas-dia-a-dia-orcamento-venda" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24" style="padding:8px 36px 8px 36px;">
+                    <img src="https://thumbs2.imgbox.com/9f/2e/LHp4veha_t.png" width="608" alt="Tela exibindo quantidade disponível em estoque" class="image-fluid" style="width:100%; max-width:608px; border-radius:18px;" />
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24 caption" style="padding:6px 36px 20px 36px; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#6b7280; text-align:center;">
+                    Vendas &gt; Dia a dia &gt; Orçamento/Vendas
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24" style="padding:0 36px 32px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
+                    <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Filtro por tabela de preços em relatórios de estoque</strong> — Adicionamos o campo <strong>Tabela de Preços</strong> nos relatórios de saldo de produtos e listagem de produtos.</div>
+                    <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Importação automática de lotes e validades na entrada de nota fiscal (SEFAZ)</strong> — Ao dar entrada em uma nota fiscal, o sistema passa a <strong>importar automaticamente os lotes e datas de validade</strong> dos produtos. <a href="https://bomcontrole.com.br/ajuda/estoque-dia-a-dia-entrada-de-produto" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                    <div><strong style="color:#1f2937;">Envio de rastreabilidade (lote e validade) na emissão de NF-e</strong> — As informações de <strong>lote e validade dos produtos</strong> agora são enviadas automaticamente na <strong>emissão da nota fiscal eletrônica</strong>. <a href="https://bomcontrole.com.br/ajuda/estoque-dia-a-dia-entrada-de-produto" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="20" style="font-size:0; line-height:0;">&nbsp;</td></tr>
+
+          <!-- CRM -->
+          <tr>
+            <td style="background-color:#ffffff; border-radius:24px; overflow:hidden; border:1px solid #e6e8ec;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                  <td class="px-24" style="padding:32px 36px 16px 36px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td valign="middle" style="padding-right:12px;">
+                          <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-crm.png" width="34" alt="CRM" style="width:34px; max-width:34px;" />
+                        </td>
+                        <td valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:22px; line-height:28px; font-weight:bold; color:#111827;">
+                          CRM
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24" style="padding:0 36px 32px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
+                    <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Relatório de oportunidades por motivo</strong> — Novo relatório que apresenta <strong>os principais motivos de ganho ou perda de oportunidades</strong>, ajudando na análise do desempenho das vendas. <a href="https://bomcontrole.com.br/ajuda/crm-relatorios-relatorio" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                    <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Linha de totalização nos relatórios do CRM</strong> — Os relatórios agora exibem <strong>uma linha com os totais de negócios ganhos, perdidos e iniciados</strong>. <a href="https://bomcontrole.com.br/ajuda/crm-relatorios-relatorio" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                    <div><strong style="color:#1f2937;">Visualização de oportunidades excluídas</strong> — Agora é possível <strong>visualizar as oportunidades que foram excluídas no CRM</strong>, permitindo acompanhar registros removidos e manter mais controle sobre o histórico de oportunidades no sistema. <a href="https://bomcontrole.com.br/ajuda/crm-relatorios-relatorio" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="20" style="font-size:0; line-height:0;">&nbsp;</td></tr>
+
+          <!-- VENDAS -->
+          <tr>
+            <td style="background-color:#ffffff; border-radius:24px; overflow:hidden; border:1px solid #e6e8ec;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                  <td class="px-24" style="padding:32px 36px 16px 36px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td valign="middle" style="padding-right:12px;">
+                          <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-vendas.png" width="34" alt="Nota Fiscal" style="width:34px; max-width:34px;" />
+                        </td>
+                        <td valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:22px; line-height:28px; font-weight:bold; color:#111827;">
+                          Vendas
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24" style="padding:0 36px 32px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
+                    <strong style="color:#1f2937;">Emissão de nota fiscal para clientes estrangeiros</strong> — Agora é possível <strong>emitir nota fiscal para clientes estrangeiros</strong>, permitindo registrar vendas para pessoas de outros países de forma correta no sistema.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="20" style="font-size:0; line-height:0;">&nbsp;</td></tr>
+
+          <!-- PORTAL DO CLIENTE -->
+          <tr>
+            <td style="background-color:#ffffff; border-radius:24px; overflow:hidden; border:1px solid #e6e8ec;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                  <td class="px-24" style="padding:32px 36px 16px 36px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td valign="middle" style="padding-right:12px;">
+                          <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-servicedesk.png" width="34" alt="Portal do Cliente" style="width:34px; max-width:34px;" />
+                        </td>
+                        <td valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:22px; line-height:28px; font-weight:bold; color:#111827;">
+                          Portal do Cliente
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="px-24" style="padding:0 36px 32px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
+                    <strong style="color:#1f2937;">Acesso ao portal para múltiplas empresas</strong> — Usuários com o mesmo e-mail agora podem <strong>acessar mais de uma empresa dentro do Portal do Cliente</strong>.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="20" style="font-size:0; line-height:0;">&nbsp;</td></tr>
+
+          <tr>
+            <td style="background-color:#ffffff;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                  <td class="px-24" style="padding:32px 36px; text-align:center;">
+                    <div class="section-title" style="font-size:26px; line-height:32px; font-weight:bold; color:#111827; padding-bottom:10px;">
+                      Quer ver todas as melhorias desta versão?
+                    </div>
+
+                    <div class="body-text" style="font-size:16px; line-height:26px; color:#4b5563; padding-bottom:18px;">
+                      Confira em detalhes as novas funcionalidades dos módulos financeiro, estoque, CRM e vendas.
+                    </div>
+
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center">
+                      <tr>
+                        <td bgcolor="#111827" style="border-radius:999px;">
+                          <a href="https://bomcontrole.com.br/ajuda/novidades-marco-2026" target="_blank" style="display:inline-block; padding:14px 22px; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:14px; font-weight:bold; color:#ffffff; border-radius:999px; text-align:center;">
+                            Veja as novidades
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
 
