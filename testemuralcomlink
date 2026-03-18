@@ -155,12 +155,12 @@
                     <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
                       <tr>
                         <td style="padding:0 0 16px 0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
-                          <strong style="color:#1f2937;">Geração automática de taxas na quitação da movimentação</strong> — As taxas automáticas agora são geradas <strong>no momento da quitação da movimentação</strong>, garantindo mais precisão nos lançamentos financeiros.
+                          <strong style="color:#1f2937;">Geração automática de taxas de boleto na quitação da movimentação</strong> — As taxas automáticas agora são geradas <strong>no momento da quitação da movimentação</strong>, garantindo mais precisão nos lançamentos financeiros. <a href="https://bomcontrole.com.br/ajuda/financeiro-cadastros-contas-bancarias" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a>
                         </td>
                       </tr>
                       <tr>
                         <td style="padding:0 0 16px 0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
-                          <strong style="color:#1f2937;">Anexos mais rápidos nas movimentações</strong> — Agora é possível <strong>arrastar e soltar arquivos</strong> diretamente na movimentação para anexar documentos com mais agilidade.
+                          <strong style="color:#1f2937;">Anexos mais rápidos nas movimentações</strong> — Agora é possível <strong>arrastar e soltar arquivos</strong> diretamente na movimentação para anexar documentos com mais agilidade. <a href="https://bomcontrole.com.br/ajuda/financeiro-dia-a-dia-contas-a-pagar" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a>
                         </td>
                       </tr>
                       <tr>
@@ -250,7 +250,7 @@
                   <td class="px-24" style="padding:0 36px 32px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
                     <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Relatório de oportunidades por motivo</strong> — Novo relatório que apresenta <strong>os principais motivos de ganho ou perda de oportunidades</strong>, ajudando na análise do desempenho das vendas. <a href="https://bomcontrole.com.br/ajuda/crm-relatorios-relatorio" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
                     <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Linha de totalização nos relatórios do CRM</strong> — Os relatórios agora exibem <strong>uma linha com os totais de negócios ganhos, perdidos e iniciados</strong>. <a href="https://bomcontrole.com.br/ajuda/crm-relatorios-relatorio" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
-                    <div><strong style="color:#1f2937;">Visualização de oportunidades excluídas</strong> — Agora é possível <strong>visualizar as oportunidades que foram excluídas no CRM</strong>, permitindo acompanhar registros removidos e manter mais controle sobre o histórico de oportunidades no sistema. <a href="https://bomcontrole.com.br/ajuda/crm-relatorios-relatorio" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                    <div><strong style="color:#1f2937;">Visualização de oportunidades excluídas</strong> — Agora é possível <strong>visualizar as oportunidades que foram excluídas no CRM</strong>, permitindo acompanhar registros removidos e manter mais controle sobre o histórico de oportunidades no sistema. <a href="https://https://bomcontrole.com.br/ajuda/crm-dia-a-dia-excluidas" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
                   </td>
                 </tr>
               </table>
@@ -279,7 +279,7 @@
                 </tr>
                 <tr>
                   <td class="px-24" style="padding:0 36px 32px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
-                    <strong style="color:#1f2937;">Emissão de nota fiscal para clientes estrangeiros</strong> — Agora é possível <strong>emitir nota fiscal para clientes estrangeiros</strong>, permitindo registrar vendas para pessoas de outros países de forma correta no sistema.
+                    <strong style="color:#1f2937;">Emissão de nota fiscal para clientes estrangeiros</strong> — Agora é possível <strong>emitir nota fiscal para clientes estrangeiros</strong>, permitindo registrar vendas para pessoas de outros países de forma correta no sistema. <a href="https://https://bomcontrole.com.br/ajuda/vendas-dia-a-dia-nota-fiscal-de-produto" target="_blank" style="color:#96C7E0; text-decoration:underline;"><strong>Veja mais</strong></a></div>
                   </td>
                 </tr>
               </table>
