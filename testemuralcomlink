@@ -134,7 +134,7 @@
                           <div class="feature-title" style="font-size:20px; line-height:28px; font-weight:bold; color:#1f2937; padding-bottom:10px;">
                             Pagamento parcial da fatura de cartão de crédito
                           </div>
-                          <div class="body-text" style="font-size:16px; line-height:26px; color:#4b5563;">Agora é possível realizar <strong>pagamentos antecipados ou parciais da fatura do cartão</strong>, trazendo mais flexibilidade no controle financeiro. <a href="https://bomcontrole.com.br/ajuda/financeiro-dia-a-dia-fatura-de-cartao-de-credito" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                          <div class="body-text" style="font-size:16px; line-height:26px; color:#4b5563;">Agora é possível realizar <strong>pagamentos antecipados ou parciais da fatura do cartão</strong>, trazendo mais flexibilidade no controle financeiro. <a href="https://bomcontrole.com.br/ajuda/financeiro-dia-a-dia-fatura-de-cartao-de-credito" target="_blank" style="color:#5d49fb; text-decoration:underline;"><strong>Veja mais</strong></a></div>
                         </td>
                       </tr>
                     </table>
@@ -155,22 +155,23 @@
                     <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
                       <tr>
                         <td style="padding:0 0 16px 0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
-                          <strong style="color:#1f2937;">Geração automática de taxas de boleto na quitação da movimentação</strong> — As taxas automáticas agora são geradas <strong>no momento da quitação da movimentação</strong>, garantindo mais precisão nos lançamentos financeiros. <a href="https://bomcontrole.com.br/ajuda/financeiro-cadastros-contas-bancarias" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a>
+                          <strong style="color:#1f2937;">Geração automática de taxas de boleto na quitação da movimentação</strong> — As taxas automáticas agora são geradas <strong>no momento da quitação da movimentação</strong>, garantindo mais precisão nos lançamentos financeiros. <a href="https://bomcontrole.com.br/ajuda/financeiro-cadastros-contas-bancarias" target="_blank" style="color:#5d49fb; text-decoration:underline;"><strong>Veja mais</strong></a>
                         </td>
                       </tr>
                       <tr>
                         <td style="padding:0 0 16px 0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
-                          <strong style="color:#1f2937;">Anexos mais rápidos nas movimentações</strong> — Agora é possível <strong>arrastar e soltar arquivos</strong> diretamente na movimentação para anexar documentos com mais agilidade. <a href="https://bomcontrole.com.br/ajuda/financeiro-dia-a-dia-contas-a-pagar" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a>
+                          <strong style="color:#1f2937;">Anexos mais rápidos nas movimentações</strong> — Agora é possível <strong>arrastar e soltar arquivos</strong> diretamente na movimentação para anexar documentos com mais agilidade. <a href="https://bomcontrole.com.br/ajuda/financeiro-dia-a-dia-contas-a-pagar" target="_blank" style="color:#5d49fb; text-decoration:underline;"><strong>Veja mais</strong></a>
                         </td>
                       </tr>
                       <tr>
                         <td style="padding:0 0 16px 0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
-                          <strong style="color:#1f2937;">Tabela de preços na edição de contratos recorrentes</strong> — Ao editar parcelas de <strong>contratos recorrentes</strong>, o sistema passa a exibir a <strong>tabela de preços</strong>, facilitando conferência e ajustes. <a href="https://bomcontrole.com.br/ajuda/financeiro-dia-a-dia-contratos" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a>
+                          <strong style="color:#1f2937;">Tabela de preços na edição de contratos recorrentes</strong> — Ao editar parcelas de <strong>contratos recorrentes</strong>, o sistema passa a exibir a <strong>tabela de preços</strong>, facilitando conferência e ajustes. <a href="https://bomcontrole.com.br/ajuda/financeiro-dia-a-dia-contratos" target="_blank" style="color:#5d49fb; text-decoration:underline;"><strong>Veja mais</strong></a>
                         </td>
                       </tr>
                       <tr>
                         <td style="padding:0; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
-                          <strong style="color:#1f2937;">Novo aviso no dia do vencimento na régua de cobrança</strong> — A régua de cobrança agora permite <strong>enviar notificações também no dia do vencimento</strong>, totalizando <strong>4 opções de avisos automáticos</strong>. <a href="https://bomcontrole.com.br/ajuda/financeiro-avancado-regua-de-cobranca" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a>
+                          <strong style="color:#1f2937;">Novo aviso no dia do vencimento na régua de cobrança</strong> — A régua de cobrança agora permite <strong>enviar notificações também no dia do vencimento</strong>, totalizando <strong>4 opções de avisos automáticos</strong>. <a href="https://bomcontrole.com.br/ajuda/financeiro-avancado-regua-de-cobranca" target="_blank" style="color:#5d49fb
+; text-decoration:underline;"><strong>Veja mais</strong></a>
                         </td>
                       </tr>
                     </table>
@@ -202,7 +203,7 @@
                 </tr>
                 <tr>
                   <td class="px-24" style="padding:10px 36px 8px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
-                    <strong style="color:#1f2937;">Exibição da quantidade em estoque em vendas, orçamentos e PDV</strong> — Ao lançar uma venda, orçamento ou pedido no PDV, o sistema passa a exibir <strong>a quantidade disponível em estoque do produto</strong>. <a href="https://bomcontrole.com.br/ajuda/vendas-dia-a-dia-orcamento-venda" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a>
+                    <strong style="color:#1f2937;">Exibição da quantidade em estoque em vendas, orçamentos e PDV</strong> — Ao lançar uma venda, orçamento ou pedido no PDV, o sistema passa a exibir <strong>a quantidade disponível em estoque do produto</strong>. <a href="https://bomcontrole.com.br/ajuda/vendas-dia-a-dia-orcamento-venda" target="_blank" style="color:#5d49fb; text-decoration:underline;"><strong>Veja mais</strong></a>
                   </td>
                 </tr>
                 <tr>
@@ -218,8 +219,8 @@
                 <tr>
                   <td class="px-24" style="padding:0 36px 32px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
                     <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Filtro por tabela de preços em relatórios de estoque</strong> — Adicionamos o campo <strong>Tabela de Preços</strong> nos relatórios de saldo de produtos e listagem de produtos.</div>
-                    <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Importação automática de lotes e validades na entrada de nota fiscal (SEFAZ)</strong> — Ao dar entrada em uma nota fiscal, o sistema passa a <strong>importar automaticamente os lotes e datas de validade</strong> dos produtos. <a href="https://bomcontrole.com.br/ajuda/estoque-dia-a-dia-entrada-de-produto" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
-                    <div><strong style="color:#1f2937;">Envio de rastreabilidade (lote e validade) na emissão de NF-e</strong> — As informações de <strong>lote e validade dos produtos</strong> agora são enviadas automaticamente na <strong>emissão da nota fiscal eletrônica</strong>. <a href="https://bomcontrole.com.br/ajuda/estoque-dia-a-dia-entrada-de-produto" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                    <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Importação automática de lotes e validades na entrada de nota fiscal (SEFAZ)</strong> — Ao dar entrada em uma nota fiscal, o sistema passa a <strong>importar automaticamente os lotes e datas de validade</strong> dos produtos. <a href="https://bomcontrole.com.br/ajuda/estoque-dia-a-dia-entrada-de-produto" target="_blank" style="color:#5d49fb; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                    <div><strong style="color:#1f2937;">Envio de rastreabilidade (lote e validade) na emissão de NF-e</strong> — As informações de <strong>lote e validade dos produtos</strong> agora são enviadas automaticamente na <strong>emissão da nota fiscal eletrônica</strong>. <a href="https://bomcontrole.com.br/ajuda/estoque-dia-a-dia-entrada-de-produto" target="_blank" style="color:#5d49fb; text-decoration:underline;"><strong>Veja mais</strong></a></div>
                   </td>
                 </tr>
               </table>
@@ -248,7 +249,7 @@
                 </tr>
                 <tr>
                   <td class="px-24" style="padding:0 36px 32px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
-                    <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Relatório de oportunidades por motivo</strong> — Novo relatório que apresenta <strong>os principais motivos de ganho ou perda de oportunidades</strong>, ajudando na análise do desempenho das vendas. <a href="https://bomcontrole.com.br/ajuda/crm-relatorios-relatorio" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                    <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Relatório de oportunidades por motivo</strong> — Novo relatório que apresenta <strong>os principais motivos de ganho ou perda de oportunidades</strong>, ajudando na análise do desempenho das vendas. <a href="https://bomcontrole.com.br/ajuda/crm-relatorios-relatorio" target="_blank" style="color:#5d49fb; text-decoration:underline;"><strong>Veja mais</strong></a></div>
                     <div style="padding-bottom:16px;"><strong style="color:#1f2937;">Linha de totalização nos relatórios do CRM</strong> — Os relatórios agora exibem <strong>uma linha com os totais de negócios ganhos, perdidos e iniciados</strong>. <a href="https://bomcontrole.com.br/ajuda/crm-relatorios-relatorio" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
                     <div><strong style="color:#1f2937;">Visualização de oportunidades excluídas</strong> — Agora é possível <strong>visualizar as oportunidades que foram excluídas no CRM</strong>, permitindo acompanhar registros removidos e manter mais controle sobre o histórico de oportunidades no sistema. <a href="https://https://bomcontrole.com.br/ajuda/crm-dia-a-dia-excluidas" target="_blank" style="color:#4932ff; text-decoration:underline;"><strong>Veja mais</strong></a></div>
                   </td>
@@ -279,7 +280,7 @@
                 </tr>
                 <tr>
                   <td class="px-24" style="padding:0 36px 32px 36px; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:26px; color:#4b5563;">
-                    <strong style="color:#1f2937;">Emissão de nota fiscal para clientes estrangeiros</strong> — Agora é possível <strong>emitir nota fiscal para clientes estrangeiros</strong>, permitindo registrar vendas para pessoas de outros países de forma correta no sistema. <a href="https://https://bomcontrole.com.br/ajuda/vendas-dia-a-dia-nota-fiscal-de-produto" target="_blank" style="color:#96C7E0; text-decoration:underline;"><strong>Veja mais</strong></a></div>
+                    <strong style="color:#1f2937;">Emissão de nota fiscal para clientes estrangeiros</strong> — Agora é possível <strong>emitir nota fiscal para clientes estrangeiros</strong>, permitindo registrar vendas para pessoas de outros países de forma correta no sistema. <a href="https://https://bomcontrole.com.br/ajuda/vendas-dia-a-dia-nota-fiscal-de-produto" target="_blank" style="color:#5d49fb; text-decoration:underline;"><strong>Veja mais</strong></a></div>
                   </td>
                 </tr>
               </table>
