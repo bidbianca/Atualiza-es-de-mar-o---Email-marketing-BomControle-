@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>CRM do BomControle</title>
+  <style>
+    body, table, td, a { -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+    table, td { mso-table-lspace:0pt; mso-table-rspace:0pt; }
+    img { -ms-interpolation-mode:bicubic; border:0; display:block; outline:none; text-decoration:none; }
+    table { border-collapse:collapse !important; }
+    body { margin:0 !important; padding:0 !important; width:100% !important; background:#111111; }
+    @media screen and (max-width: 600px) {
+      .container { width:100% !important; }
+      .mobile-padding { padding-left:24px !important; padding-right:24px !important; }
+      .headline { font-size:28px !important; line-height:36px !important; }
+      .text { font-size:16px !important; line-height:26px !important; }
+      .button { display:block !important; width:100% !important; }
+    }
+  </style>
+</head>
+<body style="margin:0; padding:0; background:#111111;">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="padding:24px 12px;">
+        <table width="600" border="0" cellpadding="0" cellspacing="0" class="container" style="max-width:600px; background:#ffffff;">
+          
+          <tr>
+            <td align="center" style="background:#111111; padding:32px 24px;">
+              <img src="https://SEU-LINK-DA-LOGO.png" alt="BomControle" width="250" style="max-width:250px; height:auto; width:100%;">
+            </td>
+          </tr>
+
+          <tr>
+            <td bgcolor="#fee600" class="mobile-padding" style="padding:48px 40px 34px 40px;">
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:13px; font-weight:bold; color:#111111; text-transform:uppercase; letter-spacing:1px; margin-bottom:16px;">
+                CRM BomControle
+              </div>
+              <div class="headline" style="font-family:Arial, Helvetica, sans-serif; font-size:38px; line-height:46px; font-weight:bold; color:#111111; margin-bottom:18px;">
+                O CRM do BomControle pode fazer mais pela sua operação
+              </div>
+              <div class="text" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:30px; color:#111111;">
+                Você sabia que o BomControle possui 6 módulos e um deles é o CRM?
+              </div>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="mobile-padding" style="padding:36px 40px 18px 40px;">
+              <div class="text" style="font-family:Arial, Helvetica, sans-serif; font-size:17px; line-height:30px; color:#333333;">
+                Com ele, sua empresa pode organizar o processo comercial de ponta a ponta, com mais integração entre vendas e financeiro, mais agilidade na operação e mais controle no dia a dia.
+              </div>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="mobile-padding" style="padding:8px 40px 8px 40px;">
+              <table width="100%" border="0" cellpadding="0" cellspacing="0" style="background:#f7f7f7; border-radius:10px;">
+                <tr>
+                  <td style="padding:28px;">
+                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:22px; line-height:30px; font-weight:bold; color:#111111; margin-bottom:14px;">
+                      Com o CRM, sua equipe pode:
+                    </div>
+                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:28px; color:#333333;">
+                      • acompanhar oportunidades no funil de vendas<br>
+                      • personalizar propostas comerciais<br>
+                      • enviar propostas para assinatura digital<br>
+                      • encaminhar vendas ganhas para aprovação financeira<br>
+                      • integrar o processo ao contas a receber<br>
+                      • controlar comissão de vendedores<br>
+                      • organizar tarefas, agenda e follow-ups em um só lugar
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="mobile-padding" style="padding:28px 40px 8px 40px;">
+              <div class="text" style="font-family:Arial, Helvetica, sans-serif; font-size:17px; line-height:30px; color:#333333;">
+                E quanto mais usuários utilizam o CRM, maior é o controle da sua operação.
+              </div>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="mobile-padding" style="padding:8px 40px 10px 40px;">
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:28px; color:#333333;">
+                • Mais acompanhamento das negociações<br>
+                • Mais integração entre comercial e financeiro<br>
+                • Mais controle sobre propostas, aprovações e recebimentos<br>
+                • Mais eficiência para vender e receber com segurança
+              </div>
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" class="mobile-padding" style="padding:26px 40px 18px 40px;">
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td bgcolor="#111111" style="border-radius:999px;">
+                    <a href="https://SEU-LINK-DE-DESTINO" target="_blank" class="button" style="display:inline-block; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:16px; font-weight:bold; color:#fee600; padding:18px 30px; border-radius:999px; text-decoration:none;">
+                      Adicionar usuários ao CRM
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="mobile-padding" style="padding:0 40px 38px 40px;">
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:28px; color:#555555;">
+                Amplie o uso do CRM diretamente pelo sistema e aproveite todo o potencial do módulo no dia a dia da sua equipe.
+              </div>
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" style="background:#111111; padding:28px 24px;">
+              <div style="font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:22px; color:#cccccc;">
+                BomControle<br>
+                Gestão inteligente para o seu negócio
+              </div>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
