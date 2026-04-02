@@ -1,76 +1,51 @@
-<!DOCTYPE html>
+
+<!doctype html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>CRM do BomControle</title>
-  <style>
-    body, table, td, a { -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
-    table, td { mso-table-lspace:0pt; mso-table-rspace:0pt; }
-    img { -ms-interpolation-mode:bicubic; border:0; display:block; outline:none; text-decoration:none; }
-    table { border-collapse:collapse !important; }
-    body { margin:0 !important; padding:0 !important; width:100% !important; background:#111111; }
-    @media screen and (max-width: 600px) {
-      .container { width:100% !important; }
-      .mobile-padding { padding-left:24px !important; padding-right:24px !important; }
-      .headline { font-size:28px !important; line-height:36px !important; }
-      .text { font-size:16px !important; line-height:26px !important; }
-      .button { display:block !important; width:100% !important; }
-    }
-  </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>CRM BomControle | Comparativo com layout clean v2</title>
 </head>
-<body style="margin:0; padding:0; background:#111111;">
-  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+<body style="margin:0; padding:0; background:#f3f6fa;">
+  <div style="display:none; max-height:0; overflow:hidden; opacity:0;">
+    Dashboard, funil de oportunidades, gatilhos e CRM integrado ao Financeiro e BPM.
+  </div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f3f6fa;">
     <tr>
       <td align="center" style="padding:24px 12px;">
-        <table width="600" border="0" cellpadding="0" cellspacing="0" class="container" style="max-width:600px; background:#ffffff;">
-          
+        <table role="presentation" width="640" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width:640px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px; overflow:hidden; font-family:Arial, Helvetica, sans-serif; color:#111827;">
           <tr>
-            <td align="center" style="background:#111111; padding:32px 24px;">
-              <img src="https://SEU-LINK-DA-LOGO.png" alt="BomControle" width="250" style="max-width:250px; height:auto; width:100%;">
+            <td style="padding:22px 24px 14px 24px; border-bottom:1px solid #e5e7eb; background:#ffffff;">
+              <img src="Identidade%20visual%20BC/logoamarela-small.png" alt="BomControle" width="170" style="display:block; border:0; width:100%; max-width:170px; height:auto;">
             </td>
           </tr>
 
           <tr>
-            <td bgcolor="#fee600" class="mobile-padding" style="padding:48px 40px 34px 40px;">
-              <div style="font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:13px; font-weight:bold; color:#111111; text-transform:uppercase; letter-spacing:1px; margin-bottom:16px;">
-                CRM BomControle
-              </div>
-              <div class="headline" style="font-family:Arial, Helvetica, sans-serif; font-size:38px; line-height:46px; font-weight:bold; color:#111111; margin-bottom:18px;">
-                O CRM do BomControle pode fazer mais pela sua operação
-              </div>
-              <div class="text" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:30px; color:#111111;">
-                Você sabia que o BomControle possui 6 módulos e um deles é o CRM?
-              </div>
+            <td align="center" style="padding:22px 24px 16px 24px; text-align:center;">
+              <span style="display:inline-block; padding:6px 12px; border-radius:999px; background:#fee600; color:#111111; font-size:12px; font-weight:bold; letter-spacing:0.2px;">Comparativo de CRM para operação comercial</span>
             </td>
           </tr>
 
           <tr>
-            <td class="mobile-padding" style="padding:36px 40px 18px 40px;">
-              <div class="text" style="font-family:Arial, Helvetica, sans-serif; font-size:17px; line-height:30px; color:#333333;">
-                Com ele, sua empresa pode organizar o processo comercial de ponta a ponta, com mais integração entre vendas e financeiro, mais agilidade na operação e mais controle no dia a dia.
-              </div>
+            <td style="padding:0 24px 10px 24px; font-size:30px; line-height:1.25; font-weight:bold; color:#0f172a; text-align:center;">
+              O CRM do BomControle é parte de um ecossistema completo
             </td>
           </tr>
 
           <tr>
-            <td class="mobile-padding" style="padding:8px 40px 8px 40px;">
-              <table width="100%" border="0" cellpadding="0" cellspacing="0" style="background:#f7f7f7; border-radius:10px;">
+            <td style="padding:0 24px 18px 24px; font-size:16px; line-height:1.7; color:#475569; text-align:center;">
+              Compare os diferenciais e veja como o CRM conecta sua rotina comercial com o financeiro e os processos internos para gerar mais previsibilidade.
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 12px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f8fbff; border:1px solid #dbe5f1; border-radius:10px;">
                 <tr>
-                  <td style="padding:28px;">
-                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:22px; line-height:30px; font-weight:bold; color:#111111; margin-bottom:14px;">
-                      Com o CRM, sua equipe pode:
-                    </div>
-                    <div style="font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:28px; color:#333333;">
-                      • acompanhar oportunidades no funil de vendas<br>
-                      • personalizar propostas comerciais<br>
-                      • enviar propostas para assinatura digital<br>
-                      • encaminhar vendas ganhas para aprovação financeira<br>
-                      • integrar o processo ao contas a receber<br>
-                      • controlar comissão de vendedores<br>
-                      • organizar tarefas, agenda e follow-ups em um só lugar
-                    </div>
+                  <td style="padding:14px; font-size:15px; line-height:1.6; color:#374151;">
+                    <strong>Dashboard do CRM:</strong> mostra a quantidade de oportunidades <strong>mornas, quentes, muito quentes e congeladas</strong>, além dos <strong>valores</strong> e das <strong>atividades realizadas</strong> para orientar sua gestão comercial.
                   </td>
                 </tr>
               </table>
@@ -78,32 +53,17 @@
           </tr>
 
           <tr>
-            <td class="mobile-padding" style="padding:28px 40px 8px 40px;">
-              <div class="text" style="font-family:Arial, Helvetica, sans-serif; font-size:17px; line-height:30px; color:#333333;">
-                E quanto mais usuários utilizam o CRM, maior é o controle da sua operação.
-              </div>
+            <td style="padding:0 24px 18px 24px;">
+              <img src="dashbord.png" alt="Dashboard do CRM com indicadores" width="592" style="display:block; border:1px solid #d7deea; border-radius:10px; width:100%; max-width:592px; height:auto;">
             </td>
           </tr>
 
           <tr>
-            <td class="mobile-padding" style="padding:8px 40px 10px 40px;">
-              <div style="font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:28px; color:#333333;">
-                • Mais acompanhamento das negociações<br>
-                • Mais integração entre comercial e financeiro<br>
-                • Mais controle sobre propostas, aprovações e recebimentos<br>
-                • Mais eficiência para vender e receber com segurança
-              </div>
-            </td>
-          </tr>
-
-          <tr>
-            <td align="center" class="mobile-padding" style="padding:26px 40px 18px 40px;">
-              <table border="0" cellpadding="0" cellspacing="0">
+            <td style="padding:0 24px 12px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f8fbff; border:1px solid #dbe5f1; border-radius:10px;">
                 <tr>
-                  <td bgcolor="#111111" style="border-radius:999px;">
-                    <a href="https://SEU-LINK-DE-DESTINO" target="_blank" class="button" style="display:inline-block; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:16px; font-weight:bold; color:#fee600; padding:18px 30px; border-radius:999px; text-decoration:none;">
-                      Adicionar usuários ao CRM
-                    </a>
+                  <td style="padding:14px; font-size:15px; line-height:1.6; color:#374151;">
+                    <strong>Oportunidades no funil:</strong> você pode criar <strong>mais de um funil de vendas</strong>, personalizar campos, criar gatilhos, controlar a temperatura do lead, criar tarefas para entrar em contato e fazer follow up.
                   </td>
                 </tr>
               </table>
@@ -111,22 +71,60 @@
           </tr>
 
           <tr>
-            <td class="mobile-padding" style="padding:0 40px 38px 40px;">
-              <div style="font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:28px; color:#555555;">
-                Amplie o uso do CRM diretamente pelo sistema e aproveite todo o potencial do módulo no dia a dia da sua equipe.
-              </div>
+            <td style="padding:0 24px 20px 24px;">
+              <img src="oportunidades.png" alt="Oportunidades no funil de vendas" width="592" style="display:block; border:1px solid #d7deea; border-radius:10px; width:100%; max-width:592px; height:auto;">
             </td>
           </tr>
 
           <tr>
-            <td align="center" style="background:#111111; padding:28px 24px;">
-              <div style="font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:22px; color:#cccccc;">
-                BomControle<br>
-                Gestão inteligente para o seu negócio
-              </div>
+            <td style="padding:0 24px 20px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f8fafc; border:1px solid #d7e0ec; border-radius:8px;">
+                <tr>
+                  <td style="padding:16px; font-size:15px; line-height:1.75; color:#1f2937;">
+                    <strong style="display:block; text-align:center; margin-bottom:6px;">Por que o CRM do BomControle acelera resultado:</strong>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Propostas personalizadas com assinatura digital<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Integração com WhatsApp, RD Station e Meetime<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Oportunidade ganha pode seguir direto para aprovação financeira<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Crie mais de um funil de vendas e personalize campos conforme sua operação<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Controle de comissão e motivos de ganho/perda<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Quando você marca ganho no CRM, pode abrir um processo no BPM com gatilho automático<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Configure gatilhos, controle temperatura do lead, crie tarefas para entrar em contato e faça follow up
+                  </td>
+                </tr>
+              </table>
             </td>
           </tr>
 
+          <tr>
+            <td align="center" style="padding:0 24px 28px 24px;">
+              <a href="https://bomcontrole.com.br/crm-gestao-de-clientes" style="display:inline-block; padding:14px 24px; border-radius:8px; background:#0f172a; color:#ffffff; text-decoration:none; font-size:16px; font-weight:bold;">Conheça o nosso CRM</a>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px 24px; border-top:1px solid #e5e7eb; background:#fcfcfd;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td align="center" style="font-size:13px; line-height:1.65; color:#64748b; padding-bottom:10px;">
+                    O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="vertical-align:top;">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                      <tr>
+                        <td style="padding:0 3px;"><a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png" alt="Instagram" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png" alt="Facebook" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/linkedin.png" alt="LinkedIn" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png" alt="X" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png" alt="YouTube" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
         </table>
       </td>
     </tr>
