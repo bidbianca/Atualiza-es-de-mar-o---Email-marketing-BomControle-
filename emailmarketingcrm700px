@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>CRM BomControle | Comparativo com layout clean v2</title>
+</head>
+<body style="margin:0; padding:0; background:#f3f6fa;">
+  <div style="display:none; max-height:0; overflow:hidden; opacity:0;">
+    Dashboard, funil de oportunidades, gatilhos e CRM integrado ao Financeiro e BPM.
+  </div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f3f6fa;">
+    <tr>
+      <td align="center" style="padding:24px 12px;">
+        <table role="presentation" width="700" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width:700px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px; overflow:hidden; font-family:Arial, Helvetica, sans-serif; color:#111827;">
+          <tr>
+            <td style="padding:22px 24px 14px 24px; border-bottom:1px solid #e5e7eb; background:#ffffff;">
+              <img src="https://lh3.googleusercontent.com/d/1yVCf4qSlGm82bBkh7Zs-1Bwuocu1BQjv" alt="BomControle" width="170" style="display:block; border:0; width:100%; max-width:170px; height:auto;">
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" style="padding:22px 24px 16px 24px; text-align:center;">
+              <span style="display:inline-block; padding:6px 12px; border-radius:999px; background:#fee600; color:#111111; font-size:12px; font-weight:bold; letter-spacing:0.2px;">Comparativo de CRM para operação comercial</span>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 10px 24px; font-size:30px; line-height:1.25; font-weight:bold; color:#0f172a; text-align:center;">
+              O CRM do BomControle é parte de um ecossistema completo
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 18px 24px; font-size:16px; line-height:1.7; color:#475569; text-align:center;">
+              Compare os diferenciais e veja como o CRM conecta sua rotina comercial com o financeiro e os processos internos para gerar mais previsibilidade.
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 12px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f8fbff; border:1px solid #dbe5f1; border-radius:10px;">
+                <tr>
+                  <td style="padding:14px; font-size:15px; line-height:1.6; color:#374151;">
+                    <strong>Dashboard do CRM:</strong> mostra a quantidade de oportunidades <strong>mornas, quentes, muito quentes e congeladas</strong>, além dos <strong>valores</strong> e das <strong>atividades realizadas</strong> para orientar sua gestão comercial.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 18px 24px;">
+              <img src="https://lh3.googleusercontent.com/d/1ROjNFGrwL5f9Ms9JpzyNpcdwOAefKL8Q" alt="Dashboard do CRM com indicadores" width="652" style="display:block; border:1px solid #d7deea; border-radius:10px; width:100%; max-width:652px; height:auto;">
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 12px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f8fbff; border:1px solid #dbe5f1; border-radius:10px;">
+                <tr>
+                  <td style="padding:14px; font-size:15px; line-height:1.6; color:#374151;">
+                    <strong>Oportunidades no funil:</strong> você pode criar <strong>mais de um funil de vendas</strong>, personalizar campos, criar gatilhos, controlar a temperatura do lead, criar tarefas para entrar em contato e fazer follow up.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 20px 24px;">
+              <img src="https://lh3.googleusercontent.com/d/1YB0OTsCI77lgEby_cV_Z3wtLvP_sVhJS" alt="Oportunidades no funil de vendas" width="652" style="display:block; border:1px solid #d7deea; border-radius:10px; width:100%; max-width:652px; height:auto;">
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 20px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f8fafc; border:1px solid #d7e0ec; border-radius:8px;">
+                <tr>
+                  <td style="padding:16px; font-size:15px; line-height:1.75; color:#1f2937;">
+                    <strong style="display:block; text-align:center; margin-bottom:6px;">Por que o CRM do BomControle acelera resultado:</strong>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Propostas personalizadas com assinatura digital<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Integração com WhatsApp, RD Station e Meetime<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Oportunidade ganha pode seguir direto para aprovação financeira<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Crie mais de um funil de vendas e personalize campos conforme sua operação<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Controle de comissão e motivos de ganho/perda<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Quando você marca ganho no CRM, pode abrir um processo no BPM com gatilho automático<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Configure gatilhos, controle temperatura do lead, crie tarefas para entrar em contato e faça follow up
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" style="padding:0 24px 28px 24px;">
+              <a href="https://bomcontrole.com.br/crm-gestao-de-clientes" style="display:inline-block; padding:14px 24px; border-radius:8px; background:#0f172a; color:#ffffff; text-decoration:none; font-size:16px; font-weight:bold;">Conheça o nosso CRM</a>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px 24px; border-top:1px solid #e5e7eb; background:#fcfcfd;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td align="center" style="font-size:13px; line-height:1.65; color:#64748b; padding-bottom:10px;">
+                    O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="vertical-align:top;">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                      <tr>
+                        <td style="padding:0 3px;"><a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png" alt="Instagram" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png" alt="Facebook" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/linkedin.png" alt="LinkedIn" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png" alt="X" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png" alt="YouTube" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
