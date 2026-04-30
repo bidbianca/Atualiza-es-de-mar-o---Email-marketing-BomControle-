@@ -83,7 +83,6 @@
               <img src="https://lh3.googleusercontent.com/d/1asy0hxu45HUDzPJh9sYdiRwW5BKgUXK0" alt="Relatório de processos com indicadores de abertos, reprovados, criados, finalizados e atrasados" style="display:block; width:100%; height:auto; border:1px solid #c8d3e1; border-radius:10px;">
             </td>
           </tr>
-
           <tr>
             <td style="padding:0 24px 20px 24px; font-size:13px; line-height:1.6; color:#4a607c;">
               <strong>Relatórios de processos:</strong> acompanhe indicadores como processos em aberto, reprovados, criados, finalizados e atrasados para entender a operação e identificar gargalos com mais facilidade.
@@ -95,7 +94,6 @@
               <img src="https://lh3.googleusercontent.com/d/120OB9kqKJW5ilN7QcF_Jtd1G-QyVZbEG" alt="Gráfico com processos em aberto" style="display:block; width:100%; height:auto; border:1px solid #c8d3e1; border-radius:10px;">
             </td>
           </tr>
-
           <tr>
             <td style="padding:0 24px 20px 24px; font-size:13px; line-height:1.6; color:#4a607c;">
               <strong>Indicadores de processos em aberto:</strong> visualize a quantidade de processos pendentes e acompanhe o volume em aberto para identificar gargalos e melhorar o controle da operação.
@@ -107,7 +105,6 @@
               <img src="https://lh3.googleusercontent.com/d/1nJLVH8Rw1U0rtiFnkqKAI0OBFPpJMFPV" alt="Processos em andamento em formato kanban com etapas personalizáveis" style="display:block; width:100%; height:auto; border:1px solid #c8d3e1; border-radius:10px;">
             </td>
           </tr>
-
           <tr>
             <td style="padding:0 24px 20px 24px; font-size:13px; line-height:1.6; color:#4a607c;">
               <strong>Visualização em Kanban:</strong> organize processos por colunas, acompanhe cada etapa e personalize a estrutura conforme a demanda da sua empresa.
@@ -181,6 +178,39 @@
               <a href="https://bomcontrole.com.br/bpm-gestao-de-processos" target="_blank" style="display:inline-block; padding:14px 24px; border-radius:8px; background:#f2dd00; color:#111827; text-decoration:none; font-size:14px; font-weight:bold;">
                 Conheça o nosso BPM
               </a>
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" style="padding:0 24px 26px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #e1e7ef;">
+                <tr>
+                  <td align="center" style="padding:18px 0 0 0;">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center">
+                      <tr>
+                        <td align="center" style="padding:0 5px;">
+                          <a href="https://www.instagram.com/bomcontrole/" target="_blank" aria-label="Instagram BomControle" style="display:inline-block; width:34px; height:34px; border-radius:50%; background:#e9eef4; border:1px solid #c8d3e1; color:#4b5563; text-decoration:none; font-size:14px; line-height:34px; font-weight:bold; text-align:center;">◎</a>
+                        </td>
+                        <td align="center" style="padding:0 5px;">
+                          <a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" aria-label="Facebook BomControle" style="display:inline-block; width:34px; height:34px; border-radius:50%; background:#e9eef4; border:1px solid #c8d3e1; color:#4b5563; text-decoration:none; font-size:16px; line-height:34px; font-weight:bold; text-align:center;">f</a>
+                        </td>
+                        <td align="center" style="padding:0 5px;">
+                          <a href="https://www.linkedin.com/company/bom-controle/" target="_blank" aria-label="LinkedIn BomControle" style="display:inline-block; width:34px; height:34px; border-radius:50%; background:#e9eef4; border:1px solid #c8d3e1; color:#4b5563; text-decoration:none; font-size:13px; line-height:34px; font-weight:bold; text-align:center;">in</a>
+                        </td>
+                        <td align="center" style="padding:0 5px;">
+                          <a href="https://x.com/BomControleERP" target="_blank" aria-label="X BomControle" style="display:inline-block; width:34px; height:34px; border-radius:50%; background:#e9eef4; border:1px solid #c8d3e1; color:#4b5563; text-decoration:none; font-size:13px; line-height:34px; font-weight:bold; text-align:center;">X</a>
+                        </td>
+                        <td align="center" style="padding:0 5px;">
+                          <a href="https://bomcontrole.com.br" target="_blank" aria-label="Site BomControle" style="display:inline-block; width:34px; height:34px; border-radius:50%; background:#e9eef4; border:1px solid #c8d3e1; color:#4b5563; text-decoration:none; font-size:12px; line-height:34px; font-weight:bold; text-align:center;">www</a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+              </table>
             </td>
           </tr>
 
