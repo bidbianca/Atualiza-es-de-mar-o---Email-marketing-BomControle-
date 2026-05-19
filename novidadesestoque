@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>BomControle | Novidades no Controle de Estoque</title>
+</head>
+<body style="margin:0; padding:0; background:#e6eaef; font-family:Arial, Helvetica, sans-serif; color:#111827;">
+  <div style="display:none; max-height:0; overflow:hidden; opacity:0;">
+    O controle de estoque do BomControle foi atualizado: variação de produto e markup para mais margem, mais controle e mais agilidade.
+  </div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#e6eaef;">
+    <tr>
+      <td align="center" style="padding:24px 12px;">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width:600px; background:#ffffff; border:1px solid #d4dce6; border-radius:14px; overflow:hidden;">
+
+          <tr>
+            <td style="padding:22px 26px; border-bottom:1px solid #e1e7ef; background:#ffffff;">
+              <img src="https://lh3.googleusercontent.com/d/1yVCf4qSlGm82bBkh7Zs-1Bwuocu1BQjv" alt="BomControle" width="170" style="display:block; border:0; width:100%; max-width:170px; height:auto;">
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:24px 34px 8px 34px; text-align:center;">
+              <span style="display:inline-flex; align-items:center; justify-content:center; gap:14px; font-size:30px; line-height:1.2; font-weight:700; color:#0a1f44;">
+                <span style="text-decoration:underline; text-decoration-color:#fee600; text-decoration-thickness:3px; text-underline-offset:4px;">Módulo Estoque</span>
+                <img src="https://lh3.googleusercontent.com/d/1cJ42yLuVWagMPpkhMZBQnfcUPyarCRfE" alt="Símbolo do módulo de estoque" width="32" height="32" style="display:block; border:0; width:32px; height:32px;">
+              </span>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:8px 34px 20px 34px; font-size:16px; line-height:1.65; color:#2f4868; text-align:center;">
+              Sabemos que você avaliou o BomControle no passado e faltou alguma funcionalidade para o seu momento.
+              Agora o nosso módulo de estoque evoluiu e pode atender melhor sua operação.
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 12px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#e9eef4; border:1px solid #c8d3e1; border-radius:10px;">
+                <tr>
+                  <td style="padding:16px; font-size:15px; line-height:1.65; color:#1f3656;">
+                    <strong>Novidade 1: Variação de produto</strong><br>
+                    Cadastre um item com diferentes tamanhos, cores, modelos ou qualquer atributo importante para o seu negócio. Você ganha rastreabilidade por variação, evita confusão no picking e melhora a acuracidade do estoque.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 12px 24px;">
+              <img src="https://lh3.googleusercontent.com/d/14STWgsBko7tPafBqtlan32HF7_W1ZPef" alt="Variação de produto no módulo de estoque" style="display:block; width:100%; height:auto; border:1px solid #c8d3e1; border-radius:10px;">
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 12px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#e9eef4; border:1px solid #c8d3e1; border-radius:10px;">
+                <tr>
+                  <td style="padding:16px; font-size:15px; line-height:1.65; color:#1f3656;">
+                    <strong>Novidade 2: Markup no estoque</strong><br>
+                    Defina regras de markup para formar preço com mais consistência. Com isso, sua operação reduz erro manual, protege margem e acelera a decisão comercial no dia a dia.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 12px 24px;">
+              <img src="https://lh3.googleusercontent.com/d/1TSN8yCGlHNiLxV-upQ5Omawe3olwFEpT" alt="Markup no módulo de estoque" style="display:block; width:100%; height:auto; border:1px solid #c8d3e1; border-radius:10px;">
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 12px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#e9eef4; border:1px solid #c8d3e1; border-radius:10px;">
+                <tr>
+                  <td style="padding:16px; font-size:15px; line-height:1.65; color:#1f3656;">
+                    <strong>Novidade 3: Tabela de preço</strong><br>
+                    Crie e gerencie tabelas de preço para diferentes perfis de cliente, canais ou campanhas. Assim, sua equipe comercial ganha agilidade nas negociações sem perder o controle da margem.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 12px 24px;">
+              <img src="https://lh3.googleusercontent.com/d/1OugJGhZ18pMlx8Xsm_uLbda0qGb--gwR" alt="Tabela de preço no módulo de estoque" style="display:block; width:100%; height:auto; border:1px solid #c8d3e1; border-radius:10px;">
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 12px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#e9eef4; border:1px solid #c8d3e1; border-radius:10px;">
+                <tr>
+                  <td style="padding:16px; font-size:15px; line-height:1.65; color:#1f3656;">
+                    <strong>Outras funcionalidades que fortalecem a operação</strong><br>
+                    Além das novidades, você também conta com Integração SEFAZ para captura automática de documentos fiscais, controle de lote e validade, processo de compra com cotações, estoque satélite e transferência entre estoques.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 12px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f8fafc; border:1px solid #d7e0ea; border-radius:10px;">
+                <tr>
+                  <td style="padding:16px; font-size:15px; line-height:1.7; color:#1f3656;">
+                    <strong style="display:block; text-align:center; margin-bottom:8px; color:#0a1f44;">Benefícios diretos para sua operação:</strong>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Mais controle dos itens e suas variações em um único cadastro<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Redução de ruptura e excesso com melhor visibilidade do saldo<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Formação de preço mais rápida e padronizada com markup<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Mais flexibilidade comercial com tabela de preço por perfil de venda<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Mais agilidade para faturar, separar e reabastecer com segurança<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Menos retrabalho com documentos fiscais capturados automaticamente via SEFAZ<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Melhor giro com controle de lote e validade por vencimento<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Reposição inteligente com processo de compra e comparação de fornecedores<br>
+                    <span style="display:inline-block; width:18px; color:#fee600; font-weight:bold;">&#9679;</span> Mais controle logístico com estoque satélite e transferência entre unidades
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 24px 20px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#e9eef4; border:1px solid #c8d3e1; border-radius:10px;">
+                <tr>
+                  <td style="padding:18px; font-size:15px; line-height:1.7; color:#1f3656; text-align:center;">
+                    <strong style="display:block; font-size:17px; margin-bottom:6px; color:#0a1f44;">Seu estoque pode trabalhar a favor do crescimento.</strong>
+                    Com as novas funcionalidades do BomControle, você opera com mais precisão, velocidade e previsibilidade.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" style="padding:0 24px 28px 24px;">
+              <a href="https://bomcontrole.com.br/controle-de-estoque" target="_blank" style="display:inline-block; padding:14px 24px; border-radius:8px; background:#f2dd00; color:#111827; text-decoration:none; font-size:14px; font-weight:bold;">
+                Conhecer novidades do estoque
+              </a>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px 24px; border-top:1px solid #e5e7eb; background:#fcfcfd;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td align="center" style="font-size:13px; line-height:1.65; color:#64748b; padding-bottom:10px;">
+                    O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="vertical-align:top;">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                      <tr>
+                        <td style="padding:0 3px;"><a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png" alt="Instagram" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png" alt="Facebook" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/linkedin.png" alt="LinkedIn" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png" alt="X" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png" alt="YouTube" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
