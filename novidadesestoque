@@ -21,14 +21,14 @@
               <img src="https://lh3.googleusercontent.com/d/1tT9Bw8fyhlRKd6iNVocmbwGzncfzO1gg" alt="BomControle" width="170" style="display:block; border:0; width:100%; max-width:170px; height:auto;">
             </td>
           </tr>
-
-          <tr>
-            <td style="padding:24px 34px 8px 34px; text-align:center;">
-              <span style="display:inline-flex; align-items:center; justify-content:center; gap:14px; font-size:30px; line-height:1.2; font-weight:700; color:#0a1f44;">
-                <span style="text-decoration:underline; text-decoration-color:#fee600; text-decoration-thickness:3px; text-underline-offset:4px;">Módulo Estoque</span>
-                <img src="https://lh3.googleusercontent.com/d/1_S3Lk2JTsS1IvA68zSbKAMKLpKPp2XU7" alt="Símbolo do módulo de estoque" width="32" height="32" style="display:block; border:0; width:32px; height:32px;">
-              </span>
-            </td>
+<tr>
+  <td style="padding:24px 34px 8px 34px; text-align:center;">
+    <span style="display:inline-flex; align-items:center; justify-content:center; gap:14px; font-size:30px; line-height:1.2; font-weight:700; color:#0a1f44;">
+    <span style="display:inline-flex; align-items:center; justify-content:center; gap:22px; font-size:30px; line-height:1.2; font-weight:700; color:#0a1f44;">
+      <span style="text-decoration:underline; text-decoration-color:#fee600; text-decoration-thickness:3px; text-underline-offset:4px;">Módulo Estoque</span>
+      <img src="https://lh3.googleusercontent.com/d/1_S3Lk2JTsS1IvA68zSbKAMKLpKPp2XU7" alt="Símbolo do módulo de estoque" width="32" height="32" style="display:block; border:0; width:32px; height:32px;">
+    </span>
+  </td>
           </tr>
 
           <tr>
