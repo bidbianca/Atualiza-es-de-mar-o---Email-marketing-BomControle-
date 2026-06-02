@@ -14,19 +14,33 @@
   <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#f6f6f6;margin:0;padding:0;">
     <tr>
       <td align="center" style="padding:24px 12px;">
-        <table role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" style="width:100%;max-width:600px;background:#ffffff;border-radius:20px;overflow:hidden;">
+        <table role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" style="width:100%;max-width:600px;background:#ffffff;border-radius:20px;overflow:hidden;border:1px solid #e9edf3;box-shadow:0 10px 26px rgba(17,17,17,0.06);">
           <tr>
-            <td style="padding:22px 26px; border-bottom:1px solid #e1e7ef; background:#ffffff;">
+            <td style="padding:22px 26px 12px 26px; border-bottom:1px solid #e1e7ef; background:#ffffff;">
               <img src="https://lh3.googleusercontent.com/d/1tT9Bw8fyhlRKd6iNVocmbwGzncfzO1gg" alt="BomControle" width="170" style="display:block; border:0; width:100%; max-width:170px; height:auto;">
             </td>
           </tr>
 
           <tr>
             <td style="padding:0 24px; background:#ffffff;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#fee600; border:1px solid #e7d300; border-radius:12px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#fee600; border:1px solid #e7d300; border-radius:16px;">
                 <tr>
-                  <td style="padding:24px 16px; text-align:center; color:#0a1f44; font-size:17px; line-height:1.45; font-weight:700;">
-                    <strong style="font-size:30px; font-weight:900; display:block; margin-bottom:0;">PROMOÇÃO DE ARRAIÁ</strong>
+                  <td style="padding:22px 18px 22px 18px; text-align:center; color:#111111; font-size:17px; line-height:1.45; font-weight:700;">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto 12px auto;">
+                      <tr>
+                        <td style="font-size:16px;line-height:1;color:#111111;padding:0 3px;">▲</td>
+                        <td style="font-size:16px;line-height:1;color:#ffffff;padding:0 3px;">▼</td>
+                        <td style="font-size:16px;line-height:1;color:#111111;padding:0 3px;">▲</td>
+                        <td style="font-size:16px;line-height:1;color:#ffffff;padding:0 3px;">▼</td>
+                        <td style="font-size:16px;line-height:1;color:#111111;padding:0 3px;">▲</td>
+                        <td style="font-size:16px;line-height:1;color:#ffffff;padding:0 3px;">▼</td>
+                        <td style="font-size:16px;line-height:1;color:#111111;padding:0 3px;">▲</td>
+                        <td style="font-size:16px;line-height:1;color:#ffffff;padding:0 3px;">▼</td>
+                        <td style="font-size:16px;line-height:1;color:#111111;padding:0 3px;">▲</td>
+                      </tr>
+                    </table>
+                    <strong style="font-size:30px; font-weight:900; display:block; margin-bottom:6px;">PROMOÇÃO DE ARRAIÁ</strong>
+                    <span style="display:block;font-size:15px;line-height:1.5;">Plano Suite para novos clientes com presente especial</span>
                   </td>
                 </tr>
               </table>
@@ -35,13 +49,44 @@
 
           <tr>
             <td style="padding:30px 28px 10px;background:#ffffff;">
-              <p style="margin:0 0 18px;font-size:16px;line-height:1.65;color:#222222;text-align:center;">Chegou uma oportunidade para sua empresa crescer com mais organização e agilidade. No <strong>Arraiá BomControle</strong>, novos clientes que contratarem o <strong>Plano Suite</strong> ganham <strong>WhatsApp por 12 meses</strong>.</p>
-              <p style="margin:0 0 22px;text-align:center;"><a href="https://bomcontrole.com.br/demonstracao" target="_blank" style="display:inline-block;background:#111111;color:#ffdf00;text-decoration:none;font-weight:900;font-size:16px;line-height:1;padding:17px 28px;border-radius:999px;">Quero conhecer o Plano Suite</a></p>
+              <p style="margin:0 0 14px;text-align:center;">
+                <a href="https://bomcontrole.com.br/demonstracao" target="_blank" style="display:inline-block;background:#111111;color:#ffdf00;text-decoration:none;font-weight:900;font-size:14px;line-height:1;padding:13px 22px;border-radius:999px;">Quero conhecer o Plano Suite</a>
+              </p>
+              <p style="margin:0 0 18px;font-size:16px;line-height:1.65;color:#222222;text-align:center;">
+                Chegou uma oportunidade para sua empresa crescer com mais organização e agilidade. No <strong>Arraiá BomControle</strong>, novos clientes que contratarem o <strong>Plano Suite</strong> ganham <strong>WhatsApp por 12 meses</strong>. É o empurrãozinho que faltava para sua gestão dançar no ritmo certo.
+              </p>
+
               <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#111111;border-radius:18px;">
                 <tr>
-                  <td style="padding:24px 22px;text-align:center;">
-                    <div style="font-size:15px;color:#ffdf00;font-weight:800;text-transform:uppercase;letter-spacing:.4px;">Oferta por tempo limitado</div>
+                  <td style="padding:22px 22px;text-align:center;">
+                    <div style="font-size:15px;color:#ffdf00;font-weight:800;text-transform:uppercase;letter-spacing:.4px;">Presente do arraiá</div>
                     <div style="font-size:30px;line-height:1.2;color:#ffffff;font-weight:900;margin-top:6px;">WhatsApp grátis por 12 meses</div>
+                    <div style="font-size:14px;line-height:1.5;color:#d9d9d9;margin-top:8px;">Para conversar, vender, cobrar e atender melhor.</div>
+                  </td>
+                </tr>
+              </table>
+
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin:18px 0 0 0;background:#fffdf1;border:1px dashed #fee600;border-radius:14px;">
+                <tr>
+                  <td style="padding:12px 14px;text-align:center;font-size:14px;line-height:1.5;color:#333333;">
+                    <strong style="color:#111111;">Na barraca do Suite tem:</strong> atendimento mais ágil, processos integrados e comunicação centralizada.
+                  </td>
+                </tr>
+              </table>
+
+              <p style="margin:22px 0 0;text-align:center;">
+                <a href="https://bomcontrole.com.br/demonstracao" target="_blank" style="display:inline-block;background:#111111;color:#ffdf00;text-decoration:none;font-weight:900;font-size:16px;line-height:1;padding:17px 28px;border-radius:999px;">Quero conhecer o Plano Suite</a>
+              </p>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px 28px 4px;background:#ffffff;">
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#fffdf1;border:1px dashed #fee600;border-radius:16px;">
+                <tr>
+                  <td style="padding:16px 18px;">
+                    <h2 style="margin:0 0 10px;font-size:22px;line-height:1.3;color:#111111;">O caminho da quadrilha fica mais simples com tudo centralizado</h2>
+                    <p style="margin:0;font-size:15px;line-height:1.6;color:#333333;">Enquanto outras soluções resolvem partes da operação, o BomControle Suite reúne os módulos essenciais em uma plataforma completa.</p>
                   </td>
                 </tr>
               </table>
@@ -49,17 +94,46 @@
           </tr>
 
           <tr>
-            <td style="padding:18px 28px 4px;">
-              <h2 style="margin:0 0 12px;font-size:23px;line-height:1.3;color:#111111;">Com o Suite, sua empresa tem acesso a todos os módulos e deixa tudo centralizado</h2>
-              <p style="margin:0 0 18px;font-size:15px;line-height:1.6;color:#333333;">Enquanto outras soluções resolvem partes da operação, o BomControle Suite centraliza sua gestão em uma plataforma completa.</p>
-
+            <td style="padding:14px 28px 4px;background:#ffffff;">
               <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
                 <tr>
-                  <td width="50%" valign="top" style="padding:0 8px 10px 0;">
-                    <div style="background:#fff7bf;border:1px solid #ffe64d;border-radius:14px;padding:14px 14px;font-size:15px;line-height:1.45;color:#111111;">✅ Financeiro<br>✅ Vendas<br>✅ Estoque</div>
+                  <td width="33.33%" valign="top" style="padding:0 5px 10px 0;">
+                    <div style="background:#fff7bf;border:1px solid #ffe64d;border-radius:14px;padding:13px 10px;font-size:14px;line-height:1.45;color:#111111;text-align:center;">
+                      <div style="font-size:20px;line-height:1;margin-bottom:6px;">🌽</div>
+                      <strong>Financeiro</strong><br>mais controle
+                    </div>
                   </td>
-                  <td width="50%" valign="top" style="padding:0 0 10px 8px;">
-                    <div style="background:#fff7bf;border:1px solid #ffe64d;border-radius:14px;padding:14px 14px;font-size:15px;line-height:1.45;color:#111111;">✅ CRM<br>✅ Service Desk<br>✅ BPM</div>
+                  <td width="33.33%" valign="top" style="padding:0 5px 10px 5px;">
+                    <div style="background:#fff7bf;border:1px solid #ffe64d;border-radius:14px;padding:13px 10px;font-size:14px;line-height:1.45;color:#111111;text-align:center;">
+                      <div style="font-size:20px;line-height:1;margin-bottom:6px;">🧺</div>
+                      <strong>Vendas</strong><br>mais agilidade
+                    </div>
+                  </td>
+                  <td width="33.33%" valign="top" style="padding:0 0 10px 5px;">
+                    <div style="background:#fff7bf;border:1px solid #ffe64d;border-radius:14px;padding:13px 10px;font-size:14px;line-height:1.45;color:#111111;text-align:center;">
+                      <div style="font-size:20px;line-height:1;margin-bottom:6px;">📦</div>
+                      <strong>Estoque</strong><br>mais precisão
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="33.33%" valign="top" style="padding:0 5px 10px 0;">
+                    <div style="background:#fff7bf;border:1px solid #ffe64d;border-radius:14px;padding:13px 10px;font-size:14px;line-height:1.45;color:#111111;text-align:center;">
+                      <div style="font-size:20px;line-height:1;margin-bottom:6px;">🎯</div>
+                      <strong>CRM</strong><br>mais conversão
+                    </div>
+                  </td>
+                  <td width="33.33%" valign="top" style="padding:0 5px 10px 5px;">
+                    <div style="background:#fff7bf;border:1px solid #ffe64d;border-radius:14px;padding:13px 10px;font-size:14px;line-height:1.45;color:#111111;text-align:center;">
+                      <div style="font-size:20px;line-height:1;margin-bottom:6px;">🎟️</div>
+                      <strong>Service Desk</strong><br>mais atendimento
+                    </div>
+                  </td>
+                  <td width="33.33%" valign="top" style="padding:0 0 10px 5px;">
+                    <div style="background:#fff7bf;border:1px solid #ffe64d;border-radius:14px;padding:13px 10px;font-size:14px;line-height:1.45;color:#111111;text-align:center;">
+                      <div style="font-size:20px;line-height:1;margin-bottom:6px;">🔥</div>
+                      <strong>BPM</strong><br>mais processo
+                    </div>
                   </td>
                 </tr>
               </table>
@@ -67,8 +141,20 @@
           </tr>
 
           <tr>
-            <td style="padding:14px 28px 6px;">
-              <h2 style="margin:0 0 14px;font-size:23px;line-height:1.3;color:#111111;">O que o WhatsApp no BomControle ajuda a fazer?</h2>
+            <td align="center" style="padding:8px 28px 2px 28px;background:#ffffff;">
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tr>
+                  <td style="border-top:1px dashed #d9dde5;font-size:1px;line-height:1px;">&nbsp;</td>
+                  <td width="96" align="center" style="font-size:17px;line-height:1;color:#111111;">▲ 🔥 ▲</td>
+                  <td style="border-top:1px dashed #d9dde5;font-size:1px;line-height:1px;">&nbsp;</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:14px 28px 6px;background:#ffffff;">
+              <h2 style="margin:0 0 14px;font-size:23px;line-height:1.3;color:#111111;">Com WhatsApp integrado, sua equipe ganha ritmo</h2>
               <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
                 <tr><td style="padding:10px 0;border-bottom:1px solid #eeeeee;font-size:15px;line-height:1.5;">💬 Enviar faturamento, aviso de vencimento e cobrança por WhatsApp</td></tr>
                 <tr><td style="padding:10px 0;border-bottom:1px solid #eeeeee;font-size:15px;line-height:1.5;">💬 Usar um único número para toda a equipe e organizar filas de atendimento</td></tr>
@@ -79,11 +165,18 @@
           </tr>
 
           <tr>
-            <td align="center" style="padding:24px 28px 34px;">
+            <td align="center" style="padding:24px 28px 34px;background:#ffffff;">
+              <p style="margin:0 0 14px;text-align:center;font-size:18px;line-height:1;color:#fee600;letter-spacing:2px;">
+                ▲ <span style="color:#111111;">▲</span> ▲ <span style="color:#111111;">▲</span> ▲
+              </p>
+              <p style="margin:0 0 14px;font-size:15px;line-height:1.5;color:#333333;text-align:center;">
+                O arraiá está montado. Agora é só chamar um especialista e aproveitar a condição especial.
+              </p>
               <a href="https://bomcontrole.com.br/demonstracao" target="_blank" style="display:inline-block;background:#111111;color:#ffdf00;text-decoration:none;font-weight:900;font-size:16px;line-height:1;padding:17px 28px;border-radius:999px;">Quero conhecer o Plano Suite</a>
               <p style="margin:16px 0 0;font-size:12px;line-height:1.5;color:#666666;">Promoção especial do Arraiá BomControle. Consulte condições.</p>
             </td>
           </tr>
+          
           <tr>
             <td style="padding:20px 24px; border-top:1px solid #e5e7eb; background:#fcfcfd;">
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -101,6 +194,7 @@
                         <td style="padding:0 3px;"><a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/linkedin.png" alt="LinkedIn" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
                         <td style="padding:0 3px;"><a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png" alt="X" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
                         <td style="padding:0 3px;"><a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png" alt="YouTube" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+
                       </tr>
                     </table>
                   </td>
@@ -108,6 +202,7 @@
               </table>
             </td>
           </tr>
+
         </table>
       </td>
     </tr>
