@@ -2,122 +2,88 @@
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Arraiá BomControle</title>
-  <style>
-    /* RD Station/email safe: estrutura em tabelas + CSS simples */
-    body { margin:0; padding:0; background:#fff6ed; font-family: Arial, Helvetica, sans-serif; color:#111111; }
-    table { border-collapse:collapse; }
-    img { border:0; outline:none; text-decoration:none; display:block; max-width:100%; height:auto; }
-    a { text-decoration:none; }
-    .wrapper { width:100%; background:#fff6ed; padding:0; }
-    .container { width:600px; max-width:600px; background:#fffaf5; }
-    .px { padding-left:28px; padding-right:28px; }
-    .headline { font-size:34px; line-height:40px; font-weight:800; margin:0; color:#111111; }
-    .text { font-size:17px; line-height:25px; margin:0; color:#333333; }
-    .small { font-size:13px; line-height:18px; color:#666666; }
-    .button { background:#ffd200; color:#111111; font-size:18px; font-weight:800; border-radius:999px; padding:16px 34px; display:inline-block; }
-    .pill { background:#ffd200; border-radius:999px; padding:10px 18px; font-size:14px; font-weight:800; display:inline-block; color:#111111; }
-    .card { background:#ffffff; border:2px solid #ffd200; border-radius:18px; }
-    .module { font-size:13px; line-height:16px; color:#111111; font-weight:700; }
-    @media only screen and (max-width: 620px) {
-      .container { width:100% !important; }
-      .px { padding-left:18px !important; padding-right:18px !important; }
-      .headline { font-size:28px !important; line-height:34px !important; }
-      .text { font-size:16px !important; line-height:23px !important; }
-      .stack { display:block !important; width:100% !important; }
-      .center-mobile { text-align:center !important; }
-      .hide-mobile { display:none !important; }
-    }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="x-apple-disable-message-reformatting">
+  <title>BomControle Suite - 12 meses de WhatsApp grátis</title>
 </head>
-
-<body>
-  <!-- Preheader oculto -->
-  <div style="display:none; max-height:0; overflow:hidden; opacity:0; color:transparent;">
-    Promoção por tempo limitado: contrate o plano Suite e ganhe WhatsApp grátis por 12 meses.
+<body style="margin:0;padding:0;background:#fff7cf;font-family:Arial, Helvetica, sans-serif;color:#111111;">
+  <div style="display:none;font-size:1px;color:#fff7cf;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden;">
+    Promoção para novos clientes: contrate o Plano Suite e ganhe 12 meses de WhatsApp grátis.
   </div>
 
-  <table role="presentation" class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#fff7cf;margin:0;padding:0;">
     <tr>
-      <td align="center">
+      <td align="center" style="padding:18px 10px;">
+        <table role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" style="width:100%;max-width:600px;background:#ffffff;border-radius:18px;overflow:hidden;border:1px solid #f0d94a;box-shadow:0 10px 24px rgba(17,17,17,0.08);">
 
-        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0">
-          <!-- HERO / ARTE PRINCIPAL -->
           <tr>
-            <td align="center" style="padding:0;">
-              <!-- Suba a imagem anexa no RD e troque a URL abaixo pela URL pública da imagem -->
-              <a href="{{URL_CTA}}" target="_blank">
-                <img src="https://lh3.googleusercontent.com/d/1BqyABQXauIK27we8M1ODUzxeLZvW2uYD" width="600" alt="Arraiá BomControle: contrate o plano Suite e ganhe WhatsApp grátis por 12 meses" style="width:600px; max-width:100%;">
+            <td style="padding:0;background:#ffffff;">
+              <img src="https://lh3.googleusercontent.com/d/1BqyABQXauIK27we8M1ODUzxeLZvW2uYD" alt="BomControle" width="600" style="display:block;border:0;width:100%;max-width:600px;height:auto;">
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" style="padding:18px 24px 20px 24px;background:#111111;">
+              <div style="font-size:13px;line-height:1.4;color:#ffdf00;font-weight:800;text-transform:uppercase;letter-spacing:.4px;margin-bottom:10px;">
+                Oferta exclusiva para novos clientes
+              </div>
+              <a href="https://bomcontrole.com.br/demonstracao" target="_blank" style="display:inline-block;background:#ffdf00;color:#111111;text-decoration:none;font-weight:900;font-size:16px;line-height:1;padding:15px 28px;border-radius:999px;">
+                Quero aproveitar a promoção
               </a>
             </td>
           </tr>
 
-          <!-- CHAMADA CURTA -->
           <tr>
-            <td class="px" align="center" style="padding-top:24px; padding-bottom:8px;">
-              <span class="pill">🔥 Oferta por tempo limitado</span>
-            </td>
-          </tr>
-          <tr>
-            <td class="px center-mobile" align="center" style="padding-top:8px; padding-bottom:10px;">
-              <h1 class="headline">Seu negócio mais produtivo em um só sistema</h1>
-            </td>
-          </tr>
-          <tr>
-            <td class="px" align="center" style="padding-bottom:24px;">
-              <p class="text">Na contratação do <strong>Plano Suite</strong>, o WhatsApp sai grátis por <strong>12 meses</strong>.</p>
+            <td style="padding:24px 20px 10px 20px;background:#fff7cf;">
+              <img src="https://lh3.googleusercontent.com/d/1qB2HljVN546QHrEYJ9zE5AbFB3oKrcXY" alt="Promoção: contrate o Plano Suite e ganhe 12 meses de WhatsApp grátis" width="560" style="display:block;border:0;width:100%;max-width:560px;height:auto;border-radius:14px;">
             </td>
           </tr>
 
-          <!-- IMAGEM 2 / BANNER WHATSAPP -->
           <tr>
-            <td class="px" align="center" style="padding-bottom:22px;">
-              <a href="{{URL_CTA}}" target="_blank">
-                <img src="{{URL_IMAGEM_WHATSAPP_BONUS}}" width="544" alt="WhatsApp grátis por 12 meses no Plano Suite" style="width:544px; max-width:100%; border-radius:18px;">
-              </a>
-            </td>
-          </tr>
-
-          <!-- BOTAO PRINCIPAL -->
-          <tr>
-            <td align="center" style="padding:4px 28px 30px;">
-              <a class="button" href="{{URL_CTA}}" target="_blank">Quero aproveitar a promoção</a>
-            </td>
-          </tr>
-
-          <!-- IMAGEM 3 / COMPARATIVO VISUAL DOS PLANOS -->
-          <tr>
-            <td class="px" align="center" style="padding-bottom:14px;">
-              <a href="{{URL_CTA}}" target="_blank">
-                <img src="{{URL_IMAGEM_PLANOS_CORE_GESTAO_SUITE}}" width="544" alt="Planos BomControle: Core, Gestão e Suite" style="width:544px; max-width:100%; border-radius:18px;">
-              </a>
-            </td>
-          </tr>
-
-          <!-- BLOCO VISUAL fallback caso a imagem de planos não seja usada -->
-          <tr>
-            <td class="px" style="padding-bottom:24px;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" class="card">
+            <td style="padding:10px 24px 18px 24px;background:#fff7cf;">
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#ffffff;border-radius:14px;border:1px solid #f2df65;">
                 <tr>
-                  <td style="padding:18px;">
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+                  <td align="center" style="padding:14px 16px;font-size:14px;line-height:1.6;color:#333333;">
+                    <strong style="color:#111111;">Core e Gestão:</strong> Financeiro, Vendas e Estoque<br>
+                    <strong style="color:#111111;">Suite:</strong> Financeiro, Vendas, Estoque, ServiceDesk, CRM e BPM
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 20px 8px 20px;background:#fff7cf;">
+              <img src="https://lh3.googleusercontent.com/d/1NemeX7UIEX_czopxCEPWC5zBcLtOjmWU" alt="Planos BomControle: Core, Gestão e Suite" width="560" style="display:block;border:0;width:100%;max-width:560px;height:auto;border-radius:14px;">
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" style="padding:18px 24px 26px 24px;background:#fff7cf;">
+              <a href="https://bomcontrole.com.br/demonstracao" target="_blank" style="display:inline-block;background:#ffdf00;color:#111111;text-decoration:none;font-weight:900;font-size:16px;line-height:1;padding:16px 30px;border-radius:999px;border:2px solid #111111;">
+                Falar com um especialista
+              </a>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px 24px; border-top:1px solid #e5e7eb; background:#fcfcfd;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td align="center" style="font-size:13px; line-height:1.65; color:#64748b; padding-bottom:10px;">
+                    O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="vertical-align:top;">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0">
                       <tr>
-                        <td class="stack" width="33%" align="center" style="padding:10px;">
-                          <div style="font-size:24px;">💰 🛒 📦</div>
-                          <div style="font-size:18px; font-weight:800; margin-top:8px;">Core</div>
-                          <div class="module">Financeiro<br>Vendas<br>Estoque</div>
-                        </td>
-                        <td class="stack" width="33%" align="center" style="padding:10px; border-left:1px solid #f1d77c; border-right:1px solid #f1d77c;">
-                          <div style="font-size:24px;">💰 🛒 📦</div>
-                          <div style="font-size:18px; font-weight:800; margin-top:8px;">Gestão</div>
-                          <div class="module">Financeiro<br>Vendas<br>Estoque</div>
-                        </td>
-                        <td class="stack" width="33%" align="center" style="padding:10px; background:#fff4bf; border-radius:14px;">
-                          <div style="font-size:24px;">💬 🤝 ⚙️</div>
-                          <div style="font-size:18px; font-weight:900; margin-top:8px;">Suite</div>
-                          <div class="module">+ Service Desk<br>+ CRM<br>+ BPM</div>
-                        </td>
+                        <td style="padding:0 3px;"><a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png" alt="Instagram" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png" alt="Facebook" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/linkedin.png" alt="LinkedIn" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png" alt="X" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png" alt="YouTube" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+
                       </tr>
                     </table>
                   </td>
@@ -126,57 +92,7 @@
             </td>
           </tr>
 
-          <!-- IMAGEM 4 / MODULOS -->
-          <tr>
-            <td class="px" align="center" style="padding-bottom:22px;">
-              <a href="{{URL_CTA}}" target="_blank">
-                <img src="{{URL_IMAGEM_MODULOS_SUITE}}" width="544" alt="Plano Suite com financeiro, vendas, estoque, service desk, CRM e BPM" style="width:544px; max-width:100%; border-radius:18px;">
-              </a>
-            </td>
-          </tr>
-
-          <!-- TEXTO CURTO + CTA SECUNDARIO -->
-          <tr>
-            <td class="px" align="center" style="padding-top:4px; padding-bottom:14px;">
-              <p class="text"><strong>Mais produtividade, atendimento e gestão</strong><br>em uma única plataforma.</p>
-            </td>
-          </tr>
-          <tr>
-            <td align="center" style="padding:8px 28px 32px;">
-              <a class="button" href="{{URL_CTA}}" target="_blank">Falar com um consultor</a>
-            </td>
-          </tr>
-
-          <!-- IMAGEM 5 / RODAPE FESTIVO -->
-          <tr>
-            <td align="center" style="padding:0 28px 22px;">
-              <img src="{{URL_IMAGEM_RODAPE_FESTIVO}}" width="544" alt="BomControle" style="width:544px; max-width:100%;">
-            </td>
-          </tr>
-
-          <!-- OBSERVACOES LEGAIS -->
-          <tr>
-            <td class="px" align="center" style="padding-bottom:28px;">
-              <p class="small">
-                Promoção válida por tempo limitado para novas contratações do Plano Suite.
-                Consulte condições comerciais com o time BomControle.
-              </p>
-            </td>
-          </tr>
-
-          <!-- FOOTER -->
-          <tr>
-            <td align="center" style="background:#111111; padding:22px 28px;">
-              <p style="margin:0; font-size:13px; line-height:18px; color:#ffffff;">
-                BomControle<br>
-                <a href="{{URL_SITE}}" target="_blank" style="color:#ffd200;">Acesse nosso site</a>
-                &nbsp;|&nbsp;
-                <a href="{{unsubscribe}}" target="_blank" style="color:#ffd200;">Descadastrar</a>
-              </p>
-            </td>
-          </tr>
         </table>
-
       </td>
     </tr>
   </table>
