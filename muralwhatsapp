@@ -1,0 +1,62 @@
+```html
+<div style="font-family: Arial, Helvetica, sans-serif; max-width: 900px; margin: 0 auto; background: #ffffff; border-radius: 18px; overflow: hidden; border: 2px solid #fee600; box-shadow: 0 4px 14px rgba(0,0,0,0.10);">
+
+  <!-- Imagem principal -->
+  <div style="text-align: center; background: #ffffff;">
+    <img 
+      src="https://lh3.googleusercontent.com/d/1BqyABQXauIK27we8M1ODUzxeLZvW2uYD" 
+      alt="Promoção de Arraiá BomControle" 
+      style="width: 100%; max-width: 900px; display: block;"
+    >
+  </div>
+
+  <!-- Conteúdo -->
+  <div style="padding: 30px 24px; text-align: center; color: #000000; background: #ffffff;">
+
+    <h1 style="margin: 0 0 14px; font-size: 32px; color: #000000; font-weight: 800;">
+      Promoção de Arraiá BomControle
+    </h1>
+
+    <div style="width: 90px; height: 6px; background: #fee600; border-radius: 20px; margin: 0 auto 22px;"></div>
+
+    <p style="font-size: 21px; line-height: 1.5; margin: 0 0 18px; color: #000000;">
+      Migre para o <strong>Plano Suíte</strong> e ganhe 
+      <strong>WhatsApp gratuito por 12 meses</strong>.
+    </p>
+
+    <div style="background: #fee600; color: #000000; padding: 16px 22px; border-radius: 14px; display: inline-block; margin: 10px 0 22px; font-weight: 800;">
+      <span style="font-size: 22px;">Oferta exclusiva para o mês de junho</span>
+    </div>
+
+    <p style="font-size: 17px; line-height: 1.5; margin: 0 auto 24px; color: #222222; max-width: 680px;">
+      Aproveite essa oportunidade por tempo limitado para evoluir seu plano e contar com ainda mais recursos para a gestão do seu negócio.
+    </p>
+
+    <!-- Segunda imagem substituída -->
+    <div style="margin-top: 16px; text-align: center; background: #ffffff;">
+      <img 
+        src="https://lh3.googleusercontent.com/d/1xuVqGfvoEqGdNk5K0AYVE1pZs16yv4rP" 
+        alt="Arte complementar da promoção de Arraiá BomControle" 
+        style="width: 100%; max-width: 360px; display: block; margin: 0 auto; background: #ffffff;"
+      >
+    </div>
+
+    <!-- Imagem adicional -->
+    <div style="margin-top: 18px; text-align: center; background: #ffffff;">
+      <img 
+        src="https://lh3.googleusercontent.com/d/1yHedo34E6HAx6Dva0GR2U1j97HDmibqu" 
+        alt="Arte adicional da promoção BomControle" 
+        style="width: 100%; max-width: 360px; display: block; margin: 0 auto; background: #ffffff;"
+      >
+    </div>
+
+    <!-- Chamada final -->
+    <div style="margin: 28px auto 0; padding: 18px 20px; background: #f7f7f7; border-radius: 14px; border-left: 6px solid #fee600; max-width: 680px;">
+      <p style="font-size: 18px; margin: 0; color: #000000; font-weight: 700;">
+        Fale com nossa equipe e confira as condições da promoção.
+      </p>
+    </div>
+
+  </div>
+</div>
+```
