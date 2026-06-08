@@ -1,12 +1,12 @@
 ```html
-<div style="font-family: Arial, Helvetica, sans-serif; max-width: 900px; margin: 0 auto; background: #FEFAF5; border-radius: 18px; overflow: hidden; border: 2px solid #fee600; box-shadow: 0 4px 14px rgba(0,0,0,0.10);">
+<div style="font-family: Arial, Helvetica, sans-serif; max-width: 680px; margin: 0 auto; background: #FEFAF5; border-radius: 18px; overflow: hidden; border: 2px solid #fee600; box-shadow: 0 4px 14px rgba(0,0,0,0.10);">
 
   <!-- Imagem principal -->
   <div style="text-align: center; background: #FEFAF5;">
     <img 
       src="https://lh3.googleusercontent.com/d/1BqyABQXauIK27we8M1ODUzxeLZvW2uYD" 
       alt="Promoção de Arraiá BomControle" 
-      style="width: 100%; max-width: 900px; display: block;"
+      style="width: 100%; max-width: 680px; display: block;"
     >
   </div>
 
@@ -28,7 +28,7 @@
       <span style="font-size: 22px;">Oferta exclusiva para o mês de junho</span>
     </div>
 
-    <p style="font-size: 17px; line-height: 1.5; margin: 0 auto 24px; color: #222222; max-width: 680px;">
+    <p style="font-size: 17px; line-height: 1.5; margin: 0 auto 24px; color: #222222; max-width: 580px;">
       Aproveite essa oportunidade por tempo limitado para evoluir seu plano e contar com ainda mais recursos para a gestão do seu negócio.
     </p>
 
@@ -51,7 +51,7 @@
     </div>
 
     <!-- Chamada final -->
-    <div style="margin: 28px auto 0; padding: 18px 20px; background: #f7f1ea; border-radius: 14px; border-left: 6px solid #fee600; max-width: 680px;">
+    <div style="margin: 28px auto 0; padding: 18px 20px; background: #f7f1ea; border-radius: 14px; border-left: 6px solid #fee600; max-width: 580px;">
       <p style="font-size: 18px; margin: 0; color: #000000; font-weight: 700;">
         Fale com nossa equipe e confira as condições da promoção.
       </p>
