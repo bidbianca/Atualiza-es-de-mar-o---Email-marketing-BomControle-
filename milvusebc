@@ -1,0 +1,213 @@
+```html id="a34s5r"
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Milvus | Integração com BomControle</title>
+</head>
+
+<body style="margin:0; padding:0; background:#e6eaef; font-family:Arial, Helvetica, sans-serif; color:#000000;">
+  <div style="display:none; max-height:0; overflow:hidden; opacity:0;">
+    Automatize faturamento, cobranças e receitas recorrentes com a integração entre Milvus e BomControle.
+  </div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#e6eaef;">
+    <tr>
+      <td align="center" style="padding:24px 12px;">
+
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width:600px; background:#ffffff; border:1px solid #d4dce6; border-radius:14px; overflow:hidden;">
+
+          <!-- Cabeçalho -->
+          <tr>
+            <td style="padding:22px 26px; border-bottom:1px solid #e1e7ef; background:#ffffff;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td align="left">
+                    <img src="https://lh3.googleusercontent.com/d/1RATfoLzTSc9t4JnZSoH2LcV-GhJHFR-n" alt="Milvus" width="135" style="display:block; border:0; width:100%; max-width:135px; height:auto;">
+                  </td>
+                  <td align="right">
+                    <img src="https://lh3.googleusercontent.com/d/1tT9Bw8fyhlRKd6iNVocmbwGzncfzO1gg" alt="BomControle" width="145" style="display:block; border:0; width:100%; max-width:145px; height:auto;">
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Título -->
+          <tr>
+            <td style="padding:30px 34px 10px 34px; text-align:center; background:#ffffff;">
+              <span style="display:inline-block; font-size:28px; line-height:1.2; font-weight:700; color:#000000;">
+                Seu atendimento já está no Milvus.
+                <br>
+                E o faturamento?
+              </span>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:8px 34px 22px 34px; font-size:16px; line-height:1.6; color:#000000; text-align:center; background:#ffffff;">
+              Com a integração entre <strong>Milvus e BomControle</strong>, contratos, adicionais e recorrências podem virar faturamento automático.
+            </td>
+          </tr>
+
+          <!-- Bloco principal -->
+          <tr>
+            <td align="center" style="padding:0 26px 22px 26px; background:#ffffff;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#000000; border-radius:12px;">
+                <tr>
+                  <td align="center" style="padding:20px 22px;">
+                    <div style="font-size:19px; line-height:1.35; color:#ffffff; font-weight:bold; text-align:center;">
+                      Do chamado à cobrança
+                    </div>
+
+                    <div style="font-size:14px; line-height:1.55; color:#ffffff; text-align:center; padding-top:8px;">
+                      O Milvus calcula horas, chamados, contratos e máquinas monitoradas. O BomControle automatiza fatura, boleto, nota fiscal e cobrança.
+                    </div>
+
+                    <div style="padding-top:16px;">
+                      <a href="https://bomcontrole.com.br/demonstracao?utm_medium=email&utm_campaign=milvus_indica_bomcontrole&utm_source=base_milvus" target="_blank" style="display:inline-block; padding:13px 24px; border-radius:8px; background:#fee600; color:#000000; text-decoration:none; font-size:14px; font-weight:bold;">
+                        Conheça o BomControle
+                      </a>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Como funciona -->
+          <tr>
+            <td style="padding:0 34px 16px 34px; text-align:center; background:#ffffff;">
+              <span style="display:inline-block; font-size:23px; line-height:1.2; font-weight:700; color:#000000; text-decoration:underline; text-decoration-color:#fee600; text-decoration-thickness:4px; text-underline-offset:5px;">
+                O que a integração automatiza?
+              </span>
+            </td>
+          </tr>
+
+          <!-- Cards -->
+          <tr>
+            <td style="padding:0 26px 10px 26px; background:#ffffff;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+
+                  <td width="50%" valign="top" style="padding:8px;">
+                    <table role="presentation" width="100%" height="190" cellpadding="0" cellspacing="0" border="0" style="height:190px; border:2px solid #fee600; border-radius:12px; background:#fffbe6;">
+                      <tr>
+                        <td align="center" valign="top" style="padding:18px 14px;">
+                          <img src="https://img.icons8.com/ios-filled/80/fee600/bill.png" alt="Faturamento" width="42" height="42" style="display:block; border:0; margin:0 auto 10px auto;">
+                          <div style="font-size:17px; line-height:1.3; color:#000000; font-weight:bold;">
+                            Faturamento automático
+                          </div>
+                          <div style="font-size:13px; line-height:1.55; color:#000000; padding-top:8px;">
+                            Gere faturas com base nos valores atualizados pelo Milvus.
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+
+                  <td width="50%" valign="top" style="padding:8px;">
+                    <table role="presentation" width="100%" height="190" cellpadding="0" cellspacing="0" border="0" style="height:190px; border:2px solid #fee600; border-radius:12px; background:#fffbe6;">
+                      <tr>
+                        <td align="center" valign="top" style="padding:18px 14px;">
+                          <img src="https://img.icons8.com/ios-filled/80/fee600/time-machine.png" alt="Adicionais" width="42" height="42" style="display:block; border:0; margin:0 auto 10px auto;">
+                          <div style="font-size:17px; line-height:1.3; color:#000000; font-weight:bold;">
+                            Adicionais calculados
+                          </div>
+                          <div style="font-size:13px; line-height:1.55; color:#000000; padding-top:8px;">
+                            Horas, chamados e máquinas monitoradas entram na próxima cobrança.
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:0 26px 20px 26px; background:#ffffff;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+
+                  <td width="50%" valign="top" style="padding:8px;">
+                    <table role="presentation" width="100%" height="190" cellpadding="0" cellspacing="0" border="0" style="height:190px; border:2px solid #fee600; border-radius:12px; background:#fffbe6;">
+                      <tr>
+                        <td align="center" valign="top" style="padding:18px 14px;">
+                          <img src="https://img.icons8.com/ios-filled/80/fee600/money-bag.png" alt="Receitas recorrentes" width="42" height="42" style="display:block; border:0; margin:0 auto 10px auto;">
+                          <div style="font-size:17px; line-height:1.3; color:#000000; font-weight:bold;">
+                            Receitas recorrentes
+                          </div>
+                          <div style="font-size:13px; line-height:1.55; color:#000000; padding-top:8px;">
+                            Automatize contratos fixos, boletos, notas fiscais e envio ao cliente.
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+
+                  <td width="50%" valign="top" style="padding:8px;">
+                    <table role="presentation" width="100%" height="190" cellpadding="0" cellspacing="0" border="0" style="height:190px; border:2px solid #fee600; border-radius:12px; background:#fffbe6;">
+                      <tr>
+                        <td align="center" valign="top" style="padding:18px 14px;">
+                          <img src="https://img.icons8.com/ios-filled/80/fee600/combo-chart.png" alt="Fluxo de caixa" width="42" height="42" style="display:block; border:0; margin:0 auto 10px auto;">
+                          <div style="font-size:17px; line-height:1.3; color:#000000; font-weight:bold;">
+                            Previsão financeira
+                          </div>
+                          <div style="font-size:13px; line-height:1.55; color:#000000; padding-top:8px;">
+                            Veja receitas projetadas no fluxo de caixa e ganhe previsibilidade.
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Texto curto -->
+          <tr>
+            <td style="padding:0 34px 20px 34px; font-size:15px; line-height:1.7; color:#000000; text-align:center; background:#ffffff;">
+              <strong style="display:block; font-size:18px; margin-bottom:6px; color:#000000;">
+                Ideal para empresas de TI e prestadores de serviço.
+              </strong>
+              Reduza cálculos manuais, evite erros de cobrança e conecte atendimento, contratos e financeiro em um fluxo mais simples.
+            </td>
+          </tr>
+
+          <!-- CTA final -->
+          <tr>
+            <td align="center" style="padding:0 24px 32px 24px; background:#ffffff;">
+              <a href="https://bomcontrole.com.br/demonstracao?utm_medium=email&utm_campaign=milvus_indica_bomcontrole&utm_source=base_milvus" target="_blank" style="display:inline-block; padding:14px 26px; border-radius:8px; background:#fee600; color:#000000; text-decoration:none; font-size:14px; font-weight:bold;">
+                Agendar demonstração
+              </a>
+            </td>
+          </tr>
+
+          <!-- Rodapé -->
+          <tr>
+            <td style="padding:20px 24px; border-top:1px solid #e5e7eb; background:#fcfcfd;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td align="center" style="font-size:12px; line-height:1.6; color:#94a3b8;">
+                    Você recebeu este e-mail porque faz parte da base de relacionamento Milvus.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+        </table>
+
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+```
