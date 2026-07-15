@@ -1,26 +1,37 @@
-<!DOCTYPE html>
-<html lang="pt-BR" xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="x-apple-disable-message-reformatting">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Planos BomControle</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="x-apple-disable-message-reformatting" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Novos planos BomControle</title>
 
-  <style>
+  <style type="text/css">
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
     body {
       margin: 0 !important;
       padding: 0 !important;
       width: 100% !important;
-      background-color: #f4f4f2;
+      background-color: #f3f3f1;
       font-family: 'Poppins', Arial, Helvetica, sans-serif;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
     }
 
     table {
-      border-collapse: collapse;
-      border-spacing: 0;
+      border-collapse: collapse !important;
+      border-spacing: 0 !important;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
     }
 
     a {
@@ -32,13 +43,19 @@
       max-width: 600px;
     }
 
-    .mobile-padding {
-      padding-left: 38px;
-      padding-right: 38px;
+    .mobile-pad {
+      padding-left: 38px !important;
+      padding-right: 38px !important;
     }
 
-    .plan-column {
+    .two-column {
       width: 50%;
+    }
+
+    .fluid-img {
+      width: 100%;
+      max-width: 600px;
+      height: auto;
     }
 
     @media only screen and (max-width: 620px) {
@@ -46,19 +63,27 @@
         width: 100% !important;
       }
 
-      .mobile-padding {
+      .mobile-pad {
         padding-left: 22px !important;
         padding-right: 22px !important;
       }
 
-      .plan-column {
-        width: 100% !important;
+      .two-column {
         display: block !important;
+        width: 100% !important;
       }
 
-      .headline {
-        font-size: 29px !important;
-        line-height: 38px !important;
+      .hero-title {
+        font-size: 34px !important;
+        line-height: 42px !important;
+      }
+
+      .module-title {
+        font-size: 19px !important;
+      }
+
+      .mobile-center {
+        text-align: center !important;
       }
 
       .mobile-button {
@@ -67,85 +92,106 @@
       }
     }
   </style>
+
+  <!--[if mso]>
+  <style type="text/css">
+    body, table, td, p, a, h1, h2, h3, div { font-family: Arial, Helvetica, sans-serif !important; }
+  </style>
+  <![endif]-->
 </head>
 
 <body>
   <div style="display:none; max-height:0; overflow:hidden; opacity:0; color:transparent;">
-    Conheça os planos do BomControle e escolha a melhor opção para sua empresa.
+    Conheça os novos planos do BomControle e escolha a melhor opção para sua empresa.
   </div>
 
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f4f4f2;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f3f3f1" style="width:100%; background-color:#f3f3f1;">
     <tr>
-      <td align="center" style="padding:24px 10px;">
+      <td align="center" style="padding:20px 10px;">
 
-        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0"
-               style="width:100%; max-width:600px; background-color:#ffffff; border-radius:24px; overflow:hidden;">
+        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width:600px;">
 
-          <!-- CABEÇALHO -->
+          <!-- HERO EM BLOCO, INSPIRADO NA ESTRUTURA DO PRIMEIRO HTML -->
           <tr>
-            <td align="center" style="padding:28px 30px 10px 30px;">
-              <img
-                src="https://lh3.googleusercontent.com/d/1VUSSr1H6aNRYnvwdZrWfxZWIQ6WfEaox"
-                width="205"
-                alt="BomControle"
-                style="display:block; width:205px; max-width:72%; height:auto; border:0; outline:none;">
-            </td>
-          </tr>
-
-          <!-- HERO -->
-          <tr>
-            <td class="mobile-padding" style="padding:22px 38px 20px 38px;">
+            <td bgcolor="#ffffff" style="background-color:#ffffff; border-radius:24px 24px 0 0; overflow:hidden; border:1px solid #ececec; border-bottom:0;">
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
                 <tr>
-                  <td align="center">
-                    <div style="display:inline-block; padding:8px 16px; background-color:#fee600; border-radius:999px; font-size:12px; line-height:18px; font-weight:700; color:#171717; letter-spacing:0.4px;">
-                      NOVIDADE
-                    </div>
-
-                    <h1 class="headline" style="margin:18px 0 12px 0; font-size:38px; line-height:47px; font-weight:700; color:#171717; text-align:center;">
-                      Novos planos <span style="white-space:nowrap;">BomControle</span>
-                    </h1>
-
-                    <div style="width:72px; height:6px; background-color:#fee600; border-radius:99px; margin:0 auto 15px auto;"></div>
-
-                    <p style="margin:0 0 8px 0; font-size:18px; line-height:28px; font-weight:600; color:#303030; text-align:center;">
-                      Um plano para cada momento da sua empresa
-                    </p>
-
-                    <p style="margin:0 auto; max-width:480px; font-size:15px; line-height:26px; font-weight:400; color:#626262; text-align:center;">
-                      Organize sua operação, centralize informações e tenha mais controle para crescer com segurança.
-                    </p>
+                  <td align="center" style="padding:18px 30px 8px 30px;">
+                    <img src="https://lh3.googleusercontent.com/d/1VUSSr1H6aNRYnvwdZrWfxZWIQ6WfEaox"
+                         width="185"
+                         alt="BomControle"
+                         style="display:block; width:185px; max-width:72%; height:auto;" />
                   </td>
                 </tr>
 
                 <tr>
-                  <td align="center" style="padding:26px 0 8px 0;">
-                    <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <td class="mobile-pad" align="center" style="padding:4px 34px 22px 34px;">
+
+                    <div style="display:inline-block; padding:6px 14px; background-color:#fee600; border-radius:999px; font-size:10px; line-height:16px; font-weight:700; color:#171717; letter-spacing:0.5px;">
+                      NOVIDADE
+                    </div>
+
+                    <h1 class="hero-title" style="margin:10px 0 6px 0; font-size:33px; line-height:39px; font-weight:700; color:#111111; text-align:center;">
+                      Novos planos BomControle
+                    </h1>
+
+                    <p style="margin:0 auto; max-width:470px; font-size:15px; line-height:22px; font-weight:600; color:#2a2a2a; text-align:center;">
+                      Um plano para cada momento da sua empresa.
+                    </p>
+
+                    <p style="margin:5px auto 0 auto; max-width:455px; font-size:12px; line-height:19px; color:#444444; text-align:center;">
+                      Organize sua operação, centralize informações e tenha mais controle para crescer com segurança.
+                    </p>
+
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:11px;">
                       <tr>
-                        <td align="center" bgcolor="#fee600" style="border-radius:12px;">
+                        <td align="center">
+                          <div style="display:inline-block; padding:8px 14px; border:1px solid #111111; border-radius:12px; background-color:#111111; font-size:12px; line-height:18px; font-weight:600; color:#ffffff;">
+                            Sem fidelidade &nbsp;&bull;&nbsp; Sob medida &nbsp;&bull;&nbsp; Para começar
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin-top:20px;">
+                      <tr>
+                        <td align="center" bgcolor="#fee600" style="border-radius:11px;">
                           <a href="https://bomcontrole.com.br/demonstracao"
                              target="_blank"
                              class="mobile-button"
-                             style="display:inline-block; padding:15px 28px; font-family:'Poppins',Arial,sans-serif; font-size:15px; line-height:20px; font-weight:700; color:#171717; background-color:#fee600; border:1px solid #e6d200; border-radius:12px;">
+                             style="display:inline-block; padding:13px 25px; font-family:'Poppins',Arial,sans-serif; font-size:14px; line-height:19px; font-weight:700; color:#171717; background-color:#fee600; border:1px solid #e6d200; border-radius:11px;">
                             Conhecer os planos
                           </a>
                         </td>
                       </tr>
                     </table>
+
+
                   </td>
                 </tr>
               </table>
             </td>
           </tr>
 
+          <!-- FAIXA DE IMPACTO -->
+          <tr>
+            <td bgcolor="#111111" class="mobile-pad" style="background-color:#111111; padding:28px 38px;">
+              <h2 style="margin:0; font-size:25px; line-height:34px; font-weight:700; color:#ffffff; text-align:center;">
+                Um sistema. Toda a sua operação.
+              </h2>
+              <p style="margin:8px 0 0 0; font-size:14px; line-height:23px; color:#d6d6d6; text-align:center;">
+                Mais integração, menos retrabalho e uma visão completa da sua empresa.
+              </p>
+            </td>
+          </tr>
+
           <!-- INTRO -->
           <tr>
-            <td class="mobile-padding" style="padding:8px 38px 18px 38px;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-                     style="background-color:#f8f8f6; border-radius:16px;">
+            <td bgcolor="#ffffff" class="mobile-pad" style="background-color:#ffffff; padding:34px 38px 20px 38px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f8f8f6; border-radius:18px;">
                 <tr>
-                  <td align="center" style="padding:20px 22px;">
-                    <p style="margin:0; font-size:14px; line-height:23px; color:#5e5e5e;">
+                  <td align="center" style="padding:24px 24px;">
+                    <p style="margin:0; font-size:15px; line-height:25px; color:#575757; text-align:center;">
                       Escolha uma gestão mais objetiva para as áreas essenciais ou conecte toda a empresa em uma única plataforma.
                     </p>
                   </td>
@@ -154,42 +200,51 @@
             </td>
           </tr>
 
-          <!-- MÓDULOS AVULSOS -->
+          <!-- PLANOS POR MODULO -->
           <tr>
-            <td class="mobile-padding" style="padding:28px 30px 10px 30px;">
-              <h2 style="margin:0; font-size:23px; line-height:31px; font-weight:700; color:#171717; text-align:center;">
+            <td bgcolor="#ffffff" class="mobile-pad" style="background-color:#ffffff; padding:24px 30px 8px 30px;">
+              <h2 style="margin:0; font-size:26px; line-height:34px; font-weight:700; color:#171717; text-align:center;">
                 Planos por módulo
               </h2>
-              <p style="margin:7px 0 0 0; font-size:13px; line-height:21px; color:#666666; text-align:center;">
-                Contrate também a solução específica que sua empresa precisa.
+              <p style="margin:8px 0 0 0; font-size:13px; line-height:22px; color:#666666; text-align:center;">
+                Contrate a solução específica que sua empresa precisa.
               </p>
             </td>
           </tr>
 
           <tr>
-            <td class="mobile-padding" style="padding:10px 30px 12px 30px;">
+            <td bgcolor="#ffffff" class="mobile-pad" style="background-color:#ffffff; padding:10px 30px 24px 30px;">
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-
                 <tr>
-                  <td style="padding:7px;">
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-                           style="background-color:#fff7f7; border:1px solid #f4d6d8; border-radius:16px;">
+                  <td class="two-column" valign="top" width="50%" style="width:50%; padding:7px;">
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#fff5f6; border:1px solid #f3d3d6; border-radius:18px;">
                       <tr>
-                        <td width="12" style="background-color:#ff6f75; border-radius:16px 0 0 16px;"></td>
-                        <td style="padding:17px 18px;">
-                          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-                            <tr>
-                              <td valign="top">
-                                <div style="font-size:17px; line-height:24px; font-weight:700; color:#171717;">CRM</div>
-                                <div style="margin-top:4px; font-size:12px; line-height:19px; color:#666666;">
-                                  Organize oportunidades, acompanhe negociações e venda mais.
-                                </div>
-                              </td>
-                              <td align="right" valign="middle" style="padding-left:14px;">
-                                <div style="font-size:17px; line-height:24px; font-weight:700; color:#171717; white-space:nowrap;">R$ 299/mês</div>
-                              </td>
-                            </tr>
-                          </table>
+                        <td height="210" valign="top" style="height:210px; padding:22px 20px;">
+                          <div style="width:44px; height:6px; background-color:#ff6f75; border-radius:99px; margin-bottom:17px;"></div>
+                          <div class="module-title" style="font-size:21px; line-height:28px; font-weight:700; color:#171717;">CRM</div>
+                          <div style="margin-top:8px; font-size:13px; line-height:21px; color:#666666;">
+                            Organize oportunidades, acompanhe negociações e venda mais.
+                          </div>
+                          <div style="margin-top:22px; padding-top:16px; border-top:1px solid #eed8da; font-size:22px; line-height:29px; font-weight:700; color:#171717;">
+                            R$ 299<span style="font-size:12px; font-weight:600;">/mês</span>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+
+                  <td class="two-column" valign="top" width="50%" style="width:50%; padding:7px;">
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f2fbff; border:1px solid #d4eaf4; border-radius:18px;">
+                      <tr>
+                        <td height="210" valign="top" style="height:210px; padding:22px 20px;">
+                          <div style="width:44px; height:6px; background-color:#8fdcf1; border-radius:99px; margin-bottom:17px;"></div>
+                          <div class="module-title" style="font-size:21px; line-height:28px; font-weight:700; color:#171717;">BPM</div>
+                          <div style="margin-top:8px; font-size:13px; line-height:21px; color:#666666;">
+                            Padronize processos, automatize rotinas e ganhe produtividade.
+                          </div>
+                          <div style="margin-top:22px; padding-top:16px; border-top:1px solid #dceaf0; font-size:22px; line-height:29px; font-weight:700; color:#171717;">
+                            R$ 299<span style="font-size:12px; font-weight:600;">/mês</span>
+                          </div>
                         </td>
                       </tr>
                     </table>
@@ -197,48 +252,23 @@
                 </tr>
 
                 <tr>
-                  <td style="padding:7px;">
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-                           style="background-color:#f4fbff; border:1px solid #d5edf7; border-radius:16px;">
+                  <td colspan="2" style="padding:7px;">
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f2fff9; border:1px solid #d2eee1; border-radius:18px;">
                       <tr>
-                        <td width="12" style="background-color:#8fdcf1; border-radius:16px 0 0 16px;"></td>
-                        <td style="padding:17px 18px;">
+                        <td style="padding:22px 22px;">
                           <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
                             <tr>
-                              <td valign="top">
-                                <div style="font-size:17px; line-height:24px; font-weight:700; color:#171717;">BPM</div>
-                                <div style="margin-top:4px; font-size:12px; line-height:19px; color:#666666;">
-                                  Padronize processos, automatize rotinas e ganhe produtividade.
-                                </div>
-                              </td>
-                              <td align="right" valign="middle" style="padding-left:14px;">
-                                <div style="font-size:17px; line-height:24px; font-weight:700; color:#171717; white-space:nowrap;">R$ 299/mês</div>
-                              </td>
-                            </tr>
-                          </table>
-                        </td>
-                      </tr>
-                    </table>
-                  </td>
-                </tr>
-
-                <tr>
-                  <td style="padding:7px;">
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-                           style="background-color:#f3fff9; border:1px solid #d4f1e3; border-radius:16px;">
-                      <tr>
-                        <td width="12" style="background-color:#79dfb4; border-radius:16px 0 0 16px;"></td>
-                        <td style="padding:17px 18px;">
-                          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-                            <tr>
-                              <td valign="top">
-                                <div style="font-size:17px; line-height:24px; font-weight:700; color:#171717;">Service Desk</div>
-                                <div style="margin-top:4px; font-size:12px; line-height:19px; color:#666666;">
+                              <td valign="top" class="mobile-center">
+                                <div style="width:44px; height:6px; background-color:#79dfb4; border-radius:99px; margin-bottom:14px;"></div>
+                                <div class="module-title" style="font-size:21px; line-height:28px; font-weight:700; color:#171717;">Service Desk</div>
+                                <div style="margin-top:7px; font-size:13px; line-height:21px; color:#666666;">
                                   Centralize chamados e acompanhe cada atendimento com mais controle.
                                 </div>
                               </td>
-                              <td align="right" valign="middle" style="padding-left:14px;">
-                                <div style="font-size:17px; line-height:24px; font-weight:700; color:#171717; white-space:nowrap;">R$ 299/mês</div>
+                              <td align="right" valign="middle" class="mobile-center" style="padding-left:20px;">
+                                <div style="font-size:24px; line-height:31px; font-weight:700; color:#171717; white-space:nowrap;">
+                                  R$ 299<span style="font-size:12px; font-weight:600;">/mês</span>
+                                </div>
                               </td>
                             </tr>
                           </table>
@@ -247,33 +277,36 @@
                     </table>
                   </td>
                 </tr>
-
               </table>
             </td>
           </tr>
 
-          
-
-          <!-- PLANOS PRINCIPAIS -->
+          <!-- TITULO PLANOS PRINCIPAIS -->
           <tr>
-            <td class="mobile-padding" style="padding:18px 30px 8px 30px;">
-              <h2 style="margin:0 0 14px 0; font-size:24px; line-height:32px; font-weight:700; color:#171717; text-align:center;">
+            <td bgcolor="#fee600" class="mobile-pad" style="background-color:#fee600; padding:30px 38px 18px 38px;">
+              <h2 style="margin:0; font-size:28px; line-height:36px; font-weight:700; color:#171717; text-align:center;">
                 Escolha o melhor plano
               </h2>
+              <p style="margin:8px 0 0 0; font-size:14px; line-height:23px; color:#3f3f3f; text-align:center;">
+                Duas opções para centralizar a gestão e acompanhar sua empresa de ponta a ponta.
+              </p>
+            </td>
+          </tr>
 
+          <!-- CARDS DOS PLANOS PRINCIPAIS -->
+          <tr>
+            <td bgcolor="#fee600" class="mobile-pad" style="background-color:#fee600; padding:10px 30px 38px 30px;">
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
                 <tr>
-                  <!-- ADMINISTRATIVO -->
-                  <td class="plan-column" valign="top" style="width:50%; padding:8px;">
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-                           style="background-color:#fffdf2; border:1px solid #ece3a7; border-radius:20px;">
+                  <td class="two-column" valign="top" width="50%" style="width:50%; padding:8px;">
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff; border-radius:20px;">
                       <tr>
-                        <td height="390" valign="top" style="height:390px; padding:24px 20px;">
-                          <div style="display:inline-block; padding:5px 11px; margin-bottom:12px; background-color:#fee600; border-radius:999px; font-size:10px; line-height:15px; font-weight:700; color:#171717;">
-                            GESTÃO
+                        <td height="410" valign="top" style="height:410px; padding:24px 20px;">
+                          <div style="display:inline-block; padding:6px 11px; margin-bottom:13px; background-color:#fee600; border-radius:999px; font-size:10px; line-height:15px; font-weight:700; color:#171717;">
+                            CORE
                           </div>
 
-                          <div style="font-size:20px; line-height:27px; font-weight:700; color:#171717;">
+                          <div style="font-size:21px; line-height:28px; font-weight:700; color:#171717;">
                             Administrativo
                           </div>
 
@@ -281,30 +314,28 @@
                             Para empresas que querem organizar as áreas essenciais da gestão.
                           </div>
 
-                          <div style="margin-top:18px; font-size:12px; line-height:18px; font-weight:700; color:#777777;">
+                          <div style="margin-top:19px; font-size:11px; line-height:17px; font-weight:700; color:#777777;">
                             INCLUI
                           </div>
 
                           <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:8px;">
                             <tr>
-                              <td width="18" valign="top" style="font-size:14px; line-height:22px; color:#171717;">✓</td>
-                              <td style="font-size:13px; line-height:22px; color:#4f4f4f;">Financeiro</td>
+                              <td width="18" valign="top" style="font-size:14px; line-height:24px; color:#171717;">✓</td>
+                              <td style="font-size:13px; line-height:24px; color:#4f4f4f;">Financeiro</td>
                             </tr>
                             <tr>
-                              <td width="18" valign="top" style="font-size:14px; line-height:22px; color:#171717;">✓</td>
-                              <td style="font-size:13px; line-height:22px; color:#4f4f4f;">Vendas</td>
+                              <td width="18" valign="top" style="font-size:14px; line-height:24px; color:#171717;">✓</td>
+                              <td style="font-size:13px; line-height:24px; color:#4f4f4f;">Vendas</td>
                             </tr>
                             <tr>
-                              <td width="18" valign="top" style="font-size:14px; line-height:22px; color:#171717;">✓</td>
-                              <td style="font-size:13px; line-height:22px; color:#4f4f4f;">Estoque</td>
+                              <td width="18" valign="top" style="font-size:14px; line-height:24px; color:#171717;">✓</td>
+                              <td style="font-size:13px; line-height:24px; color:#4f4f4f;">Estoque</td>
                             </tr>
                           </table>
 
-                          <div style="margin-top:19px; padding-top:17px; border-top:1px solid #e9e2bb;">
-                            <div style="font-size:11px; line-height:17px; font-weight:600; color:#777777;">
-                              A PARTIR DE
-                            </div>
-                            <div style="margin-top:3px; font-size:28px; line-height:36px; font-weight:700; color:#171717;">
+                          <div style="margin-top:24px; padding-top:18px; border-top:1px solid #ececec;">
+                            <div style="font-size:10px; line-height:16px; font-weight:600; color:#777777;">A PARTIR DE</div>
+                            <div style="margin-top:4px; font-size:29px; line-height:36px; font-weight:700; color:#171717;">
                               R$ 399<span style="font-size:13px; font-weight:600;">/mês</span>
                             </div>
                           </div>
@@ -313,52 +344,48 @@
                     </table>
                   </td>
 
-                  <!-- SUÍTE -->
-                  <td class="plan-column" valign="top" style="width:50%; padding:8px;">
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-                           style="background-color:#fffdf2; border:2px solid #fee600; border-radius:20px;">
+                  <td class="two-column" valign="top" width="50%" style="width:50%; padding:8px;">
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#111111; border-radius:20px;">
                       <tr>
-                        <td height="390" valign="top" style="height:390px; padding:22px 20px 24px 20px;">
-                          <div style="display:inline-block; padding:5px 10px; margin-bottom:12px; background-color:#fee600; border-radius:999px; font-size:10px; line-height:15px; font-weight:700; color:#171717;">
+                        <td height="410" valign="top" style="height:410px; padding:24px 20px;">
+                          <div style="display:inline-block; padding:6px 11px; margin-bottom:13px; background-color:#fee600; border-radius:999px; font-size:10px; line-height:15px; font-weight:700; color:#171717;">
                             MAIS COMPLETO
                           </div>
 
-                          <div style="font-size:20px; line-height:27px; font-weight:700; color:#171717;">
+                          <div style="font-size:21px; line-height:28px; font-weight:700; color:#ffffff;">
                             Suíte
                           </div>
 
-                          <div style="margin-top:8px; font-size:13px; line-height:21px; color:#646464;">
+                          <div style="margin-top:8px; font-size:13px; line-height:21px; color:#d2d2d2;">
                             Para integrar toda a operação em um único sistema.
                           </div>
 
-                          <div style="margin-top:18px; font-size:12px; line-height:18px; font-weight:700; color:#777777;">
+                          <div style="margin-top:19px; font-size:11px; line-height:17px; font-weight:700; color:#bdbdbd;">
                             INCLUI
                           </div>
 
                           <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:8px;">
                             <tr>
-                              <td width="18" valign="top" style="font-size:14px; line-height:22px; color:#171717;">✓</td>
-                              <td style="font-size:13px; line-height:22px; color:#4f4f4f;">Administrativo completo</td>
+                              <td width="18" valign="top" style="font-size:14px; line-height:24px; color:#fee600;">✓</td>
+                              <td style="font-size:13px; line-height:24px; color:#efefef;">Administrativo completo</td>
                             </tr>
                             <tr>
-                              <td width="18" valign="top" style="font-size:14px; line-height:22px; color:#171717;">✓</td>
-                              <td style="font-size:13px; line-height:22px; color:#4f4f4f;">CRM</td>
+                              <td width="18" valign="top" style="font-size:14px; line-height:24px; color:#fee600;">✓</td>
+                              <td style="font-size:13px; line-height:24px; color:#efefef;">CRM</td>
                             </tr>
                             <tr>
-                              <td width="18" valign="top" style="font-size:14px; line-height:22px; color:#171717;">✓</td>
-                              <td style="font-size:13px; line-height:22px; color:#4f4f4f;">BPM</td>
+                              <td width="18" valign="top" style="font-size:14px; line-height:24px; color:#fee600;">✓</td>
+                              <td style="font-size:13px; line-height:24px; color:#efefef;">BPM</td>
                             </tr>
                             <tr>
-                              <td width="18" valign="top" style="font-size:14px; line-height:22px; color:#171717;">✓</td>
-                              <td style="font-size:13px; line-height:22px; color:#4f4f4f;">Service Desk</td>
+                              <td width="18" valign="top" style="font-size:14px; line-height:24px; color:#fee600;">✓</td>
+                              <td style="font-size:13px; line-height:24px; color:#efefef;">Service Desk</td>
                             </tr>
                           </table>
 
-                          <div style="margin-top:19px; padding-top:17px; border-top:1px solid #e9e2bb;">
-                            <div style="font-size:11px; line-height:17px; font-weight:600; color:#777777;">
-                              A PARTIR DE
-                            </div>
-                            <div style="margin-top:3px; font-size:28px; line-height:36px; font-weight:700; color:#171717;">
+                          <div style="margin-top:24px; padding-top:18px; border-top:1px solid #353535;">
+                            <div style="font-size:10px; line-height:16px; font-weight:600; color:#bdbdbd;">A PARTIR DE</div>
+                            <div style="margin-top:4px; font-size:29px; line-height:36px; font-weight:700; color:#ffffff;">
                               R$ 699<span style="font-size:13px; font-weight:600;">/mês</span>
                             </div>
                           </div>
@@ -371,39 +398,21 @@
             </td>
           </tr>
 
-          <!-- BENEFÍCIO -->
-          <tr>
-            <td class="mobile-padding" style="padding:22px 38px 10px 38px;">
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-                     style="background-color:#f5f1ff; border-radius:18px;">
-                <tr>
-                  <td align="center" style="padding:23px 22px;">
-                    <div style="font-size:19px; line-height:28px; font-weight:700; color:#2d2447;">
-                      Um sistema. Toda a sua operação.
-                    </div>
-                    <div style="margin-top:7px; font-size:13px; line-height:22px; color:#655d79;">
-                      Mais integração, menos retrabalho e uma visão completa da sua empresa.
-                    </div>
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
-
           <!-- CTA FINAL -->
           <tr>
-            <td align="center" class="mobile-padding" style="padding:26px 38px 38px 38px;">
-              <h2 style="margin:0 0 9px 0; font-size:23px; line-height:32px; font-weight:700; color:#171717;">
+            <td bgcolor="#ffffff" class="mobile-pad" align="center" style="background-color:#ffffff; padding:38px 38px 40px 38px;">
+              <div style="display:inline-block; width:64px; height:6px; background-color:#fee600; border-radius:99px; margin-bottom:18px;"></div>
+              <h2 style="margin:0; font-size:27px; line-height:36px; font-weight:700; color:#171717; text-align:center;">
                 Encontre a opção ideal para sua empresa
               </h2>
-              <p style="margin:0 0 19px 0; font-size:14px; line-height:23px; color:#666666;">
+              <p style="margin:10px auto 21px auto; max-width:450px; font-size:14px; line-height:23px; color:#666666; text-align:center;">
                 Fale com nosso time e conheça o plano que mais combina com sua operação.
               </p>
 
               <table role="presentation" cellpadding="0" cellspacing="0" border="0">
                 <tr>
                   <td align="center" bgcolor="#fee600" style="border-radius:12px;">
-                    <a href="https://api.whatsapp.com/send?phone=+551131634710&text=Oi&source=&data=&app_absent="
+                    <a href="https://api.whatsapp.com/send?phone=+551131634710&amp;text=Oi&amp;source=&amp;data=&amp;app_absent="
                        target="_blank"
                        class="mobile-button"
                        style="display:inline-block; padding:15px 30px; font-family:'Poppins',Arial,sans-serif; font-size:15px; line-height:20px; font-weight:700; color:#171717; background-color:#fee600; border:1px solid #e6d200; border-radius:12px;">
@@ -415,24 +424,45 @@
             </td>
           </tr>
 
-          <!-- RODAPÉ -->
+          <!-- RODAPE -->
           <tr>
-            <td style="padding:20px 24px; border-top:1px solid #e5e7eb; background:#fcfcfd;">
+            <td bgcolor="#111111" style="background-color:#111111; border-radius:0 0 24px 24px; padding:26px 24px 28px 24px;">
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
                 <tr>
-                  <td align="center" style="font-size:13px; line-height:1.65; color:#64748b; padding-bottom:10px;">
+                  <td align="center" style="font-size:13px; line-height:22px; color:#d8d8d8; padding-bottom:15px;">
                     O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
                   </td>
                 </tr>
+
                 <tr>
-                  <td align="center" style="vertical-align:top;">
+                  <td align="center">
                     <table role="presentation" cellpadding="0" cellspacing="0" border="0">
                       <tr>
-                        <td style="padding:0 3px;"><a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png" alt="Instagram" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
-                        <td style="padding:0 3px;"><a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png" alt="Facebook" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
-                        <td style="padding:0 3px;"><a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/linkedin.png" alt="LinkedIn" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
-                        <td style="padding:0 3px;"><a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png" alt="X" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
-                        <td style="padding:0 3px;"><a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png" alt="YouTube" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 4px;">
+                          <a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:inline-block; width:32px; height:32px; background-color:#ffffff; border-radius:999px; text-align:center;">
+                            <img src="https://img.icons8.com/ios-filled/50/111111/instagram-new.png" alt="Instagram" width="15" height="15" style="display:inline-block; margin-top:8px;" />
+                          </a>
+                        </td>
+                        <td style="padding:0 4px;">
+                          <a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:inline-block; width:32px; height:32px; background-color:#ffffff; border-radius:999px; text-align:center;">
+                            <img src="https://img.icons8.com/ios-filled/50/111111/facebook-new.png" alt="Facebook" width="15" height="15" style="display:inline-block; margin-top:8px;" />
+                          </a>
+                        </td>
+                        <td style="padding:0 4px;">
+                          <a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block; width:32px; height:32px; background-color:#ffffff; border-radius:999px; text-align:center;">
+                            <img src="https://img.icons8.com/ios-filled/50/111111/linkedin.png" alt="LinkedIn" width="15" height="15" style="display:inline-block; margin-top:8px;" />
+                          </a>
+                        </td>
+                        <td style="padding:0 4px;">
+                          <a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block; width:32px; height:32px; background-color:#ffffff; border-radius:999px; text-align:center;">
+                            <img src="https://img.icons8.com/ios-filled/50/111111/twitterx--v1.png" alt="X" width="15" height="15" style="display:inline-block; margin-top:8px;" />
+                          </a>
+                        </td>
+                        <td style="padding:0 4px;">
+                          <a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block; width:32px; height:32px; background-color:#ffffff; border-radius:999px; text-align:center;">
+                            <img src="https://img.icons8.com/ios-filled/50/111111/youtube-play.png" alt="YouTube" width="15" height="15" style="display:inline-block; margin-top:8px;" />
+                          </a>
+                        </td>
                       </tr>
                     </table>
                   </td>
