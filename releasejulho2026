@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <title>Novas atualizações do BomControle</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+
+  <style type="text/css">
+    *{box-sizing:border-box}
+    body{margin:0;padding:0}
+    table{border-collapse:collapse!important}
+    body,table,td,a{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+    img{-ms-interpolation-mode:bicubic;border:0;outline:none;text-decoration:none;display:block;height:auto}
+    a[x-apple-data-detectors]{color:inherit!important;text-decoration:inherit!important}
+
+    @media screen and (max-width:600px){
+      .container{width:100%!important;max-width:100%!important}
+      .mobile-px{padding-left:20px!important;padding-right:20px!important}
+      .mobile-py{padding-top:24px!important;padding-bottom:24px!important}
+      .hero-title{font-size:26px!important;line-height:32px!important}
+      .section-title{font-size:22px!important;line-height:28px!important}
+      .body-text{font-size:16px!important;line-height:24px!important}
+      .feature-title{font-size:18px!important;line-height:24px!important}
+      .fluid{width:100%!important;max-width:100%!important;height:auto!important}
+    }
+  </style>
+</head>
+
+<body style="margin:0;padding:0;background-color:#eef3f8;">
+
+  <div style="display:none;max-height:0;overflow:hidden;opacity:0;mso-hide:all;font-size:1px;line-height:1px;color:#eef3f8;">
+    Confira as novas atualizações do BomControle em Estoque, CRM, Financeiro e Integrações.
+  </div>
+
+  <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;background-color:#eef3f8;">
+    <tr>
+      <td align="center" style="padding:24px 10px 40px 10px;">
+
+        <table role="presentation" width="600" border="0" cellspacing="0" cellpadding="0" class="container" style="width:600px;max-width:600px;">
+
+          <tr>
+            <td align="center" style="padding:0 10px 14px 10px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:18px;color:#6b7280;">
+              Release Notes • BomControle
+            </td>
+          </tr>
+
+          <!-- HERO -->
+          <tr>
+            <td style="background-color:#fee600;border-radius:18px;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="mobile-px mobile-py" align="center" style="padding:26px 30px 28px 30px;">
+                    <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td align="center" style="padding-bottom:16px;">
+                          <img src="https://lh3.googleusercontent.com/d/1VUSSr1H6aNRYnvwdZrWfxZWIQ6WfEaox" width="200" alt="BomControle" style="display:block;width:200px;max-width:200px;height:auto;">
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="hero-title" align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:30px;line-height:36px;font-weight:bold;color:#000000;padding-bottom:10px;">
+                          Novas atualizações do BomControle
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="body-text" align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:24px;color:#111111;padding:0 10px;">
+                          Confira as melhorias mais recentes para deixar sua rotina mais simples, integrada e eficiente.
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="18" style="font-size:0;line-height:0;">&nbsp;</td></tr>
+
+          <!-- INTRO -->
+          <tr>
+            <td style="background-color:#ffffff;border:1px solid #eceff3;border-radius:18px;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="mobile-px" align="center" style="padding:24px 28px 10px 28px;font-family:Arial,Helvetica,sans-serif;font-size:22px;line-height:28px;font-weight:bold;color:#111827;">
+                    Destaques desta edição
+                  </td>
+                </tr>
+                <tr>
+                  <td class="mobile-px body-text" align="center" style="padding:0 28px 22px 28px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:24px;color:#667085;">
+                    As novidades foram organizadas por módulo para facilitar a leitura e ajudar você a identificar rapidamente o que mudou no sistema.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="18" style="font-size:0;line-height:0;">&nbsp;</td></tr>
+
+          <!-- ESTOQUE -->
+          <tr>
+            <td style="background-color:#ffffff;border:1px solid #e6e8ec;border-radius:18px;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+
+                <tr>
+                  <td class="mobile-px" style="padding:24px 28px 12px 28px;">
+                    <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td valign="middle" style="padding-right:12px;">
+                          <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-estoque.png" width="34" alt="Estoque" style="display:block;width:34px;max-width:34px;">
+                        </td>
+                        <td valign="middle" style="font-family:Arial,Helvetica,sans-serif;font-size:21px;line-height:27px;font-weight:bold;color:#111827;">
+                          Estoque
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 14px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      Importação de saldo de estoque por ajuste via planilha
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      A atualização permite realizar ajustes de saldo de estoque por meio da importação de planilha, tornando o processo mais rápido e prático para empresas com muitos produtos cadastrados.
+                    </div>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 18px 28px;">
+                    <img src="https://lh3.googleusercontent.com/d/1UekTP0W2fLtTaoFpD-R5TuW7tZN2dd6L" width="544" alt="Importação de saldo de estoque por ajuste via planilha" class="fluid" style="display:block;width:544px;max-width:544px;height:auto;border-radius:14px;">
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 24px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      Quantidade fracionada em tela de pedido
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      A tela de pedido passa a permitir o uso de quantidade fracionada, oferecendo mais flexibilidade para operações que trabalham com medidas, pesos ou unidades não inteiras.
+                    </div>
+                  </td>
+                </tr>
+
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="18" style="font-size:0;line-height:0;">&nbsp;</td></tr>
+
+          <!-- CRM -->
+          <tr>
+            <td style="background-color:#ffffff;border:1px solid #e6e8ec;border-radius:18px;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+
+                <tr>
+                  <td class="mobile-px" style="padding:24px 28px 12px 28px;">
+                    <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td valign="middle" style="padding-right:12px;">
+                          <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-crm.png" width="34" alt="CRM" style="display:block;width:34px;max-width:34px;">
+                        </td>
+                        <td valign="middle" style="font-family:Arial,Helvetica,sans-serif;font-size:21px;line-height:27px;font-weight:bold;color:#111827;">
+                          CRM
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 14px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      Distribuição de leads na integração com o RD Station
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      Novas opções para melhorar a distribuição dos leads vindos do RD Station dentro do CRM, ajudando o time comercial a organizar o atendimento de forma mais eficiente.
+                    </div>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 18px 28px;">
+                    <img src="https://lh3.googleusercontent.com/d/1TRxtd1h_0kNYuJcmwzNElrdXqnfm-aTO" width="544" alt="Distribuição de leads na integração com o RD Station" class="fluid" style="display:block;width:544px;max-width:544px;height:auto;border-radius:14px;">
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 14px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      Mapeamento de campos customizáveis na integração RD Station
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      Agora a integração com o RD Station conta com mapeamento de campos customizáveis, permitindo mais controle sobre as informações enviadas para o BomControle e facilitando a personalização dos dados recebidos no CRM.
+                    </div>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 18px 28px;">
+                    <img src="https://lh3.googleusercontent.com/d/1-o08-6SE--sMaWj5kOZoHaIt9k3UkaoT" width="544" alt="Mapeamento de campos customizáveis na integração RD Station" class="fluid" style="display:block;width:544px;max-width:544px;height:auto;border-radius:14px;">
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 24px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      Reabertura de oportunidade após reprovação financeira
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      Agora será possível reabrir uma oportunidade do CRM após reprovação financeira, permitindo corrigir as informações necessárias e enviar novamente para análise.
+                    </div>
+                  </td>
+                </tr>
+
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="18" style="font-size:0;line-height:0;">&nbsp;</td></tr>
+
+          <!-- FINANCEIRO -->
+          <tr>
+            <td style="background-color:#ffffff;border:1px solid #e6e8ec;border-radius:18px;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+
+                <tr>
+                  <td class="mobile-px" style="padding:24px 28px 12px 28px;">
+                    <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td valign="middle" style="padding-right:12px;">
+                          <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-financeiro.png" width="34" alt="Financeiro" style="display:block;width:34px;max-width:34px;">
+                        </td>
+                        <td valign="middle" style="font-family:Arial,Helvetica,sans-serif;font-size:21px;line-height:27px;font-weight:bold;color:#111827;">
+                          Financeiro
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 14px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      Importação de serviços por planilha
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      Agora é possível cadastrar serviços em massa por meio da importação de planilha, trazendo mais agilidade, padronização e praticidade para empresas que precisam incluir vários serviços no sistema.
+                    </div>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 14px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      Adequação para CNPJ alfanumérico
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      O BomControle já está preparado para atender à nova estrutura de CNPJ alfanumérico que será lançada, garantindo mais segurança e continuidade para as operações no sistema.
+                    </div>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 14px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      Campos de PIS/COFINS de apuração própria
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      Foram disponibilizados campos de PIS/COFINS de apuração própria para empresas de Lucro Real e Lucro Presumido, facilitando o preenchimento e a organização das informações fiscais.
+                    </div>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 14px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      Informações complementares para NFS-e Nacional
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      Agora está disponível o campo Informações Complementares para NFS-e Nacional, permitindo inserir dados adicionais relevantes na emissão da nota.
+                    </div>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 14px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      Listagem e detalhamento de envio e retorno de remessa
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      A atualização traz mais visibilidade para os processos de remessa bancária, permitindo consultar listagens e detalhes de envio e retorno com mais clareza.
+                    </div>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 18px 28px;">
+                    <img src="https://lh3.googleusercontent.com/d/1I2N1ZY0EnZViSZmO5Yd1WjLqvQQu6W7U" width="544" alt="Listagem e detalhamento de envio e retorno de remessa" class="fluid" style="display:block;width:544px;max-width:544px;height:auto;border-radius:14px;">
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 14px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      Exportação do cadastro de departamento
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      Agora é possível exportar o cadastro de departamentos, facilitando a conferência, organização e análise das informações cadastradas no sistema.
+                    </div>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 24px 28px;">
+                    <img src="https://lh3.googleusercontent.com/d/1W7pMQcZ6jirGEBzTwjQPS8LN21tmJyai" width="544" alt="Exportação do cadastro de departamento" class="fluid" style="display:block;width:544px;max-width:544px;height:auto;border-radius:14px;">
+                  </td>
+                </tr>
+
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="18" style="font-size:0;line-height:0;">&nbsp;</td></tr>
+
+          <!-- INTEGRAÇÕES -->
+          <tr>
+            <td style="background-color:#ffffff;border:1px solid #e6e8ec;border-radius:18px;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+
+                <tr>
+                  <td class="mobile-px" style="padding:24px 28px 12px 28px;font-family:Arial,Helvetica,sans-serif;font-size:21px;line-height:27px;font-weight:bold;color:#111827;">
+                    Integrações
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 14px 28px;font-family:Arial,Helvetica,sans-serif;">
+                    <div class="feature-title" style="font-size:18px;line-height:25px;font-weight:bold;color:#1f2937;padding-bottom:8px;">
+                      WhatsApp: envio de notificações sem filas de atendimento
+                    </div>
+                    <div class="body-text" style="font-size:15px;line-height:24px;color:#4b5563;">
+                      Agora será possível desabilitar o uso de filas no WhatsApp. Com isso, o canal poderá ser utilizado apenas para disparos automáticos, como envios de faturamento e notificações da régua de cobrança.
+                    </div>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="mobile-px" style="padding:0 28px 24px 28px;">
+                    <img src="https://lh3.googleusercontent.com/d/10VLl1BMJntHCoJuncrjRAqF8nuXzF4Z1" width="544" alt="WhatsApp: envio de notificações sem filas de atendimento" class="fluid" style="display:block;width:544px;max-width:544px;height:auto;border-radius:14px;">
+                  </td>
+                </tr>
+
+              </table>
+            </td>
+          </tr>
+
+          <tr><td height="18" style="font-size:0;line-height:0;">&nbsp;</td></tr>
+
+          <!-- CTA -->
+          <tr>
+            <td style="background-color:#ffffff;border-radius:18px;border:1px solid #eceff3;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="mobile-px" align="center" style="padding:28px 28px 28px 28px;">
+                    <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="section-title" align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:26px;line-height:32px;font-weight:bold;color:#111827;padding-bottom:10px;">
+                          Continue acompanhando as novidades
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="body-text" align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:24px;color:#4b5563;padding-bottom:20px;">
+                          As atualizações foram pensadas para tornar sua rotina no BomControle ainda mais simples, integrada e eficiente.
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">
+                          <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td align="center" bgcolor="#111827" style="border-radius:999px;">
+                                <a href="https://bomcontrole.com.br/ajuda/novidades-julho-2026" target="_blank" style="display:inline-block;padding:15px 26px;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:14px;font-weight:bold;color:#ffffff;text-decoration:none;">
+                                  Acessar central de ajuda
+                                </a>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- FOOTER -->
+          <tr>
+            <td style="padding:20px 24px;border-top:1px solid #e5e7eb;background:#fcfcfd;border-radius:0 0 18px 18px;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:21px;color:#64748b;padding-bottom:10px;">
+                    O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td style="padding:0 3px;"><a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png" alt="Instagram" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png" alt="Facebook" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/linkedin.png" alt="LinkedIn" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png" alt="X" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png" alt="YouTube" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;"></a></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+        </table>
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
