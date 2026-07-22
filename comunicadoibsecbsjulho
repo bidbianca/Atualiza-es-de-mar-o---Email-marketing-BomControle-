@@ -75,20 +75,20 @@
 
           <!-- DATA EM DESTAQUE -->
           <tr>
-            <td style="background-color:#000000;border-radius:18px;">
+            <td style="background-color:#FFFFFF;border-radius:18px;">
               <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tr>
-                  <td class="mobile-px" align="center" style="padding:25px 28px 8px 28px;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:20px;font-weight:bold;text-transform:uppercase;letter-spacing:1px;color:#fee600;">
+                  <td class="mobile-px" align="center" style="padding:25px 28px 8px 28px;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:20px;font-weight:bold;text-transform:uppercase;letter-spacing:1px;color:#000000;">
                     Prazo para adequação
                   </td>
                 </tr>
                 <tr>
-                  <td class="date-title mobile-px" align="center" style="padding:0 28px 8px 28px;font-family:Arial,Helvetica,sans-serif;font-size:40px;line-height:45px;font-weight:bold;color:#ffffff;">
+                  <td class="date-title mobile-px" align="center" style="padding:0 28px 8px 28px;font-family:Arial,Helvetica,sans-serif;font-size:40px;line-height:45px;font-weight:bold;color:#000000;">
                     31 de julho de 2026
                   </td>
                 </tr>
                 <tr>
-                  <td class="mobile-px body-text" align="center" style="padding:0 28px 25px 28px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:24px;color:#d1d5db;">
+                  <td class="mobile-px body-text" align="center" style="padding:0 28px 25px 28px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:24px;color:#000000;">
                     A partir de 3 de agosto de 2026, o preenchimento dos campos de IBS e CBS passa a ser exigido nos documentos fiscais abrangidos pelas novas regras.
                   </td>
                 </tr>
@@ -268,18 +268,4 @@
                 <tr>
                   <td class="mobile-px" style="padding:22px 28px 8px 28px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:22px;font-weight:bold;color:#111827;">
                   
-          <!-- FOOTER -->
-          <tr>
-            <td align="center" style="padding:24px 18px 0 18px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:20px;color:#6b7280;">
-              Equipe BomControle
-            </td>
-          </tr>
-
-        </table>
-
-      </td>
-    </tr>
-  </table>
-
-</body>
-</html>
+         
