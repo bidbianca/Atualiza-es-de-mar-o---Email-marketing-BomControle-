@@ -1,0 +1,250 @@
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta name="color-scheme" content="light only">
+  <meta name="supported-color-schemes" content="light only">
+  <title>Novos planos BomControle</title>
+  <style>
+    html, body { margin:0 !important; padding:0 !important; width:100% !important; }
+    body { background:#f4e8a0; }
+    body, table, td, div, a, span { font-family:Arial, Helvetica, sans-serif !important; }
+    table { border-spacing:0; border-collapse:collapse; }
+    img { border:0; outline:none; text-decoration:none; display:block; }
+    a { text-decoration:none; }
+    .preheader { display:none !important; visibility:hidden; opacity:0; color:transparent; height:0; width:0; overflow:hidden; mso-hide:all; }
+    .container { width:100%; max-width:600px; }
+    .module-card, .plan-card { width:100%; }
+
+    @media only screen and (max-width:620px) {
+      .container { width:100% !important; }
+      .mobile-pad { padding-left:20px !important; padding-right:20px !important; }
+      .stack { display:block !important; width:100% !important; max-width:100% !important; }
+      .stack-spacer { display:block !important; width:100% !important; height:14px !important; }
+      .hero-title { font-size:28px !important; line-height:34px !important; }
+      .section-title { font-size:23px !important; line-height:29px !important; }
+      .module-card { height:420px !important; min-height:420px !important; }
+      .module-card .module-content { height:306px !important; min-height:306px !important; }
+      .module-card .price-cell { height:68px !important; min-height:68px !important; }
+      .plan-card { height:auto !important; min-height:0 !important; }
+      .plan-content { height:auto !important; }
+    }
+  </style>
+</head>
+<body style="margin:0; padding:0; background:#f4e8a0; font-family:Arial, Helvetica, sans-serif; color:#000000;">
+  <div class="preheader">Conheça os novos planos do BomControle e escolha a opção ideal para a sua empresa.</div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f4e8a0">
+    <tr>
+      <td align="center" style="padding:24px 12px;">
+        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width:600px; background:#fffadc; border-radius:20px; overflow:hidden;">
+
+          <!-- HERO COMPACTO -->
+          <tr>
+            <td align="center" bgcolor="#fee600" class="mobile-pad" style="padding:24px 44px 27px;">
+              <img src="https://lh3.googleusercontent.com/d/1VUSSr1H6aNRYnvwdZrWfxZWIQ6WfEaox" width="176" alt="BomControle" style="width:176px; max-width:100%; height:auto; margin:0 auto 15px;">
+              <div class="hero-title" style="font-size:32px; line-height:38px; font-weight:800; letter-spacing:-0.7px; color:#000000;">Novos planos BomControle</div>
+              <div style="font-size:15px; line-height:22px; color:#2b2b2b; margin-top:9px;">Mais liberdade para contratar o que sua empresa realmente precisa, com planos por módulo ou gestão completa.</div>
+
+              <div style="display:inline-block; margin-top:17px; padding:8px 12px; background:#000000; color:#ffffff; border-radius:7px; font-size:12px; line-height:18px; font-weight:700;">Sem fidelidade &nbsp;•&nbsp; Sob medida &nbsp;•&nbsp; Para começar</div>
+
+              <table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top:14px;">
+                <tr>
+                  <td bgcolor="#ffffff" style="border-radius:9px;">
+                    <a href="https://bomcontrole.com.br/demonstracao" target="_blank" style="display:inline-block; padding:13px 23px; font-size:14px; line-height:18px; font-weight:700; color:#000000; border-radius:9px;">Conhecer os novos planos</a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- INTRO -->
+          <tr>
+            <td align="center" class="mobile-pad" style="padding:34px 48px 14px;">
+              <div class="section-title" style="font-size:27px; line-height:33px; font-weight:800; letter-spacing:-0.4px;">Um sistema. Toda a sua operação.</div>
+              <div style="font-size:14px; line-height:22px; color:#4a4a4a; margin-top:10px;">Escolha apenas o módulo ideal para o momento da sua empresa ou centralize financeiro, vendas, estoque, CRM, BPM e Service Desk em uma única plataforma.</div>
+            </td>
+          </tr>
+
+          <!-- PLANOS POR MODULO -->
+          <tr>
+            <td align="center" class="mobile-pad" style="padding:20px 36px 10px;">
+              <div class="section-title" style="font-size:26px; line-height:32px; font-weight:800;">Planos por módulo</div>
+              <div style="font-size:13px; line-height:20px; color:#555555; margin-top:6px;">Contrate uma solução específica e evolua no seu ritmo.</div>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="mobile-pad" style="padding:13px 22px 20px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;">
+                <tr>
+                  <td class="stack" width="32%" valign="top">
+                    <table role="presentation" class="module-card" width="100%" height="420" cellpadding="0" cellspacing="0" border="0" style="width:100%; height:420px; border:1px solid #d9d9d9; border-radius:13px; overflow:hidden; background:#ffffff;">
+                      <tr>
+                        <td height="46" align="center" bgcolor="#a9def5" style="height:46px; min-height:46px; mso-height-rule:exactly; padding:0 7px; font-size:16px; line-height:19px; font-weight:800;">BPM</td>
+                      </tr>
+                      <tr>
+                        <td class="module-content" height="306" valign="top" style="height:306px; min-height:306px; mso-height-rule:exactly; padding:15px 12px 6px;">
+                          <div style="font-size:13px; line-height:18px; min-height:54px; font-weight:800; color:#000000;">Processos organizados e automatizados</div>
+                          <div style="font-size:12px; line-height:18px; color:#333333; margin-top:8px;">Crie, automatize e acompanhe processos da sua empresa em um só lugar. Defina etapas, responsáveis, campos personalizados e processos recorrentes, além de visualizar atividades no Kanban e acompanhar resultados por meio de relatórios.</div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="price-cell" height="68" valign="middle" style="height:68px; min-height:68px; max-height:68px; mso-height-rule:exactly; padding:7px 12px; border-top:1px solid #ececec;">
+                          <div style="font-size:11px; line-height:16px; color:#777777;">A partir de</div>
+                          <div style="font-size:19px; line-height:24px; font-weight:800; margin-top:1px; white-space:nowrap;">R$ 299,00<span style="font-size:11px; font-weight:600;">/mês</span></div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td class="stack-spacer" width="2%">&nbsp;</td>
+                  <td class="stack" width="32%" valign="top">
+                    <table role="presentation" class="module-card" width="100%" height="420" cellpadding="0" cellspacing="0" border="0" style="width:100%; height:420px; border:1px solid #d9d9d9; border-radius:13px; overflow:hidden; background:#ffffff;">
+                      <tr>
+                        <td height="46" align="center" bgcolor="#ff6b73" style="height:46px; min-height:46px; mso-height-rule:exactly; padding:0 7px; font-size:16px; line-height:19px; font-weight:800;">CRM</td>
+                      </tr>
+                      <tr>
+                        <td class="module-content" height="306" valign="top" style="height:306px; min-height:306px; mso-height-rule:exactly; padding:15px 12px 6px;">
+                          <div style="font-size:13px; line-height:18px; min-height:54px; font-weight:800; color:#000000;">Mais controle sobre leads e oportunidades</div>
+                          <div style="font-size:12px; line-height:18px; color:#333333; margin-top:8px;">Gerencie leads, oportunidades e negociações em diferentes funis de vendas. Acompanhe cada etapa comercial, crie propostas com assinatura digital, registre motivos de ganho ou perda e integre as vendas ao financeiro do BomControle.</div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="price-cell" height="68" valign="middle" style="height:68px; min-height:68px; max-height:68px; mso-height-rule:exactly; padding:7px 12px; border-top:1px solid #ececec;">
+                          <div style="font-size:11px; line-height:16px; color:#777777;">A partir de</div>
+                          <div style="font-size:19px; line-height:24px; font-weight:800; margin-top:1px; white-space:nowrap;">R$ 299,00<span style="font-size:11px; font-weight:600;">/mês</span></div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td class="stack-spacer" width="2%">&nbsp;</td>
+                  <td class="stack" width="32%" valign="top">
+                    <table role="presentation" class="module-card" width="100%" height="420" cellpadding="0" cellspacing="0" border="0" style="width:100%; height:420px; border:1px solid #d9d9d9; border-radius:13px; overflow:hidden; background:#ffffff;">
+                      <tr>
+                        <td height="46" align="center" bgcolor="#a8eec6" style="height:46px; min-height:46px; mso-height-rule:exactly; padding:0 7px; font-size:15px; line-height:18px; font-weight:800;">Service Desk</td>
+                      </tr>
+                      <tr>
+                        <td class="module-content" height="306" valign="top" style="height:306px; min-height:306px; mso-height-rule:exactly; padding:15px 12px 6px;">
+                          <div style="font-size:13px; line-height:18px; min-height:54px; font-weight:800; color:#000000;">Atendimento mais organizado e eficiente</div>
+                          <div style="font-size:12px; line-height:18px; color:#333333; margin-top:8px;">Centralize chamados e solicitações, defina responsáveis e acompanhe cada atendimento até a conclusão. Com o portal do cliente, seus clientes também podem abrir tickets, acompanhar solicitações e consultar o histórico dos atendimentos.</div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="price-cell" height="68" valign="middle" style="height:68px; min-height:68px; max-height:68px; mso-height-rule:exactly; padding:7px 12px; border-top:1px solid #ececec;">
+                          <div style="font-size:11px; line-height:16px; color:#777777;">A partir de</div>
+                          <div style="font-size:19px; line-height:24px; font-weight:800; margin-top:1px; white-space:nowrap;">R$ 299,00<span style="font-size:11px; font-weight:600;">/mês</span></div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- CORE E SUITE -->
+          <tr>
+            <td align="center" class="mobile-pad" style="padding:25px 36px 10px;">
+              <div class="section-title" style="font-size:26px; line-height:32px; font-weight:800;">Escolha o melhor plano</div>
+              <div style="font-size:13px; line-height:20px; color:#555555; margin-top:6px;">Opções para centralizar a gestão e acompanhar sua empresa de ponta a ponta.</div>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="mobile-pad" style="padding:13px 34px 21px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;">
+                <tr>
+                  <td class="stack" width="48%" valign="top">
+                    <table role="presentation" class="plan-card" width="100%" height="350" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000" style="width:100%; height:350px; border-radius:13px; overflow:hidden; color:#ffffff;">
+                      <tr>
+                        <td class="plan-content" height="272" valign="top" style="height:272px; padding:21px 22px 9px;">
+                          <div style="font-size:21px; line-height:26px; font-weight:800; color:#ffffff;">Core</div>
+                          <div style="font-size:12px; line-height:17px; font-weight:700; text-transform:uppercase; letter-spacing:.7px; margin-top:3px; border-bottom:4px solid #ff6b73; display:inline-block; padding-bottom:2px; color:#ffffff;">Administração</div>
+                          <div style="font-size:13px; line-height:20px; color:#f2f2f2; margin-top:16px;">Para empresas que querem organizar as áreas essenciais da operação.</div>
+                          <div style="font-size:13px; line-height:20px; font-weight:700; margin-top:15px; color:#ffffff;">Inclui:</div>
+                          <div style="font-size:13px; line-height:21px; color:#f2f2f2; margin-top:5px;">Financeiro<br>Vendas<br>Estoque</div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="price-cell" height="78" valign="middle" style="height:78px; padding:10px 22px; border-top:1px solid #ffffff;">
+                          <div style="font-size:11px; line-height:16px; color:#d9d9d9;">A partir de</div>
+                          <div style="font-size:22px; line-height:27px; font-weight:800; color:#ffffff; white-space:nowrap;">R$ 399<span style="font-size:12px; font-weight:600;">/mês</span></div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td class="stack-spacer" width="4%">&nbsp;</td>
+                  <td class="stack" width="48%" valign="top">
+                    <table role="presentation" class="plan-card" width="100%" height="350" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000" style="width:100%; height:350px; border-radius:13px; overflow:hidden; color:#ffffff;">
+                      <tr>
+                        <td class="plan-content" height="272" valign="top" style="height:272px; padding:21px 22px 9px;">
+                          <div style="font-size:21px; line-height:26px; font-weight:800; color:#ffffff;">Suite</div>
+                          <div style="font-size:12px; line-height:17px; font-weight:700; text-transform:uppercase; letter-spacing:.7px; margin-top:3px; border-bottom:4px solid #ff6b73; display:inline-block; padding-bottom:2px; color:#ffffff;">Mais completo</div>
+                          <div style="font-size:13px; line-height:20px; color:#f2f2f2; margin-top:16px;">Para integrar diferentes áreas e ter uma visão completa da empresa.</div>
+                          <div style="font-size:13px; line-height:20px; font-weight:700; margin-top:15px; color:#ffffff;">Inclui:</div>
+                          <div style="font-size:13px; line-height:21px; color:#f2f2f2; margin-top:5px;">Financeiro, Vendas e Estoque<br>CRM<br>BPM<br>Service Desk</div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="price-cell" height="78" valign="middle" style="height:78px; padding:10px 22px; border-top:1px solid #ffffff;">
+                          <div style="font-size:11px; line-height:16px; color:#d9d9d9;">A partir de</div>
+                          <div style="font-size:22px; line-height:27px; font-weight:800; color:#ffffff; white-space:nowrap;">R$ 699<span style="font-size:12px; font-weight:600;">/mês</span></div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- CTA FINAL -->
+          <tr>
+            <td align="center" class="mobile-pad" style="padding:27px 48px 33px;">
+              <div class="section-title" style="font-size:25px; line-height:31px; font-weight:800;">Encontre a opção ideal para sua empresa</div>
+              <div style="font-size:13px; line-height:20px; color:#555555; margin-top:8px;">Fale com um especialista e conheça os planos que combinam com o seu momento.</div>
+              <table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top:18px;">
+                <tr>
+                  <td bgcolor="#fee600" style="border-radius:8px;">
+                    <a href="https://bomcontrole.com.br/demonstracao" target="_blank" style="display:inline-block; padding:14px 24px; font-size:14px; line-height:18px; font-weight:800; color:#000000; border-radius:8px;">Falar com um especialista</a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- RODAPE NO MESMO PADRAO DO HTML DE REFERENCIA -->
+          <tr>
+            <td style="padding:20px 24px; border-top:1px solid #e5e7eb; background:#fcfcfd;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td align="center" style="font-size:13px; line-height:1.65; color:#64748b; padding-bottom:10px;">
+                    O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="vertical-align:top;">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                      <tr>
+                        <td style="padding:0 3px;"><a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png" alt="Instagram" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png" alt="Facebook" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/linkedin.png" alt="LinkedIn" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png" alt="X" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                        <td style="padding:0 3px;"><a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;"><img src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png" alt="YouTube" width="14" height="14" style="display:inline-block; border:0; margin-top:8px;"></a></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
