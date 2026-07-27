@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="pt-BR">
 <head>
@@ -8,10 +7,11 @@
   <meta name="color-scheme" content="light only">
   <meta name="supported-color-schemes" content="light only">
   <title>Novos planos BomControle</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
     html, body { margin:0 !important; padding:0 !important; width:100% !important; }
-    body { background:#f3f3f1; }
-    body, table, td, div, a, span { font-family:sans-serif !important; }
+    body { background:#f7f7f5; }
+    body, table, td, div, a, span { font-family:'Poppins', Arial, Helvetica, sans-serif !important; }
     table { border-spacing:0; border-collapse:collapse; }
     img { border:0; outline:none; text-decoration:none; display:block; }
     a { text-decoration:none; }
@@ -26,21 +26,21 @@
       .stack-spacer { display:block !important; width:100% !important; height:14px !important; }
       .hero-title { font-size:28px !important; line-height:34px !important; }
       .section-title { font-size:23px !important; line-height:29px !important; }
-      .module-card { height:420px !important; min-height:420px !important; }
-      .module-card .module-content { height:306px !important; min-height:306px !important; }
+      .module-card { height:310px !important; min-height:310px !important; }
+      .module-card .module-content { height:196px !important; min-height:196px !important; }
       .module-card .price-cell { height:68px !important; min-height:68px !important; }
       .plan-card { height:auto !important; min-height:0 !important; }
       .plan-content { height:auto !important; }
     }
   </style>
 </head>
-<body style="margin:0; padding:0; background:#f3f3f1; font-family:sans-serif; color:#000000;">
+<body style="margin:0; padding:0; background:#f7f7f5; font-family:'Poppins', Arial, Helvetica, sans-serif; color:#000000;">
   <div class="preheader">Conheça os novos planos do BomControle e escolha a opção ideal para a sua empresa.</div>
 
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f3f3f1">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f7f7f5">
     <tr>
       <td align="center" style="padding:24px 12px;">
-        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width:600px; background:#fffadc; border-radius:20px; overflow:hidden;">
+        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width:600px; background:#fffef7; border-radius:20px; overflow:hidden;">
 
           <!-- HERO COMPACTO -->
           <tr>
@@ -82,14 +82,14 @@
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;">
                 <tr>
                   <td class="stack" width="32%" valign="top">
-                    <table role="presentation" class="module-card" width="100%" height="420" cellpadding="0" cellspacing="0" border="0" style="width:100%; height:420px; border:1px solid #d9d9d9; border-radius:13px; overflow:hidden; background:#ffffff;">
+                    <table role="presentation" class="module-card" width="100%" height="310" cellpadding="0" cellspacing="0" border="0" style="width:100%; height:310px; min-height:310px; max-height:310px; table-layout:fixed; border:1px solid #d9d9d9; border-radius:13px; overflow:hidden; background:#ffffff;">
                       <tr>
-                        <td height="46" align="center" bgcolor="#a9def5" style="height:46px; min-height:46px; mso-height-rule:exactly; padding:0 7px; font-size:16px; line-height:19px; font-weight:800;">BPM</td>
+                        <td height="46" align="center" bgcolor="#a9def5" style="height:46px; min-height:46px; mso-height-rule:exactly; padding:0 7px; font-size:16px; line-height:46px; font-weight:800; white-space:nowrap;">BPM</td>
                       </tr>
                       <tr>
-                        <td class="module-content" height="306" valign="top" style="height:306px; min-height:306px; mso-height-rule:exactly; padding:15px 12px 6px;">
+                        <td class="module-content" height="196" valign="top" style="height:196px; min-height:196px; mso-height-rule:exactly; padding:15px 12px 6px;">
                           <div style="font-size:13px; line-height:18px; min-height:54px; font-weight:800; color:#000000;">Processos organizados e automatizados</div>
-                          <div style="font-size:12px; line-height:18px; color:#333333; margin-top:8px;">Crie, automatize e acompanhe processos da sua empresa em um só lugar. Defina etapas, responsáveis, campos personalizados e processos recorrentes, além de visualizar atividades no Kanban e acompanhar resultados por meio de relatórios.</div>
+                          <div style="font-size:12px; line-height:18px; color:#333333; margin-top:8px; height:108px; min-height:108px; mso-height-rule:exactly; overflow:hidden;">Defina etapas, responsáveis, campos personalizados e processos recorrentes, além de visualizar atividades no Kanban e acompanhar resultados por meio de relatórios.</div>
                         </td>
                       </tr>
                       <tr>
@@ -102,14 +102,14 @@
                   </td>
                   <td class="stack-spacer" width="2%">&nbsp;</td>
                   <td class="stack" width="32%" valign="top">
-                    <table role="presentation" class="module-card" width="100%" height="420" cellpadding="0" cellspacing="0" border="0" style="width:100%; height:420px; border:1px solid #d9d9d9; border-radius:13px; overflow:hidden; background:#ffffff;">
+                    <table role="presentation" class="module-card" width="100%" height="310" cellpadding="0" cellspacing="0" border="0" style="width:100%; height:310px; min-height:310px; max-height:310px; table-layout:fixed; border:1px solid #d9d9d9; border-radius:13px; overflow:hidden; background:#ffffff;">
                       <tr>
-                        <td height="46" align="center" bgcolor="#ff6b73" style="height:46px; min-height:46px; mso-height-rule:exactly; padding:0 7px; font-size:16px; line-height:19px; font-weight:800;">CRM</td>
+                        <td height="46" align="center" bgcolor="#ff6b73" style="height:46px; min-height:46px; mso-height-rule:exactly; padding:0 7px; font-size:16px; line-height:46px; font-weight:800; white-space:nowrap;">CRM</td>
                       </tr>
                       <tr>
-                        <td class="module-content" height="306" valign="top" style="height:306px; min-height:306px; mso-height-rule:exactly; padding:15px 12px 6px;">
+                        <td class="module-content" height="196" valign="top" style="height:196px; min-height:196px; mso-height-rule:exactly; padding:15px 12px 6px;">
                           <div style="font-size:13px; line-height:18px; min-height:54px; font-weight:800; color:#000000;">Mais controle sobre leads e oportunidades</div>
-                          <div style="font-size:12px; line-height:18px; color:#333333; margin-top:8px;">Gerencie leads, oportunidades e negociações em diferentes funis de vendas. Acompanhe cada etapa comercial, crie propostas com assinatura digital, registre motivos de ganho ou perda e integre as vendas ao financeiro do BomControle.</div>
+                          <div style="font-size:12px; line-height:18px; color:#333333; margin-top:8px; height:108px; min-height:108px; mso-height-rule:exactly; overflow:hidden;">Gerencie leads, oportunidades e negociações em diferentes funis de vendas. Acompanhe cada etapa comercial, crie propostas com assinatura digital.</div>
                         </td>
                       </tr>
                       <tr>
@@ -122,14 +122,14 @@
                   </td>
                   <td class="stack-spacer" width="2%">&nbsp;</td>
                   <td class="stack" width="32%" valign="top">
-                    <table role="presentation" class="module-card" width="100%" height="420" cellpadding="0" cellspacing="0" border="0" style="width:100%; height:420px; border:1px solid #d9d9d9; border-radius:13px; overflow:hidden; background:#ffffff;">
+                    <table role="presentation" class="module-card" width="100%" height="310" cellpadding="0" cellspacing="0" border="0" style="width:100%; height:310px; min-height:310px; max-height:310px; table-layout:fixed; border:1px solid #d9d9d9; border-radius:13px; overflow:hidden; background:#ffffff;">
                       <tr>
-                        <td height="46" align="center" bgcolor="#a8eec6" style="height:46px; min-height:46px; mso-height-rule:exactly; padding:0 7px; font-size:15px; line-height:18px; font-weight:800;">Service Desk</td>
+                        <td height="46" align="center" bgcolor="#a8eec6" style="height:46px; min-height:46px; mso-height-rule:exactly; padding:0 7px; font-size:14px; line-height:46px; font-weight:800; white-space:nowrap;">Service Desk</td>
                       </tr>
                       <tr>
-                        <td class="module-content" height="306" valign="top" style="height:306px; min-height:306px; mso-height-rule:exactly; padding:15px 12px 6px;">
+                        <td class="module-content" height="196" valign="top" style="height:196px; min-height:196px; mso-height-rule:exactly; padding:15px 12px 6px;">
                           <div style="font-size:13px; line-height:18px; min-height:54px; font-weight:800; color:#000000;">Atendimento mais organizado e eficiente</div>
-                          <div style="font-size:12px; line-height:18px; color:#333333; margin-top:8px;">Centralize chamados e solicitações, defina responsáveis e acompanhe cada atendimento até a conclusão. Com o portal do cliente, seus clientes também podem abrir tickets, acompanhar solicitações e consultar o histórico dos atendimentos.</div>
+                          <div style="font-size:12px; line-height:18px; color:#333333; margin-top:8px; height:108px; min-height:108px; mso-height-rule:exactly; overflow:hidden;">Centralize chamados e solicitações, defina responsáveis e acompanhe cada atendimento até a conclusão.</div>
                         </td>
                       </tr>
                       <tr>
@@ -158,40 +158,40 @@
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;">
                 <tr>
                   <td class="stack" width="48%" valign="top">
-                    <table role="presentation" class="plan-card" width="100%" height="350" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000" style="width:100%; height:350px; border-radius:13px; overflow:hidden; color:#ffffff;">
+                    <table role="presentation" class="plan-card" width="100%" height="350" cellpadding="0" cellspacing="0" border="0" bgcolor="#f1f1ed" style="width:100%; height:350px; border:1px solid #deded8; border-radius:13px; overflow:hidden; color:#1f1f1f;">
                       <tr>
                         <td class="plan-content" height="272" valign="top" style="height:272px; padding:21px 22px 9px;">
-                          <div style="font-size:21px; line-height:26px; font-weight:800; color:#ffffff;">Core</div>
-                          <div style="font-size:12px; line-height:17px; font-weight:700; text-transform:uppercase; letter-spacing:.7px; margin-top:3px; border-bottom:4px solid #ff6b73; display:inline-block; padding-bottom:2px; color:#ffffff;">Administração</div>
-                          <div style="font-size:13px; line-height:20px; color:#f2f2f2; margin-top:16px;">Para empresas que querem organizar as áreas essenciais da operação.</div>
-                          <div style="font-size:13px; line-height:20px; font-weight:700; margin-top:15px; color:#ffffff;">Inclui:</div>
-                          <div style="font-size:13px; line-height:21px; color:#f2f2f2; margin-top:5px;">Financeiro<br>Vendas<br>Estoque</div>
+                          <div style="font-size:21px; line-height:26px; font-weight:800; color:#1f1f1f;">Core</div>
+                          <div style="font-size:12px; line-height:17px; font-weight:700; text-transform:uppercase; letter-spacing:.7px; margin-top:3px; border-bottom:4px solid #ff6b73; display:inline-block; padding-bottom:2px; color:#1f1f1f;">Administração</div>
+                          <div style="font-size:13px; line-height:20px; color:#4a4a4a; margin-top:16px;">Para empresas que querem organizar as áreas essenciais da operação.</div>
+                          <div style="font-size:13px; line-height:20px; font-weight:700; margin-top:15px; color:#1f1f1f;">Inclui:</div>
+                          <div style="font-size:13px; line-height:21px; color:#4a4a4a; margin-top:5px;">Financeiro<br>Vendas<br>Estoque</div>
                         </td>
                       </tr>
                       <tr>
-                        <td class="price-cell" height="78" valign="middle" style="height:78px; padding:10px 22px; border-top:1px solid #ffffff;">
-                          <div style="font-size:11px; line-height:16px; color:#d9d9d9;">A partir de</div>
-                          <div style="font-size:22px; line-height:27px; font-weight:800; color:#ffffff; white-space:nowrap;">R$ 399<span style="font-size:12px; font-weight:600;">/mês</span></div>
+                        <td class="price-cell" height="78" valign="middle" style="height:78px; padding:10px 22px; border-top:1px solid #d6d6d0;">
+                          <div style="font-size:11px; line-height:16px; color:#777777;">A partir de</div>
+                          <div style="font-size:22px; line-height:27px; font-weight:800; color:#1f1f1f; white-space:nowrap;">R$ 399<span style="font-size:12px; font-weight:600;">/mês</span></div>
                         </td>
                       </tr>
                     </table>
                   </td>
                   <td class="stack-spacer" width="4%">&nbsp;</td>
                   <td class="stack" width="48%" valign="top">
-                    <table role="presentation" class="plan-card" width="100%" height="350" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000" style="width:100%; height:350px; border-radius:13px; overflow:hidden; color:#ffffff;">
+                    <table role="presentation" class="plan-card" width="100%" height="350" cellpadding="0" cellspacing="0" border="0" bgcolor="#f1f1ed" style="width:100%; height:350px; border:1px solid #deded8; border-radius:13px; overflow:hidden; color:#1f1f1f;">
                       <tr>
                         <td class="plan-content" height="272" valign="top" style="height:272px; padding:21px 22px 9px;">
-                          <div style="font-size:21px; line-height:26px; font-weight:800; color:#ffffff;">Suite</div>
-                          <div style="font-size:12px; line-height:17px; font-weight:700; text-transform:uppercase; letter-spacing:.7px; margin-top:3px; border-bottom:4px solid #ff6b73; display:inline-block; padding-bottom:2px; color:#ffffff;">Mais completo</div>
-                          <div style="font-size:13px; line-height:20px; color:#f2f2f2; margin-top:16px;">Para integrar diferentes áreas e ter uma visão completa da empresa.</div>
-                          <div style="font-size:13px; line-height:20px; font-weight:700; margin-top:15px; color:#ffffff;">Inclui:</div>
-                          <div style="font-size:13px; line-height:21px; color:#f2f2f2; margin-top:5px;">Financeiro, Vendas e Estoque<br>CRM<br>BPM<br>Service Desk</div>
+                          <div style="font-size:21px; line-height:26px; font-weight:800; color:#1f1f1f;">Suite</div>
+                          <div style="font-size:12px; line-height:17px; font-weight:700; text-transform:uppercase; letter-spacing:.7px; margin-top:3px; border-bottom:4px solid #ff6b73; display:inline-block; padding-bottom:2px; color:#1f1f1f;">Mais completo</div>
+                          <div style="font-size:13px; line-height:20px; color:#4a4a4a; margin-top:16px;">Para integrar diferentes áreas e ter uma visão completa da empresa.</div>
+                          <div style="font-size:13px; line-height:20px; font-weight:700; margin-top:15px; color:#1f1f1f;">Inclui:</div>
+                          <div style="font-size:13px; line-height:21px; color:#4a4a4a; margin-top:5px;">Financeiro, Vendas e Estoque<br>CRM<br>BPM<br>Service Desk</div>
                         </td>
                       </tr>
                       <tr>
-                        <td class="price-cell" height="78" valign="middle" style="height:78px; padding:10px 22px; border-top:1px solid #ffffff;">
-                          <div style="font-size:11px; line-height:16px; color:#d9d9d9;">A partir de</div>
-                          <div style="font-size:22px; line-height:27px; font-weight:800; color:#ffffff; white-space:nowrap;">R$ 699<span style="font-size:12px; font-weight:600;">/mês</span></div>
+                        <td class="price-cell" height="78" valign="middle" style="height:78px; padding:10px 22px; border-top:1px solid #d6d6d0;">
+                          <div style="font-size:11px; line-height:16px; color:#777777;">A partir de</div>
+                          <div style="font-size:22px; line-height:27px; font-weight:800; color:#1f1f1f; white-space:nowrap;">R$ 699<span style="font-size:12px; font-weight:600;">/mês</span></div>
                         </td>
                       </tr>
                     </table>
