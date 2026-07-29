@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="pt-BR" dir="ltr" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta name="color-scheme" content="light only">
+  <meta name="supported-color-schemes" content="light only">
+  <title>Novos planos BomControle</title>
+  <!--[if mso]>
+  <xml>
+    <o:OfficeDocumentSettings>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+      <o:AllowPNG/>
+    </o:OfficeDocumentSettings>
+  </xml>
+  <![endif]-->
+  <style>
+    html,
+    body {
+      margin: 0 !important;
+      padding: 0 !important;
+      width: 100% !important;
+      background-color: #f4f4f1;
+    }
+
+    body,
+    table,
+    td,
+    a,
+    p,
+    h1,
+    h2,
+    h3 {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    table,
+    td {
+      border-collapse: collapse !important;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      display: block;
+      border: 0;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    a[x-apple-data-detectors] {
+      color: inherit !important;
+      text-decoration: none !important;
+    }
+
+    .preheader {
+      display: none !important;
+      visibility: hidden;
+      opacity: 0;
+      overflow: hidden;
+      mso-hide: all;
+      width: 0;
+      height: 0;
+      max-width: 0;
+      max-height: 0;
+      color: transparent;
+      font-size: 1px;
+      line-height: 1px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 600px;
+    }
+
+    .column {
+      vertical-align: top;
+    }
+
+    .card {
+      border: 1px solid #deded8;
+      border-radius: 12px;
+    }
+
+    @media only screen and (max-width: 620px) {
+      .outer-pad {
+        padding: 0 !important;
+      }
+
+      .container {
+        width: 100% !important;
+        max-width: 100% !important;
+        border-radius: 0 !important;
+      }
+
+      .mobile-pad {
+        padding-left: 22px !important;
+        padding-right: 22px !important;
+      }
+
+      .column,
+      .column-spacer {
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+
+      .column-spacer {
+        height: 12px !important;
+        line-height: 12px !important;
+        font-size: 12px !important;
+      }
+
+      .hero-title {
+        font-size: 30px !important;
+        line-height: 36px !important;
+      }
+
+      .section-title {
+        font-size: 24px !important;
+        line-height: 30px !important;
+      }
+
+      .button-link {
+        display: block !important;
+      }
+    }
+  </style>
+</head>
+<body bgcolor="#f4f4f1" style="margin:0; padding:0; background-color:#f4f4f1; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;">
+  <div class="preheader">Planos por módulo a partir de R$ 299 ou gestão integrada a partir de R$ 399, sem fidelidade.</div>
+  <div class="preheader">&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;</div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f4f4f1" style="width:100%; background-color:#f4f4f1;">
+    <tr>
+      <td class="outer-pad" align="center" style="padding:24px 12px;">
+        <!--[if mso]>
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td>
+        <![endif]-->
+        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#fffef7" style="width:100%; max-width:600px; background-color:#fffef7; border-radius:18px; overflow:hidden;">
+          <tr>
+            <td align="center" bgcolor="#fee600" class="mobile-pad" style="padding:28px 44px 34px; background-color:#fee600;">
+              <a href="https://bomcontrole.com.br/?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=logo" target="_blank" aria-label="Acessar o site do BomControle">
+                <img src="https://framerusercontent.com/images/SSE2iExLZUNLek24IKAekgsKR8.png?width=840&amp;height=104" width="176" height="22" alt="BomControle" style="width:176px; height:auto; max-width:100%; margin:0 auto;">
+              </a>
+
+              <p style="margin:24px 0 0; color:#202020; font-size:12px; line-height:18px; font-weight:700; letter-spacing:1.2px; text-transform:uppercase;">Novos planos BomControle</p>
+              <h1 class="hero-title" style="margin:8px 0 0; color:#000000; font-size:34px; line-height:40px; font-weight:800; letter-spacing:-0.7px;">Agora você escolhe como começar com o BomControle</h1>
+              <p style="margin:14px 0 0; color:#2b2b2b; font-size:16px; line-height:24px;">Comece com CRM, BPM ou Service Desk, ou conecte financeiro, vendas, estoque, processos e atendimento em um único ERP.</p>
+
+              <table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top:20px;">
+                <tr>
+                  <td align="center">
+                    <p style="margin:0; padding:8px 13px; color:#000000; font-size:13px; line-height:18px; font-weight:700;">Sem fidelidade &nbsp;&bull;&nbsp; Pós-pago &nbsp;&bull;&nbsp; Preço não baseado no faturamento</p>
+                  </td>
+                </tr>
+              </table>
+
+              <table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top:22px;">
+                <tr>
+                  <td align="center" bgcolor="#000000" style="background-color:#000000; border-radius:8px;">
+                    <!--[if mso]>
+                    <v:roundrect href="https://bomcontrole.com.br/precos?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=hero_cta" style="height:48px; v-text-anchor:middle; width:200px;" arcsize="16%" stroke="f" fillcolor="#000000">
+                      <w:anchorlock/>
+                      <center style="color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:15px; font-weight:bold;">Ver planos e preços</center>
+                    </v:roundrect>
+                    <![endif]-->
+                    <!--[if !mso]><!-- -->
+                    <a class="button-link" href="https://bomcontrole.com.br/precos?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=hero_cta" target="_blank" style="display:inline-block; padding:15px 24px; color:#ffffff; font-size:15px; line-height:18px; font-weight:800; border-radius:8px;">Ver planos e preços</a>
+                    <!--<![endif]-->
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" bgcolor="#fffef5" class="mobile-pad" style="padding:40px 34px 16px; background-color:#fffef5;">
+              <h2 class="section-title" style="margin:0; color:#171717; font-size:27px; line-height:33px; font-weight:800; letter-spacing:-0.4px;">Precisa resolver uma área primeiro?</h2>
+              <p style="margin:10px 0 0; color:#555555; font-size:15px; line-height:23px;">Contrate uma solução específica para o momento atual da sua empresa.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td bgcolor="#fffef5" class="mobile-pad" style="padding:14px 22px 28px; background-color:#fffef5;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; table-layout:fixed;">
+                <tr>
+                  <td class="column" width="32%">
+                    <table role="presentation" class="card" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
+                      <tr>
+                        <td align="center" bgcolor="#ff6b73" style="padding:13px 10px; background-color:#ff6b73; color:#171717; font-size:17px; line-height:22px; font-weight:800;">CRM</td>
+                      </tr>
+                      <tr>
+                        <td valign="top" style="padding:17px 14px 18px;">
+                          <h3 style="margin:0; color:#171717; font-size:15px; line-height:21px; font-weight:800;">Organize suas vendas</h3>
+                          <p style="margin:8px 0 0; color:#4a4a4a; font-size:14px; line-height:21px;">Gerencie leads, propostas e negociações em um só funil.</p>
+                          <p style="margin:16px 0 0; color:#666666; font-size:13px; line-height:18px;">Até 3 usuários</p>
+                          <p style="margin:7px 0 0; color:#666666; font-size:12px; line-height:17px;">A partir de</p>
+                          <p style="margin:1px 0 0; color:#171717; font-size:18px; line-height:24px; font-weight:800;">R$ 299<span style="font-size:12px; font-weight:600;">/mês</span></p>
+                          <p style="margin:10px 0 0; font-size:13px; line-height:18px;"><a href="https://bomcontrole.com.br/precos-crm?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=crm_card" target="_blank" style="color:#075f99; text-decoration:underline; font-weight:700;">Ver plano CRM</a></p>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td class="column-spacer" width="2%" style="font-size:1px; line-height:1px;">&nbsp;</td>
+                  <td class="column" width="32%">
+                    <table role="presentation" class="card" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
+                      <tr>
+                        <td align="center" bgcolor="#a9def5" style="padding:13px 10px; background-color:#a9def5; color:#171717; font-size:17px; line-height:22px; font-weight:800;">BPM</td>
+                      </tr>
+                      <tr>
+                        <td valign="top" style="padding:17px 14px 18px;">
+                          <h3 style="margin:0; color:#171717; font-size:15px; line-height:21px; font-weight:800;">Padronize processos</h3>
+                          <p style="margin:8px 0 0; color:#4a4a4a; font-size:14px; line-height:21px;">Defina etapas, responsáveis, aprovações e prazos.</p>
+                          <p style="margin:16px 0 0; color:#666666; font-size:13px; line-height:18px;">Até 3 usuários</p>
+                          <p style="margin:7px 0 0; color:#666666; font-size:12px; line-height:17px;">A partir de</p>
+                          <p style="margin:1px 0 0; color:#171717; font-size:18px; line-height:24px; font-weight:800;">R$ 299<span style="font-size:12px; font-weight:600;">/mês</span></p>
+                          <p style="margin:10px 0 0; font-size:13px; line-height:18px;"><a href="https://bomcontrole.com.br/precos-bpm?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=bpm_card" target="_blank" style="color:#075f99; text-decoration:underline; font-weight:700;">Ver plano BPM</a></p>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td class="column-spacer" width="2%" style="font-size:1px; line-height:1px;">&nbsp;</td>
+                  <td class="column" width="32%">
+                    <table role="presentation" class="card" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
+                      <tr>
+                        <td align="center" bgcolor="#a8eec6" style="padding:13px 8px; background-color:#a8eec6; color:#171717; font-size:15px; line-height:22px; font-weight:800;">Service Desk</td>
+                      </tr>
+                      <tr>
+                        <td valign="top" style="padding:17px 14px 18px;">
+                          <h3 style="margin:0; color:#171717; font-size:15px; line-height:21px; font-weight:800;">Centralize chamados</h3>
+                          <p style="margin:8px 0 0; color:#4a4a4a; font-size:14px; line-height:21px;">Acompanhe cada solicitação do início à conclusão.</p>
+                          <p style="margin:16px 0 0; color:#666666; font-size:13px; line-height:18px;">Até 3 usuários</p>
+                          <p style="margin:7px 0 0; color:#666666; font-size:12px; line-height:17px;">A partir de</p>
+                          <p style="margin:1px 0 0; color:#171717; font-size:18px; line-height:24px; font-weight:800;">R$ 299<span style="font-size:12px; font-weight:600;">/mês</span></p>
+                          <p style="margin:10px 0 0; font-size:13px; line-height:18px;"><a href="https://bomcontrole.com.br/precos-service-desk?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=service_desk_card" target="_blank" style="color:#075f99; text-decoration:underline; font-weight:700;">Ver plano Service Desk</a></p>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" bgcolor="#fffdea" class="mobile-pad" style="padding:38px 34px 16px; background-color:#fffdea; border-top:1px solid #e3e2dc;">
+              <h2 class="section-title" style="margin:0; color:#171717; font-size:27px; line-height:33px; font-weight:800; letter-spacing:-0.4px;">Quer conectar diferentes áreas?</h2>
+              <p style="margin:10px 0 0; color:#555555; font-size:15px; line-height:23px;">Escolha a estrutura que combina com o tamanho atual da sua operação.</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td bgcolor="#fffdea" class="mobile-pad" style="padding:14px 22px 20px; background-color:#fffdea;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; table-layout:fixed;">
+                <tr>
+                  <td class="column" width="32%">
+                    <table role="presentation" class="card" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
+                      <tr>
+                        <td style="padding:19px 15px 20px;">
+                          <h3 style="margin:0; color:#171717; font-size:19px; line-height:24px; font-weight:800;">Core</h3>
+                          <p style="margin:3px 0 0; color:#333333; font-size:12px; line-height:17px; font-weight:700; letter-spacing:0.6px;">Administrativo</p>
+                          <p style="margin:14px 0 0; color:#4a4a4a; font-size:14px; line-height:21px;">Financeiro, vendas e estoque.</p>
+                          <p style="margin:12px 0 0; color:#4a4a4a; font-size:13px; line-height:20px;">2 usuários<br>1 empresa ativa</p>
+                          <p style="margin:16px 0 0; color:#666666; font-size:12px; line-height:17px;">A partir de</p>
+                          <p style="margin:1px 0 0; color:#171717; font-size:20px; line-height:26px; font-weight:800;">R$ 399<span style="font-size:12px; font-weight:600;">/mês</span></p>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td class="column-spacer" width="2%" style="font-size:1px; line-height:1px;">&nbsp;</td>
+                  <td class="column" width="32%">
+                    <table role="presentation" class="card" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
+                      <tr>
+                        <td style="padding:19px 15px 20px;">
+                          <h3 style="margin:0; color:#171717; font-size:19px; line-height:24px; font-weight:800;">Gestão</h3>
+                          <p style="margin:3px 0 0; color:#333333; font-size:12px; line-height:17px; font-weight:700; letter-spacing:0.6px;">Administrativo</p>
+                          <p style="margin:14px 0 0; color:#4a4a4a; font-size:14px; line-height:21px;">Financeiro, vendas e estoque.</p>
+                          <p style="margin:12px 0 0; color:#4a4a4a; font-size:13px; line-height:20px;">5 usuários<br>2 empresas ativas</p>
+                          <p style="margin:16px 0 0; color:#666666; font-size:12px; line-height:17px;">A partir de</p>
+                          <p style="margin:1px 0 0; color:#171717; font-size:20px; line-height:26px; font-weight:800;">R$ 499<span style="font-size:12px; font-weight:600;">/mês</span></p>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td class="column-spacer" width="2%" style="font-size:1px; line-height:1px;">&nbsp;</td>
+                  <td class="column" width="32%">
+                    <table role="presentation" class="card" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffe600" style="width:100%; background-color:#ffe600; border:1px solid #ffe600; border-radius:12px; overflow:hidden;">
+                      <tr>
+                        <td style="padding:19px 15px 20px;">
+                          <h3 style="margin:0; color:#000000; font-size:19px; line-height:24px; font-weight:800;">Suíte</h3>
+                          <p style="margin:3px 0 0; color:#333333; font-size:12px; line-height:17px; font-weight:700; letter-spacing:0.6px;">ERP Completo</p>
+                          <p style="margin:14px 0 0; color:#000000; font-size:14px; line-height:21px;">Administrativo, CRM, BPM e Service Desk.</p>
+                          <p style="margin:12px 0 0; color:#000000; font-size:13px; line-height:20px;">7 usuários<br>3 empresas ativas</p>
+                          <p style="margin:16px 0 0; color:#333333; font-size:12px; line-height:17px;">A partir de</p>
+                          <p style="margin:1px 0 0; color:#000000; font-size:20px; line-height:26px; font-weight:800;">R$ 699<span style="font-size:12px; font-weight:600;">/mês</span></p>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" bgcolor="#fffdea" class="mobile-pad" style="padding:0 42px 38px; background-color:#fffdea;">
+              <p style="margin:0; color:#555555; font-size:14px; line-height:22px;">Precisa de mais usuários, empresas ou WhatsApp? Adicione recursos de acordo com a sua operação.</p>
+              <p style="margin:10px 0 0; font-size:14px; line-height:20px;"><a href="https://bomcontrole.com.br/precos?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=plans_comparison" target="_blank" style="color:#075f99; text-decoration:underline; font-weight:700;">Comparar condições dos planos</a></p>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="mobile-pad" style="padding:40px 48px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#fff8c7" style="width:100%; background-color:#fff8c7; border:1px solid #f1df64; border-radius:12px;">
+                <tr>
+                  <td align="center" style="padding:25px 24px;">
+                    <h2 style="margin:0; color:#171717; font-size:23px; line-height:29px; font-weight:800;">Seu faturamento cresce. A mensalidade não cresce por causa disso.</h2>
+                    <p style="margin:11px 0 0; color:#454545; font-size:15px; line-height:23px;">No BomControle, o preço considera os módulos, usuários e empresas contratados. Não cobramos uma porcentagem do faturamento da sua empresa.</p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" bgcolor="#171717" class="mobile-pad" style="padding:20px 30px; background-color:#171717;">
+              <p style="margin:0; color:#ffffff; font-size:14px; line-height:22px; font-weight:700;">11 anos no mercado &nbsp;&bull;&nbsp; Mais de 5.500 empresas atendidas &nbsp;&bull;&nbsp; Presença em 26 estados + DF</p>
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" class="mobile-pad" style="padding:38px 48px 42px;">
+              <h2 class="section-title" style="margin:0; color:#171717; font-size:26px; line-height:32px; font-weight:800;">Compare os planos e encontre o melhor ponto de partida</h2>
+              <p style="margin:10px 0 0; color:#555555; font-size:15px; line-height:23px;">Veja todos os recursos, limites e adicionais antes de escolher.</p>
+
+              <table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top:20px;">
+                <tr>
+                  <td align="center" bgcolor="#fee600" style="border-radius:8px;">
+                    <!--[if mso]>
+                    <v:roundrect href="https://bomcontrole.com.br/precos?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=final_cta" style="height:48px; v-text-anchor:middle; width:224px;" arcsize="16%" stroke="f" fillcolor="#fee600">
+                      <w:anchorlock/>
+                      <center style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:15px; font-weight:bold;">Ver todos os planos e preços</center>
+                    </v:roundrect>
+                    <![endif]-->
+                    <!--[if !mso]><!-- -->
+                    <a class="button-link" href="https://bomcontrole.com.br/precos?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=final_cta" target="_blank" style="display:inline-block; padding:15px 24px; color:#000000; font-size:15px; line-height:18px; font-weight:800; border-radius:8px;">Ver todos os planos e preços</a>
+                    <!--<![endif]-->
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" bgcolor="#f7f7f5" class="mobile-pad" style="padding:25px 34px 28px; background-color:#f7f7f5; border-top:1px solid #e2e2dd;">
+              <p style="margin:0; color:#5b5b5b; font-size:13px; line-height:20px;">BomControle &bull; R. Alegre, 470, 1º andar, Santa Paula<br>São Caetano do Sul - SP, CEP 09550-250</p>
+              <p style="margin:12px 0 0; color:#666666; font-size:12px; line-height:19px;">Você recebeu esta mensagem porque demonstrou interesse no BomControle ou se relacionou anteriormente com nossa empresa.</p>
+              <p style="margin:12px 0 0; color:#666666; font-size:12px; line-height:19px;">
+                <a href="mailto:contato@bomcontrole.com.br" style="color:#075f99; text-decoration:underline;">Contato</a>
+                &nbsp;&bull;&nbsp;
+                <a href="https://bomcontrole.com.br/politica?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=footer_privacy" target="_blank" style="color:#075f99; text-decoration:underline;">Política de privacidade</a>
+              </p>
+              <!-- O RD Station adiciona o link obrigatório de descadastro ao final do envio. -->
+            </td>
+          </tr>
+        </table>
+        <!--[if mso]>
+            </td>
+          </tr>
+        </table>
+        <![endif]-->
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
