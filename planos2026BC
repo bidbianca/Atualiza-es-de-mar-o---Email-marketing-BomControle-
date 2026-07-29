@@ -88,6 +88,24 @@
       border-radius: 12px;
     }
 
+    .module-card {
+      height: 100%;
+    }
+
+    .module-card-content {
+      height: 210px;
+      vertical-align: top;
+    }
+
+    .module-card-description {
+      height: 63px;
+    }
+
+    .module-card-footer {
+      height: 78px;
+      vertical-align: bottom;
+    }
+
     @media only screen and (max-width: 620px) {
       .outer-pad {
         padding: 0 !important;
@@ -194,15 +212,15 @@
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; table-layout:fixed;">
                 <tr>
                   <td class="column" width="32%">
-                    <table role="presentation" class="card" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
+                    <table role="presentation" class="card module-card" width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; height:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
                       <tr>
                         <td align="center" bgcolor="#ff6b73" style="padding:13px 10px; background-color:#ff6b73; color:#171717; font-size:17px; line-height:22px; font-weight:800;">CRM</td>
                       </tr>
                       <tr>
-                        <td valign="top" style="padding:17px 14px 18px;">
+                        <td class="module-card-content" valign="top" style="padding:17px 14px 18px; height:210px;">
                           <h3 style="margin:0; color:#171717; font-size:15px; line-height:21px; font-weight:800;">Organize suas vendas</h3>
-                          <p style="margin:8px 0 0; color:#4a4a4a; font-size:14px; line-height:21px;">Gerencie leads, propostas e negociações em um só funil.</p>
-                          <p style="margin:16px 0 0; color:#666666; font-size:13px; line-height:18px;">Até 3 usuários</p>
+                          <p class="module-card-description" style="margin:8px 0 0; height:63px; color:#4a4a4a; font-size:14px; line-height:21px;">Gerencie leads, propostas e negociações em um só funil.</p>
+                          <p style="margin:24px 0 0; color:#666666; font-size:13px; line-height:18px;">Até 3 usuários</p>
                           <p style="margin:7px 0 0; color:#666666; font-size:12px; line-height:17px;">A partir de</p>
                           <p style="margin:1px 0 0; color:#171717; font-size:18px; line-height:24px; font-weight:800;">R$ 299<span style="font-size:12px; font-weight:600;">/mês</span></p>
                           <p style="margin:10px 0 0; font-size:13px; line-height:18px;"><a href="https://bomcontrole.com.br/precos-crm?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=crm_card" target="_blank" style="color:#075f99; text-decoration:underline; font-weight:700;">Ver plano CRM</a></p>
@@ -212,15 +230,15 @@
                   </td>
                   <td class="column-spacer" width="2%" style="font-size:1px; line-height:1px;">&nbsp;</td>
                   <td class="column" width="32%">
-                    <table role="presentation" class="card" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
+                    <table role="presentation" class="card module-card" width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; height:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
                       <tr>
                         <td align="center" bgcolor="#a9def5" style="padding:13px 10px; background-color:#a9def5; color:#171717; font-size:17px; line-height:22px; font-weight:800;">BPM</td>
                       </tr>
                       <tr>
-                        <td valign="top" style="padding:17px 14px 18px;">
+                        <td class="module-card-content" valign="top" style="padding:17px 14px 18px; height:210px;">
                           <h3 style="margin:0; color:#171717; font-size:15px; line-height:21px; font-weight:800;">Padronize processos</h3>
-                          <p style="margin:8px 0 0; color:#4a4a4a; font-size:14px; line-height:21px;">Defina etapas, responsáveis, aprovações e prazos.</p>
-                          <p style="margin:16px 0 0; color:#666666; font-size:13px; line-height:18px;">Até 3 usuários</p>
+                          <p class="module-card-description" style="margin:8px 0 0; height:63px; color:#4a4a4a; font-size:14px; line-height:21px;">Defina etapas, responsáveis, aprovações e prazos.</p>
+                          <p style="margin:24px 0 0; color:#666666; font-size:13px; line-height:18px;">Até 3 usuários</p>
                           <p style="margin:7px 0 0; color:#666666; font-size:12px; line-height:17px;">A partir de</p>
                           <p style="margin:1px 0 0; color:#171717; font-size:18px; line-height:24px; font-weight:800;">R$ 299<span style="font-size:12px; font-weight:600;">/mês</span></p>
                           <p style="margin:10px 0 0; font-size:13px; line-height:18px;"><a href="https://bomcontrole.com.br/precos-bpm?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=bpm_card" target="_blank" style="color:#075f99; text-decoration:underline; font-weight:700;">Ver plano BPM</a></p>
@@ -230,15 +248,15 @@
                   </td>
                   <td class="column-spacer" width="2%" style="font-size:1px; line-height:1px;">&nbsp;</td>
                   <td class="column" width="32%">
-                    <table role="presentation" class="card" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
+                    <table role="presentation" class="card module-card" width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; height:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
                       <tr>
-                        <td align="center" bgcolor="#a8eec6" style="padding:13px 8px; background-color:#a8eec6; color:#171717; font-size:15px; line-height:22px; font-weight:800;">Service Desk</td>
+                        <td align="center" bgcolor="#a8eec6" style="padding:13px 10px; background-color:#a8eec6; color:#171717; font-size:17px; line-height:22px; font-weight:800;">Service Desk</td>
                       </tr>
                       <tr>
-                        <td valign="top" style="padding:17px 14px 18px;">
+                        <td class="module-card-content" valign="top" style="padding:17px 14px 18px; height:210px;">
                           <h3 style="margin:0; color:#171717; font-size:15px; line-height:21px; font-weight:800;">Centralize chamados</h3>
-                          <p style="margin:8px 0 0; color:#4a4a4a; font-size:14px; line-height:21px;">Acompanhe cada solicitação do início à conclusão.</p>
-                          <p style="margin:16px 0 0; color:#666666; font-size:13px; line-height:18px;">Até 3 usuários</p>
+                          <p class="module-card-description" style="margin:8px 0 0; height:63px; color:#4a4a4a; font-size:14px; line-height:21px;">Acompanhe cada solicitação do início à conclusão.</p>
+                          <p style="margin:24px 0 0; color:#666666; font-size:13px; line-height:18px;">Até 3 usuários</p>
                           <p style="margin:7px 0 0; color:#666666; font-size:12px; line-height:17px;">A partir de</p>
                           <p style="margin:1px 0 0; color:#171717; font-size:18px; line-height:24px; font-weight:800;">R$ 299<span style="font-size:12px; font-weight:600;">/mês</span></p>
                           <p style="margin:10px 0 0; font-size:13px; line-height:18px;"><a href="https://bomcontrole.com.br/precos-service-desk?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=service_desk_card" target="_blank" style="color:#075f99; text-decoration:underline; font-weight:700;">Ver plano Service Desk</a></p>
