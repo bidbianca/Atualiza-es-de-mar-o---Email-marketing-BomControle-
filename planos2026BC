@@ -50,8 +50,10 @@
       -ms-interpolation-mode: bicubic;
     }
 
-    a {
-      text-decoration: none;
+    a,
+    a:link,
+    a:visited {
+      text-decoration: none !important;
     }
 
     a[x-apple-data-detectors] {
@@ -184,7 +186,7 @@
 
               <table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top:22px;">
                 <tr>
-                  <td align="center" bgcolor="#000000" style="background-color:#000000; border-radius:8px;">
+                  <td align="center" bgcolor="#000000" style="background-color:#000000; border-radius:8px; text-decoration:none !important;">
                     <!--[if mso]>
                     <v:roundrect href="https://bomcontrole.com.br/precos?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=hero_cta" style="height:48px; v-text-anchor:middle; width:200px;" arcsize="16%" stroke="f" fillcolor="#000000">
                       <w:anchorlock/>
@@ -192,7 +194,7 @@
                     </v:roundrect>
                     <![endif]-->
                     <!--[if !mso]><!-- -->
-                    <a class="button-link" href="https://bomcontrole.com.br/precos?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=hero_cta" target="_blank" style="display:inline-block; padding:15px 24px; color:#ffffff; font-size:15px; line-height:18px; font-weight:800; border-radius:8px;">Ver planos e preços</a>
+                    <a class="button-link" href="https://bomcontrole.com.br/precos?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=hero_cta" target="_blank" style="display:inline-block; padding:15px 24px; color:#ffffff; font-size:15px; line-height:18px; font-weight:800; border-radius:8px; text-decoration:none !important;">Ver planos e preços</a>
                     <!--<![endif]-->
                   </td>
                 </tr>
@@ -214,7 +216,7 @@
                   <td class="column" width="32%">
                     <table role="presentation" class="card module-card" width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; height:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
                       <tr>
-                        <td align="center" bgcolor="#ff6b73" style="padding:13px 10px; background-color:#ff6b73; color:#171717; font-size:17px; line-height:22px; font-weight:800;">CRM</td>
+                        <td align="center" valign="middle" height="48" bgcolor="#ff6b73" style="height:48px; padding:0 8px; background-color:#ff6b73; color:#171717; font-size:16px; line-height:18px; font-weight:800; white-space:nowrap;">CRM</td>
                       </tr>
                       <tr>
                         <td class="module-card-content" valign="top" style="padding:17px 14px 18px; height:210px;">
@@ -232,7 +234,7 @@
                   <td class="column" width="32%">
                     <table role="presentation" class="card module-card" width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; height:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
                       <tr>
-                        <td align="center" bgcolor="#a9def5" style="padding:13px 10px; background-color:#a9def5; color:#171717; font-size:17px; line-height:22px; font-weight:800;">BPM</td>
+                        <td align="center" valign="middle" height="48" bgcolor="#a9def5" style="height:48px; padding:0 8px; background-color:#a9def5; color:#171717; font-size:16px; line-height:18px; font-weight:800; white-space:nowrap;">BPM</td>
                       </tr>
                       <tr>
                         <td class="module-card-content" valign="top" style="padding:17px 14px 18px; height:210px;">
@@ -250,7 +252,7 @@
                   <td class="column" width="32%">
                     <table role="presentation" class="card module-card" width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:100%; height:100%; background-color:#ffffff; border:1px solid #deded8; border-radius:12px; overflow:hidden;">
                       <tr>
-                        <td align="center" bgcolor="#a8eec6" style="padding:13px 10px; background-color:#a8eec6; color:#171717; font-size:17px; line-height:22px; font-weight:800;">Service Desk</td>
+                        <td align="center" valign="middle" height="48" bgcolor="#a8eec6" style="height:48px; padding:0 6px; background-color:#a8eec6; color:#171717; font-size:15px; line-height:18px; font-weight:800; white-space:nowrap;">Service Desk</td>
                       </tr>
                       <tr>
                         <td class="module-card-content" valign="top" style="padding:17px 14px 18px; height:210px;">
@@ -362,7 +364,7 @@
 
               <table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top:20px;">
                 <tr>
-                  <td align="center" bgcolor="#fee600" style="border-radius:8px;">
+                  <td align="center" bgcolor="#fee600" style="border-radius:8px; text-decoration:none !important;">
                     <!--[if mso]>
                     <v:roundrect href="https://bomcontrole.com.br/precos?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=final_cta" style="height:48px; v-text-anchor:middle; width:224px;" arcsize="16%" stroke="f" fillcolor="#fee600">
                       <w:anchorlock/>
@@ -370,7 +372,7 @@
                     </v:roundrect>
                     <![endif]-->
                     <!--[if !mso]><!-- -->
-                    <a class="button-link" href="https://bomcontrole.com.br/precos?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=final_cta" target="_blank" style="display:inline-block; padding:15px 24px; color:#000000; font-size:15px; line-height:18px; font-weight:800; border-radius:8px;">Ver todos os planos e preços</a>
+                    <a class="button-link" href="https://bomcontrole.com.br/precos?utm_source=rd_station&amp;utm_medium=email&amp;utm_campaign=novos_planos&amp;utm_content=final_cta" target="_blank" style="display:inline-block; padding:15px 24px; color:#000000; font-size:15px; line-height:18px; font-weight:800; border-radius:8px; text-decoration:none !important;">Ver todos os planos e preços</a>
                     <!--<![endif]-->
                   </td>
                 </tr>
@@ -380,8 +382,7 @@
 
           <tr>
             <td align="center" bgcolor="#f7f7f5" class="mobile-pad" style="padding:25px 34px 28px; background-color:#f7f7f5; border-top:1px solid #e2e2dd;">
-              <p style="margin:0; color:#5b5b5b; font-size:13px; line-height:20px;">BomControle &bull; R. Alegre, 470, 1º andar, Santa Paula<br>São Caetano do Sul - SP, CEP 09550-250</p>
-              <p style="margin:12px 0 0; color:#666666; font-size:12px; line-height:19px;">Você recebeu esta mensagem porque demonstrou interesse no BomControle ou se relacionou anteriormente com nossa empresa.</p>
+                            <p style="margin:12px 0 0; color:#666666; font-size:12px; line-height:19px;">Você recebeu esta mensagem porque demonstrou interesse no BomControle ou se relacionou anteriormente com nossa empresa.</p>
               <p style="margin:12px 0 0; color:#666666; font-size:12px; line-height:19px;">
                 <a href="mailto:contato@bomcontrole.com.br" style="color:#075f99; text-decoration:underline;">Contato</a>
                 &nbsp;&bull;&nbsp;
