@@ -185,18 +185,4 @@
               <strong style="color:#000000; font-weight:600;">Esperamos você no BomControle Conecta!</strong>
             </td>
           </tr>
-
-          <!-- Rodapé -->
-          <tr>
-            <td class="mobile-pad" align="center" bgcolor="#ffffff" style="padding:22px 40px; background-color:#ffffff; border-top:1px solid #e6e6df; font-family:Poppins,Arial,Helvetica,sans-serif; color:#6b6b6b; font-size:10px; line-height:17px; font-weight:400;">
-              BomControle · Um sistema, toda a sua operação<br>
-              Convite exclusivo para clientes BomControle.
-            </td>
-          </tr>
-
-        </table>
-      </td>
-    </tr>
-  </table>
-</body>
 </html>
