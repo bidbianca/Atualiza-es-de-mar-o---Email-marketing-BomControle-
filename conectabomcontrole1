@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="pt-BR" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta name="color-scheme" content="light only">
+  <title>Confirme sua presença | BomControle Conecta</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+    html, body { margin:0 !important; padding:0 !important; width:100% !important; background:#f2f2ef; }
+    table, td { border-collapse:collapse !important; mso-table-lspace:0pt !important; mso-table-rspace:0pt !important; }
+    img { border:0; outline:none; text-decoration:none; display:block; }
+    a { text-decoration:none; }
+    @media only screen and (max-width:620px) {
+      .container { width:100% !important; }
+      .mobile-pad { padding-left:24px !important; padding-right:24px !important; }
+      .hero-title { font-size:30px !important; line-height:38px !important; white-space:normal !important; }
+      .brand-logo { width:190px !important; height:auto !important; }
+      .event-name { font-size:25px !important; line-height:29px !important; }
+      .brand-cell, .event-cell { display:block !important; width:100% !important; text-align:left !important; }
+      .brand-cell { padding-bottom:10px !important; }
+      .separator { display:none !important; }
+      .detail-col { display:block !important; width:100% !important; }
+      .detail-gap { display:block !important; width:100% !important; height:10px !important; line-height:10px !important; }
+      .button { width:100% !important; box-sizing:border-box !important; }
+    }
+  </style>
+</head>
+
+<body style="margin:0; padding:0; background-color:#f2f2ef;">
+  <div style="display:none; max-height:0; overflow:hidden; opacity:0; color:transparent; line-height:1px; font-size:1px;">
+    Confirme sua presença e venha viver o BomControle Conecta com a gente.
+  </div>
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f2f2ef" style="width:100%; background-color:#f2f2ef;">
+    <tr>
+      <td align="center" style="padding:28px 12px;">
+        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="width:600px; max-width:600px; background-color:#ffffff;">
+
+          <!-- Cabeçalho com logo hospedada: compatível com o RD Station -->
+          <tr>
+            <td bgcolor="#ffffff" style="padding:28px 38px 25px; background-color:#ffffff; border-bottom:1px solid #e6e6df; font-family:Poppins,Arial,Helvetica,sans-serif;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td class="brand-cell" valign="middle" style="white-space:nowrap;">
+                    <img class="brand-logo" src="https://framerusercontent.com/images/eUiFTJvPLR7y3IscJ3R68c3DY5c.png?height=104&amp;width=840" width="205" alt="BomControle" style="display:block; width:205px; max-width:100%; height:auto; border:0; outline:none; text-decoration:none;">
+                  </td>
+                  <td class="separator" width="38" align="center" valign="middle" style="color:#000000; font-size:40px; line-height:42px; font-weight:300;">|</td>
+                  <td class="event-cell" valign="middle" style="white-space:nowrap;">
+                    <span class="event-name" style="display:inline-block; padding:1px 7px; background-color:#fee600; color:#000000; font-size:30px; line-height:34px; font-weight:500; letter-spacing:-0.5px;">Conecta</span><br>
+                    <span style="color:#4d4d4d; font-size:10px; line-height:16px; font-weight:400;">Conteúdo <span style="color:#e2cc00;">●</span> Troca <span style="color:#e2cc00;">●</span> Conexão</span>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Convite -->
+          <tr>
+            <td class="mobile-pad" bgcolor="#ffffff" style="padding:38px 48px 39px; background-color:#ffffff; border-bottom:1px solid #edede8; font-family:Poppins,Arial,Helvetica,sans-serif;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td class="hero-title" style="color:#000000; font-size:36px; line-height:44px; font-weight:600; letter-spacing:-0.5px; white-space:nowrap;">
+                    <span style="display:inline-block; color:#000000; background-color:#fee600; padding:0 8px;">Você é nosso convidado!</span>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding-top:16px; color:#4d4d4d; font-size:16px; line-height:26px; font-weight:400;">
+                    O BomControle Conecta está chegando e queremos muito encontrar você por lá.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Apresentação -->
+          <tr>
+            <td class="mobile-pad" style="padding:31px 48px 7px; font-family:Poppins,Arial,Helvetica,sans-serif; color:#171717;">
+              <p style="margin:0 0 12px; font-size:19px; line-height:28px; font-weight:600; color:#171717;">Vamos viver esse encontro juntos?</p>
+              <p style="margin:0; font-size:14px; line-height:24px; font-weight:400; color:#4d4d4d;">
+                Queremos muito ter você com a gente! Para garantir seu lugar no <strong style="color:#000000; font-weight:600;">BomControle Conecta</strong>, confirme sua presença no formulário abaixo.
+              </p>
+            </td>
+          </tr>
+
+          <!-- Data e localização -->
+          <tr>
+            <td class="mobile-pad" style="padding:25px 48px 5px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td class="detail-col" width="48%" valign="top">
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f7f7f4" style="background-color:#f7f7f4; border:1px solid #e6e6df; border-radius:12px;">
+                      <tr>
+                        <td style="padding:17px 16px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+                          <div style="color:#777777; font-size:10px; line-height:15px; font-weight:600; letter-spacing:1px; text-transform:uppercase;">Data e horário</div>
+                          <div style="padding-top:5px; color:#000000; font-size:14px; line-height:22px; font-weight:600;">21 de outubro de 2026</div>
+                          <div style="color:#4d4d4d; font-size:12px; line-height:20px; font-weight:400;">das 09h00 às 17h00</div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td class="detail-gap" width="4%" style="font-size:1px; line-height:1px;">&nbsp;</td>
+                  <td class="detail-col" width="48%" valign="top">
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f7f7f4" style="background-color:#f7f7f4; border:1px solid #e6e6df; border-radius:12px;">
+                      <tr>
+                        <td style="padding:17px 16px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+                          <div style="color:#777777; font-size:10px; line-height:15px; font-weight:600; letter-spacing:1px; text-transform:uppercase;">Localização</div>
+                          <div style="padding-top:5px; color:#000000; font-size:14px; line-height:22px; font-weight:600;">Av. Paulista, 1499</div>
+                          <div style="color:#4d4d4d; font-size:12px; line-height:20px; font-weight:400;">São Paulo/SP</div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Programação -->
+          <tr>
+            <td class="mobile-pad" style="padding:27px 48px 3px; font-family:Poppins,Arial,Helvetica,sans-serif; color:#171717;">
+              <p style="margin:0 0 14px; font-size:16px; line-height:24px; font-weight:600;">O que espera por você</p>
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td width="16" valign="top" style="width:16px; padding-top:8px; font-size:0; line-height:0;">
+                    <table role="presentation" width="6" cellpadding="0" cellspacing="0" border="0" style="width:6px;">
+                      <tr><td width="6" height="6" bgcolor="#fee600" style="width:6px; height:6px; background-color:#fee600; font-size:0; line-height:0;">&nbsp;</td></tr>
+                    </table>
+                  </td>
+                  <td style="padding-bottom:7px; color:#4d4d4d; font-size:13px; line-height:21px; font-weight:400;">Conteúdo sobre a Reforma Tributária com especialista;</td>
+                </tr>
+                <tr>
+                  <td width="16" valign="top" style="width:16px; padding-top:8px; font-size:0; line-height:0;">
+                    <table role="presentation" width="6" cellpadding="0" cellspacing="0" border="0" style="width:6px;">
+                      <tr><td width="6" height="6" bgcolor="#fee600" style="width:6px; height:6px; background-color:#fee600; font-size:0; line-height:0;">&nbsp;</td></tr>
+                    </table>
+                  </td>
+                  <td style="padding-bottom:7px; color:#4d4d4d; font-size:13px; line-height:21px; font-weight:400;">Novidades, boas práticas e troca com o time BomControle;</td>
+                </tr>
+                <tr>
+                  <td width="16" valign="top" style="width:16px; padding-top:8px; font-size:0; line-height:0;">
+                    <table role="presentation" width="6" cellpadding="0" cellspacing="0" border="0" style="width:6px;">
+                      <tr><td width="6" height="6" bgcolor="#fee600" style="width:6px; height:6px; background-color:#fee600; font-size:0; line-height:0;">&nbsp;</td></tr>
+                    </table>
+                  </td>
+                  <td style="color:#4d4d4d; font-size:13px; line-height:21px; font-weight:400;">Networking e espaço para tirar dúvidas.</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Aviso -->
+          <tr>
+            <td class="mobile-pad" style="padding:26px 48px 4px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f7f7f4" style="background-color:#f7f7f4; border:1px solid #e6e6df; border-radius:12px;">
+                <tr>
+                  <td style="padding:16px 17px; color:#242424; font-family:Poppins,Arial,Helvetica,sans-serif; font-size:13px; line-height:21px; font-weight:400;">
+                    <strong style="color:#000000; font-weight:600;">As vagas são limitadas.</strong><br>
+                    Preencha o formulário para confirmar a sua participação.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Botão -->
+          <tr>
+            <td align="center" class="mobile-pad" style="padding:26px 48px 13px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+              <!--[if mso]>
+              <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://forms.gle/YEXCvbvYCxssgBR8A" style="height:50px;v-text-anchor:middle;width:290px;" arcsize="20%" stroke="f" fillcolor="#fee600">
+                <w:anchorlock/>
+                <center style="color:#000000;font-family:Arial,sans-serif;font-size:15px;font-weight:bold;">Confirmar minha presença</center>
+              </v:roundrect>
+              <![endif]-->
+              <!--[if !mso]><!-- -->
+              <a class="button" href="https://forms.gle/YEXCvbvYCxssgBR8A" target="_blank" style="display:inline-block; min-width:242px; padding:14px 24px; background-color:#fee600 !important; border-radius:9px; color:#000000 !important; font-size:15px; line-height:22px; font-weight:600; text-align:center; text-decoration:none; -webkit-text-fill-color:#000000;">Confirmar minha presença</a>
+              <!--<![endif]-->
+            </td>
+          </tr>
+
+          <tr>
+            <td class="mobile-pad" align="center" style="padding:7px 48px 34px; font-family:Poppins,Arial,Helvetica,sans-serif; color:#6b6b6b; font-size:12px; line-height:20px; font-weight:400;">
+              Após preencher o formulário, sua presença estará confirmada.<br>
+              <strong style="color:#000000; font-weight:600;">Esperamos você no BomControle Conecta!</strong>
+            </td>
+          </tr>
+
+          <!-- Rodapé -->
+          <tr>
+            <td class="mobile-pad" align="center" bgcolor="#ffffff" style="padding:22px 40px; background-color:#ffffff; border-top:1px solid #e6e6df; font-family:Poppins,Arial,Helvetica,sans-serif; color:#6b6b6b; font-size:10px; line-height:17px; font-weight:400;">
+              BomControle · Um sistema, toda a sua operação<br>
+              Convite exclusivo para clientes BomControle.
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
