@@ -37,7 +37,20 @@
       text-decoration: none;
     }
 
+    /* EVITA ENDEREÇO AZUL AUTOMÁTICO */
+    a[x-apple-data-detectors],
+    #MessageViewBody a,
+    u + #body a {
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+
     @media only screen and (max-width:620px) {
+
       .container {
         width: 100% !important;
       }
@@ -97,7 +110,7 @@
   </style>
 </head>
 
-<body style="margin:0; padding:0; background-color:#f2f2ef;">
+<body id="body" style="margin:0; padding:0; background-color:#f2f2ef;">
 
   <!-- PREHEADER -->
   <div style="
@@ -124,7 +137,7 @@
     <tr>
       <td align="center" style="padding:28px 12px;">
 
-        <!-- CONTAINER -->
+        <!-- CONTAINER PRINCIPAL -->
         <table
           role="presentation"
           class="container"
@@ -592,7 +605,7 @@
                   border-radius:14px;
                   overflow:hidden;">
 
-                <!-- DETALHE AMARELO -->
+                <!-- LINHA AMARELA -->
                 <tr>
                   <td
                     height="6"
@@ -616,7 +629,8 @@
                     <!-- TÍTULO -->
                     <div
                       style="
-                        color:#fee600;
+                        color:#fee600 !important;
+                        -webkit-text-fill-color:#fee600 !important;
                         font-size:11px;
                         line-height:17px;
                         font-weight:600;
@@ -629,7 +643,8 @@
                     <div
                       style="
                         padding-top:9px;
-                        color:#ffffff;
+                        color:#ffffff !important;
+                        -webkit-text-fill-color:#ffffff !important;
                         font-size:22px;
                         line-height:29px;
                         font-weight:600;">
@@ -640,45 +655,85 @@
                     <div
                       style="
                         padding-top:3px;
-                        color:#bdbdbd;
+                        color:#bdbdbd !important;
+                        -webkit-text-fill-color:#bdbdbd !important;
                         font-size:12px;
                         line-height:19px;
                         font-weight:400;">
                       Condomínio Edifício Conde Andrea Matarazzo
                     </div>
 
-                    <!-- ENDEREÇO -->
+                    <!-- AVENIDA -->
                     <div
                       style="
                         padding-top:15px;
-                        color:#fee600;
+                        color:#fee600 !important;
+                        -webkit-text-fill-color:#fee600 !important;
                         font-size:17px;
                         line-height:26px;
-                        font-weight:600;">
-                      Av. Paulista, 1499
+                        font-weight:600;
+                        text-decoration:none !important;">
+
+                      <span
+                        style="
+                          color:#fee600 !important;
+                          -webkit-text-fill-color:#fee600 !important;
+                          text-decoration:none !important;">
+                        Av. Paulista, 1499
+                      </span>
+
                     </div>
 
                     <!-- ANDAR E CONJUNTO -->
                     <div
                       style="
                         padding-top:3px;
-                        color:#fee600;
+                        color:#fee600 !important;
+                        -webkit-text-fill-color:#fee600 !important;
                         font-size:15px;
                         line-height:23px;
-                        font-weight:600;">
-                      17º andar – Conjunto 1704
+                        font-weight:600;
+                        text-decoration:none !important;">
+
+                      <span
+                        style="
+                          color:#fee600 !important;
+                          -webkit-text-fill-color:#fee600 !important;
+                          text-decoration:none !important;">
+                        17º andar – Conjunto 1704
+                      </span>
+
                     </div>
 
-                    <!-- BAIRRO / CIDADE / CEP -->
+                    <!-- BAIRRO / CIDADE -->
                     <div
                       style="
                         padding-top:6px;
-                        color:#ffffff;
+                        color:#ffffff !important;
+                        -webkit-text-fill-color:#ffffff !important;
                         font-size:14px;
                         line-height:22px;
-                        font-weight:400;">
-                      Bela Vista – São Paulo – SP<br>
-                      CEP 01311-200
+                        font-weight:400;
+                        text-decoration:none !important;">
+
+                      <span
+                        style="
+                          color:#ffffff !important;
+                          -webkit-text-fill-color:#ffffff !important;
+                          text-decoration:none !important;">
+                        Bela Vista – São Paulo – SP
+                      </span>
+
+                      <br>
+
+                      <span
+                        style="
+                          color:#ffffff !important;
+                          -webkit-text-fill-color:#ffffff !important;
+                          text-decoration:none !important;">
+                        CEP 01311-200
+                      </span>
+
                     </div>
 
                   </td>
@@ -718,14 +773,15 @@
                         display:inline-block;
                         min-width:230px;
                         padding:14px 24px;
-                        background-color:#fee600;
+                        background-color:#fee600 !important;
+                        color:#000000 !important;
+                        -webkit-text-fill-color:#000000 !important;
                         border-radius:9px;
-                        color:#000000;
                         font-size:14px;
                         line-height:21px;
                         font-weight:600;
                         text-align:center;
-                        text-decoration:none;">
+                        text-decoration:none !important;">
                       Ver localização no mapa
                     </a>
 
@@ -827,6 +883,7 @@
                 font-weight:400;">
 
               Salve a data na agenda e prepare-se para esse encontro.
+
               <br>
 
               <strong
@@ -1035,7 +1092,7 @@
           </tr>
 
         </table>
-        <!-- FIM CONTAINER -->
+        <!-- FIM DO CONTAINER -->
 
       </td>
     </tr>
