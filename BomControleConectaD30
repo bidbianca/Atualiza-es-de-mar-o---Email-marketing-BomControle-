@@ -38,7 +38,6 @@
     }
 
     @media only screen and (max-width:620px) {
-
       .container {
         width: 100% !important;
       }
@@ -98,9 +97,7 @@
   </style>
 </head>
 
-
 <body style="margin:0; padding:0; background-color:#f2f2ef;">
-
 
   <!-- PREHEADER -->
   <div style="
@@ -113,7 +110,6 @@
     font-size:1px;">
     Falta 1 mês para o BomControle Conecta. Confira as informações do evento e lembre-se de levar seu ingresso.
   </div>
-
 
   <!-- FUNDO -->
   <table
@@ -128,8 +124,7 @@
     <tr>
       <td align="center" style="padding:28px 12px;">
 
-
-        <!-- CONTAINER PRINCIPAL -->
+        <!-- CONTAINER -->
         <table
           role="presentation"
           class="container"
@@ -146,8 +141,7 @@
             border-radius:16px;
             overflow:hidden;">
 
-
-          <!-- FAIXA SUPERIOR AMARELA -->
+          <!-- FAIXA AMARELA -->
           <tr>
             <td
               height="9"
@@ -161,7 +155,6 @@
               &nbsp;
             </td>
           </tr>
-
 
           <!-- CABEÇALHO -->
           <tr>
@@ -202,7 +195,6 @@
                         text-decoration:none;">
                   </td>
 
-
                   <!-- SEPARADOR -->
                   <td
                     class="separator"
@@ -216,7 +208,6 @@
                       font-weight:300;">
                     |
                   </td>
-
 
                   <!-- CONECTA -->
                   <td
@@ -262,7 +253,6 @@
             </td>
           </tr>
 
-
           <!-- HERO -->
           <tr>
             <td
@@ -302,7 +292,6 @@
                   </td>
                 </tr>
 
-
                 <tr>
                   <td
                     style="
@@ -320,7 +309,6 @@
 
                   </td>
                 </tr>
-
 
                 <tr>
                   <td
@@ -342,7 +330,6 @@
             </td>
           </tr>
 
-
           <!-- DATA E HORÁRIO -->
           <tr>
             <td
@@ -359,7 +346,6 @@
                 border="0">
 
                 <tr>
-
 
                   <!-- DATA -->
                   <td
@@ -428,11 +414,7 @@
 
                               </td>
 
-
-                              <td width="10">
-                                &nbsp;
-                              </td>
-
+                              <td width="10">&nbsp;</td>
 
                               <td valign="middle">
 
@@ -470,14 +452,12 @@
 
                   </td>
 
-
                   <td
                     class="detail-gap"
                     width="4%"
                     style="font-size:1px; line-height:1px;">
                     &nbsp;
                   </td>
-
 
                   <!-- HORÁRIO -->
                   <td
@@ -546,11 +526,7 @@
 
                               </td>
 
-
-                              <td width="10">
-                                &nbsp;
-                              </td>
-
+                              <td width="10">&nbsp;</td>
 
                               <td valign="middle">
 
@@ -595,7 +571,6 @@
             </td>
           </tr>
 
-
           <!-- LOCAL DO EVENTO -->
           <tr>
             <td
@@ -617,8 +592,7 @@
                   border-radius:14px;
                   overflow:hidden;">
 
-
-                <!-- LINHA AMARELA -->
+                <!-- DETALHE AMARELO -->
                 <tr>
                   <td
                     height="6"
@@ -632,15 +606,14 @@
                   </td>
                 </tr>
 
-
                 <tr>
                   <td
                     align="center"
                     style="
-                      padding:27px 25px 26px;
+                      padding:27px 25px 27px;
                       font-family:Poppins,Arial,Helvetica,sans-serif;">
 
-
+                    <!-- TÍTULO -->
                     <div
                       style="
                         color:#fee600;
@@ -652,7 +625,7 @@
                       LOCAL DO EVENTO
                     </div>
 
-
+                    <!-- LOCAL -->
                     <div
                       style="
                         padding-top:9px;
@@ -663,7 +636,7 @@
                       Grupo Essente
                     </div>
 
-
+                    <!-- EDIFÍCIO -->
                     <div
                       style="
                         padding-top:3px;
@@ -674,7 +647,7 @@
                       Condomínio Edifício Conde Andrea Matarazzo
                     </div>
 
-
+                    <!-- ENDEREÇO -->
                     <div
                       style="
                         padding-top:15px;
@@ -682,13 +655,24 @@
                         font-size:17px;
                         line-height:26px;
                         font-weight:600;">
-                      Av. Paulista, 1499 – Conjunto 1704
+                      Av. Paulista, 1499
                     </div>
 
-
+                    <!-- ANDAR E CONJUNTO -->
                     <div
                       style="
-                        padding-top:4px;
+                        padding-top:3px;
+                        color:#fee600;
+                        font-size:15px;
+                        line-height:23px;
+                        font-weight:600;">
+                      17º andar – Conjunto 1704
+                    </div>
+
+                    <!-- BAIRRO / CIDADE / CEP -->
+                    <div
+                      style="
+                        padding-top:6px;
                         color:#ffffff;
                         font-size:14px;
                         line-height:22px;
@@ -697,7 +681,6 @@
                       CEP 01311-200
                     </div>
 
-
                   </td>
                 </tr>
 
@@ -705,7 +688,6 @@
 
             </td>
           </tr>
-
 
           <!-- BOTÃO MAPA -->
           <tr>
@@ -730,7 +712,7 @@
 
                     <a
                       class="map-button"
-                      href="https://www.google.com/maps/search/?api=1&query=Grupo+Essente+Av+Paulista+1499+Conjunto+1704+Bela+Vista+Sao+Paulo+SP+01311-200"
+                      href="https://www.google.com/maps/search/?api=1&query=Grupo+Essente+Av+Paulista+1499+Bela+Vista+Sao+Paulo+SP+01311-200"
                       target="_blank"
                       style="
                         display:inline-block;
@@ -754,7 +736,6 @@
 
             </td>
           </tr>
-
 
           <!-- AVISO DO INGRESSO -->
           <tr>
@@ -783,7 +764,6 @@
                       padding:19px 20px;
                       font-family:Poppins,Arial,Helvetica,sans-serif;">
 
-
                     <div
                       style="
                         color:#000000;
@@ -792,7 +772,6 @@
                         font-weight:600;">
                       🎟️ Seu ingresso já foi enviado por e-mail
                     </div>
-
 
                     <div
                       style="
@@ -810,7 +789,6 @@
 
                     </div>
 
-
                     <div
                       style="
                         padding-top:8px;
@@ -827,7 +805,6 @@
 
                     </div>
 
-
                   </td>
                 </tr>
 
@@ -835,7 +812,6 @@
 
             </td>
           </tr>
-
 
           <!-- MENSAGEM FINAL -->
           <tr>
@@ -851,7 +827,6 @@
                 font-weight:400;">
 
               Salve a data na agenda e prepare-se para esse encontro.
-
               <br>
 
               <strong
@@ -863,7 +838,6 @@
 
             </td>
           </tr>
-
 
           <!-- RODAPÉ -->
           <tr>
@@ -881,8 +855,6 @@
                 cellspacing="0"
                 cellpadding="0">
 
-
-                <!-- FRASE -->
                 <tr>
                   <td
                     align="center"
@@ -898,7 +870,6 @@
                   </td>
                 </tr>
 
-
                 <!-- REDES SOCIAIS -->
                 <tr>
                   <td align="center">
@@ -911,10 +882,8 @@
 
                       <tr>
 
-
                         <!-- INSTAGRAM -->
                         <td style="padding:0 3px;">
-
                           <a
                             href="https://www.instagram.com/bomcontrole/"
                             target="_blank"
@@ -938,15 +907,11 @@
                                 height:14px;
                                 border:0;
                                 margin-top:8px;">
-
                           </a>
-
                         </td>
-
 
                         <!-- FACEBOOK -->
                         <td style="padding:0 3px;">
-
                           <a
                             href="https://www.facebook.com/erpbomcontrole?locale=pt_BR"
                             target="_blank"
@@ -970,15 +935,11 @@
                                 height:14px;
                                 border:0;
                                 margin-top:8px;">
-
                           </a>
-
                         </td>
-
 
                         <!-- LINKEDIN -->
                         <td style="padding:0 3px;">
-
                           <a
                             href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true"
                             target="_blank"
@@ -1002,15 +963,11 @@
                                 height:14px;
                                 border:0;
                                 margin-top:8px;">
-
                           </a>
-
                         </td>
-
 
                         <!-- X -->
                         <td style="padding:0 3px;">
-
                           <a
                             href="https://x.com/BomControleERP"
                             target="_blank"
@@ -1034,15 +991,11 @@
                                 height:14px;
                                 border:0;
                                 margin-top:8px;">
-
                           </a>
-
                         </td>
-
 
                         <!-- YOUTUBE -->
                         <td style="padding:0 3px;">
-
                           <a
                             href="https://www.youtube.com/@bomcontrole2058"
                             target="_blank"
@@ -1066,11 +1019,8 @@
                                 height:14px;
                                 border:0;
                                 margin-top:8px;">
-
                           </a>
-
                         </td>
-
 
                       </tr>
 
@@ -1084,10 +1034,8 @@
             </td>
           </tr>
 
-
         </table>
         <!-- FIM CONTAINER -->
-
 
       </td>
     </tr>
