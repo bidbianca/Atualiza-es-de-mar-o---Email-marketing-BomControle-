@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Novidades do BomControle</title>
+
+  <style>
+    @media screen and (max-width:480px) {
+      .card-column {
+        display:block !important;
+        width:100% !important;
+        box-sizing:border-box !important;
+        padding:0 0 12px !important;
+      }
+      .email-content {
+        padding:16px !important;
+      }
+      .email-header {
+        padding:24px 20px !important;
+      }
+    }
+  </style>
+</head>
+
+<body style="margin:0;padding:0;background:#FFFFFF;font-family:Poppins,Arial,sans-serif;color:#111111;">
+
+  <div style="width:100%;max-width:580px;margin:0 auto;background:#F7F8FA;border:1px solid #D9D9D9;border-radius:16px;overflow:hidden;box-sizing:border-box;">
+
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-spacing:0;">
+
+      <!-- CABEÇALHO -->
+      <tr>
+        <td class="email-header" bgcolor="#000000" style="padding:26px 22px 24px;background:#000000;border-bottom:4px solid #FFE600;">
+
+          <img
+            src="https://lh3.googleusercontent.com/d/1VUSSr1H6aNRYnvwdZrWfxZWIQ6WfEaox"
+            width="160"
+            alt="BomControle"
+            style="display:block;width:160px;max-width:100%;height:auto;margin:0 0 20px;border:0;filter:brightness(0) invert(1);"
+          >
+
+          <h1 style="margin:0 0 8px;font-size:24px;line-height:30px;font-weight:bold;color:#FFFFFF;">
+            Novidades do BomControle
+          </h1>
+
+          <p style="margin:0;font-size:14px;line-height:21px;color:#E6E6E6;">
+            Novos recursos e mais oportunidades para aprender.
+          </p>
+        </td>
+      </tr>
+
+      <!-- CARDS -->
+      <tr>
+        <td class="email-content" style="padding:20px;">
+
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-spacing:0;">
+            <tr>
+
+              <!-- NOVOS RECURSOS -->
+              <td class="card-column" width="50%" valign="top" style="width:50%;padding:0 7px 0 0;vertical-align:top;">
+
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="width:100%;background:#FFFFFF;border:1px solid #E6E6E6;border-radius:12px;border-spacing:0;overflow:hidden;">
+
+                  <tr>
+                    <td bgcolor="#FFE600" style="padding:14px 16px;background:#FFE600;border-radius:11px 11px 0 0;">
+                      <h2 style="margin:0;font-size:17px;line-height:23px;color:#111111;">
+                        Novos recursos
+                      </h2>
+                    </td>
+                  </tr>
+
+                  <tr>
+                    <td style="padding:16px 16px 26px;font-size:14px;line-height:21px;color:#444444;">
+
+                      <p style="margin:0 0 14px;">
+                        Confira o que chegou ao BomControle:
+                      </p>
+
+                      <p style="margin:0 0 8px;">
+                        <span style="color:#FF6363;">&#9679;</span>&nbsp;
+                        <strong style="color:#111111;">CRM</strong>
+                      </p>
+
+                      <p style="margin:0 0 8px;">
+                        <span style="color:#FEE600;">&#9679;</span>&nbsp;
+                        <strong style="color:#111111;">Financeiro</strong>
+                      </p>
+
+                      <p style="margin:0 0 8px;">
+                        <span style="color:#3CDCDC;">&#9679;</span>&nbsp;
+                        <strong style="color:#111111;">Vendas</strong>
+                      </p>
+
+                      <p style="margin:0 0 8px;">
+                        <span style="color:#FEE600;">&#9679;</span>&nbsp;
+                        <strong style="color:#111111;">Mobile</strong>
+                      </p>
+
+                      <p style="margin:0 0 18px;">
+                        <span style="color:#10A447;">&#9679;</span>&nbsp;
+                        <strong style="color:#111111;">PDV</strong>
+                      </p>
+
+                      <a
+                        href="https://bomcontrole.com.br/ajuda/novidades-outubro-2026"
+                        target="_blank"
+                        rel="noopener"
+                        style="display:inline-block;padding:10px 14px;background:#FFE600;border:1px solid #E6CF00;border-radius:6px;color:#111111;font-size:13px;line-height:19px;font-weight:bold;text-decoration:none;"
+                      >
+                        Confira as novidades &#8594;
+                      </a>
+
+                    </td>
+                  </tr>
+                </table>
+
+              </td>
+
+              <!-- TREINAMENTOS -->
+              <td class="card-column" width="50%" valign="top" style="width:50%;padding:0 0 0 7px;vertical-align:top;">
+
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="width:100%;background:#FFFFFF;border:1px solid #E6E6E6;border-radius:12px;border-spacing:0;overflow:hidden;">
+
+                  <tr>
+                    <td bgcolor="#FFE600" style="padding:14px 16px;background:#FFE600;border-radius:11px 11px 0 0;">
+                      <h2 style="margin:0;font-size:17px;line-height:23px;color:#111111;">
+                        Treinamentos
+                      </h2>
+                    </td>
+                  </tr>
+
+                  <tr>
+                    <td style="padding:16px;font-size:14px;line-height:21px;color:#444444;">
+
+                      <p style="margin:0 0 12px;font-size:16px;line-height:23px;font-weight:bold;color:#111111;">
+                        Agora, aprender é gratuito!
+                      </p>
+
+                      <p style="margin:0 0 14px;">
+                        Participe dos treinamentos gratuitos do BomControle.
+                      </p>
+
+                      <p style="margin:0 0 14px;">
+                        Confira as próximas datas e faça sua inscrição diretamente dentro da sua base.
+                      </p>
+
+                      <p style="margin:0;padding:10px 12px;background:#F7F8FA;border-radius:6px;font-size:12px;line-height:18px;color:#555555;">
+                        <strong style="color:#111111;">Onde encontrar:</strong><br>
+                        Na barra superior da sua base, à direita, no aviso
+                        <strong>Treinamento gratuito</strong>.
+                      </p>
+
+                    </td>
+                  </tr>
+                </table>
+
+              </td>
+
+            </tr>
+          </table>
+
+        </td>
+      </tr>
+
+      <!-- RODAPÉ PADRÃO RD -->
+      <tr>
+        <td style="padding:20px 24px;border-top:1px solid #e5e7eb;background:#fcfcfd;border-radius:0 0 18px 18px;">
+
+          <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+
+            <tr>
+              <td align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:21px;color:#64748b;padding-bottom:10px;">
+                O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
+              </td>
+            </tr>
+
+            <tr>
+              <td align="center">
+
+                <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+
+                    <td style="padding:0 3px;">
+                      <a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;">
+                        <img src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png" alt="Instagram" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;">
+                      </a>
+                    </td>
+
+                    <td style="padding:0 3px;">
+                      <a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;">
+                        <img src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png" alt="Facebook" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;">
+                      </a>
+                    </td>
+
+                    <td style="padding:0 3px;">
+                      <a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;">
+                        <img src="https://img.icons8.com/ios-filled/50/475569/linkedin.png" alt="LinkedIn" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;">
+                      </a>
+                    </td>
+
+                    <td style="padding:0 3px;">
+                      <a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;">
+                        <img src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png" alt="X" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;">
+                      </a>
+                    </td>
+
+                    <td style="padding:0 3px;">
+                      <a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;">
+                        <img src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png" alt="YouTube" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;">
+                      </a>
+                    </td>
+
+                  </tr>
+                </table>
+
+              </td>
+            </tr>
+
+          </table>
+
+        </td>
+      </tr>
+
+      <!-- LOCALIZAÇÃO E DESCADASTRO -->
+      <tr>
+        <td align="center" style="padding:18px 20px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:18px;color:#64748b;">
+          São Caetano do Sul - SP<br>
+          Caso não queira mais receber estes e-mails
+          <a
+            href="https://app.rdstation.email/descadastrar/*UUID*"
+            target="_blank"
+            rel="noopener"
+            style="text-decoration:underline;color:#0068A5;"
+          >cancele sua inscrição</a>.
+        </td>
+      </tr>
+
+    </table>
+
+  </div>
+
+</body>
+</html>
