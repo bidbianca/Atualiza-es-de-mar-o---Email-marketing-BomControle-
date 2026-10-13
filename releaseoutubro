@@ -4,243 +4,391 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Novidades do BomControle</title>
-
-  <style>
-    @media screen and (max-width:480px) {
-      .card-column {
-        display:block !important;
-        width:100% !important;
-        box-sizing:border-box !important;
-        padding:0 0 12px !important;
-      }
-
-      .email-content {
-        padding:16px !important;
-      }
-
-      .email-header {
-        padding:16px 20px !important;
-      }
-    }
-  </style>
 </head>
 
-<body style="margin:0;padding:0;background:#FFFFFF;font-family:Poppins,Arial,sans-serif;color:#111111;">
+<body style="margin:0;padding:0;background:#FFFFFF;">
 
-  <div style="width:100%;max-width:580px;margin:0 auto;background:#F7F8FA;border:1px solid #D9D9D9;border-radius:16px;overflow:hidden;box-sizing:border-box;">
+<div style="width:100%;max-width:580px;margin:0 auto;background:#F7F8FA;border:1px solid #D9D9D9;border-radius:16px;overflow:hidden;box-sizing:border-box;font-family:Poppins,Arial,sans-serif;color:#111111;">
 
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-spacing:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#F7F8FA" style="width:100%;background:#F7F8FA;border-collapse:separate;border-spacing:0;">
 
-      <!-- CABEÇALHO -->
-      <tr>
-        <td class="email-header" align="left" bgcolor="#000000" style="padding:16px 22px;background:#000000;border-bottom:4px solid #FFE600;text-align:left;">
+  <!-- CABEÇALHO -->
+  <tr>
+    <td bgcolor="#000000" style="padding:26px 22px 24px;background:#000000;border-bottom:4px solid #FFE600;color:#FFFFFF;">
 
-          <img
-            src="https://lh3.googleusercontent.com/d/1H1BwQrCCOubDtv3QEoKs-bqngATM6TOG"
-            width="140"
-            alt="BomControle"
-            style="display:block;width:140px;max-width:100%;height:auto;margin:0 0 10px;border:0;"
-          >
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-spacing:0;">
+        <tr>
+          <td align="right" style="text-align:right;">
+            <img
+              src="https://lh3.googleusercontent.com/d/1VUSSr1H6aNRYnvwdZrWfxZWIQ6WfEaox"
+              width="160"
+              alt="BomControle"
+              style="display:block;margin-left:auto;width:160px;max-width:100%;height:auto;border:0;filter:brightness(0) invert(1);"
+            >
+          </td>
+        </tr>
+      </table>
 
-          <h1 style="margin:0 0 8px;font-size:21px;line-height:26px;font-weight:bold;color:#FFFFFF;text-align:left;">
-            Novidades do BomControle
-          </h1>
+      <h1 style="margin:20px 0 8px;font-family:Poppins,Arial,sans-serif;font-size:24px;line-height:30px;font-weight:bold;color:#FFFFFF;">
+        Novidades do BomControle
+      </h1>
 
-          <p style="margin:0;font-size:13px;line-height:19px;color:#E6E6E6;text-align:left;">
-            Novos recursos e mais oportunidades para aprender.
-          </p>
+      <p style="margin:0;font-family:Poppins,Arial,sans-serif;font-size:14px;line-height:21px;color:#E6E6E6;">
+        Mais recursos para simplificar sua operação.
+      </p>
 
-        </td>
-      </tr>
+    </td>
+  </tr>
 
-      <!-- CARDS -->
-      <tr>
-        <td class="email-content" style="padding:20px;">
+  <tr>
+    <td bgcolor="#F7F8FA" style="height:18px;background:#F7F8FA;font-size:1px;line-height:1px;">&nbsp;</td>
+  </tr>
 
-          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-spacing:0;">
-            <tr>
+  <!-- MÓDULO VENDAS -->
+  <tr>
+    <td bgcolor="#F7F8FA" style="padding:0 20px 14px;background:#F7F8FA;">
 
-              <!-- NOVOS RECURSOS -->
-              <td class="card-column" width="50%" valign="top" style="width:50%;padding:0 7px 0 0;vertical-align:top;">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="width:100%;background:#FFFFFF;border:1px solid #E6E6E6;border-radius:12px;border-collapse:separate;border-spacing:0;overflow:hidden;">
 
-                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="width:100%;background:#FFFFFF;border:1px solid #E6E6E6;border-radius:12px;border-spacing:0;overflow:hidden;">
+        <tr>
+          <td bgcolor="#3CDCDC" style="padding:12px 18px;background:#3CDCDC;border-radius:11px 11px 0 0;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-spacing:0;">
+              <tr>
+                <td style="padding-right:10px;">
+                  <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-vendas.png" width="28" height="28" alt="" style="display:block;width:28px;height:28px;border:0;">
+                </td>
+                <td style="font-family:Poppins,Arial,sans-serif;font-size:17px;line-height:24px;font-weight:bold;color:#111111;">
+                  Vendas
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
 
-                  <tr>
-                    <td align="left" bgcolor="#FFE600" style="text-align:left;padding:14px 16px;background:#FFE600;border-radius:11px 11px 0 0;">
-                      <h2 style="margin:0;font-size:17px;line-height:23px;color:#111111;">
-                        Novos recursos
-                      </h2>
-                    </td>
-                  </tr>
+        <!-- ORDEM DE SERVIÇO -->
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:14px 18px;background:#FFFFFF;">
+            <h2 style="margin:0;font-size:15px;line-height:21px;color:#111111;">
+              Personalize a impressão da ordem de serviço.
+            </h2>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 8px;background:#FFFFFF;">
+            <a href="https://lh3.googleusercontent.com/d/1W9yB8Yf7f37l6QhuaJtMecnaWaY-UcGP" target="_blank" rel="noopener">
+              <img src="https://lh3.googleusercontent.com/d/1W9yB8Yf7f37l6QhuaJtMecnaWaY-UcGP" width="504" alt="Personalização da impressão da ordem de serviço" style="display:block;width:100%;max-width:504px;height:auto;border:0;border-radius:8px;">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 18px;background:#FFFFFF;font-size:12px;line-height:18px;color:#555555;">
+            <strong>Caminho:</strong> Vendas &gt; Avançado &gt; Templates
+          </td>
+        </tr>
 
-                  <tr>
-                    <td align="left" style="padding:16px 16px 26px;font-size:14px;line-height:21px;color:#444444;text-align:left;">
+        <!-- CONTATO DE COBRANÇA -->
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:14px 18px;background:#FFFFFF;border-top:1px solid #E8E8E8;font-size:14px;line-height:21px;color:#444444;">
+            <h2 style="margin:0 0 5px;font-size:15px;line-height:21px;color:#111111;">
+              Contato de cobrança por operação
+            </h2>
+            Escolha o contato de cobrança de cada venda ou contrato.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 8px;background:#FFFFFF;">
+            <a href="https://lh3.googleusercontent.com/d/10pMujwyY4qEjZzrqZEh0wBDTAH0oDs3p" target="_blank" rel="noopener">
+              <img src="https://lh3.googleusercontent.com/d/10pMujwyY4qEjZzrqZEh0wBDTAH0oDs3p" width="504" alt="Contato de cobrança por venda ou contrato" style="display:block;width:100%;max-width:504px;height:auto;border:0;border-radius:8px;">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 18px;background:#FFFFFF;font-size:12px;line-height:18px;color:#555555;">
+            <strong>Caminho:</strong> Vendas &gt; Dia a dia &gt; Orçamento/Venda &gt; Cadastrar nova
+          </td>
+        </tr>
 
-                      <p style="margin:0 0 14px;">
-                        Confira o que chegou ao BomControle:
-                      </p>
+        <!-- RELATÓRIOS -->
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:14px 18px;background:#FFFFFF;border-top:1px solid #E8E8E8;font-size:14px;line-height:21px;color:#444444;">
+            <h2 style="margin:0 0 5px;font-size:15px;line-height:21px;color:#111111;">
+              Novas fontes para relatórios
+            </h2>
+            Analise Ordens de Serviço, vendas e vendas detalhadas por item.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 8px;background:#FFFFFF;">
+            <a href="https://lh3.googleusercontent.com/d/1IppWn8bnoqyhLEqWmQJX7lxeE2_USxg3" target="_blank" rel="noopener">
+              <img src="https://lh3.googleusercontent.com/d/1IppWn8bnoqyhLEqWmQJX7lxeE2_USxg3" width="504" alt="Novas fontes de dados para relatórios de vendas" style="display:block;width:100%;max-width:504px;height:auto;border:0;border-radius:8px;">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 18px;background:#FFFFFF;font-size:12px;line-height:18px;color:#555555;">
+            <strong>Caminho:</strong> Vendas &gt; Relatórios &gt; Avanço com envio automático &gt; Novo relatório
+          </td>
+        </tr>
 
-                      <p align="left" style="margin:0 0 8px;text-align:left;">
-                        <span style="color:#FF6363;">&#9679;</span>&nbsp;
-                        <strong style="color:#111111;">CRM</strong>
-                      </p>
+        <!-- ORÇAMENTO NO PDV -->
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:14px 18px;background:#FFFFFF;border-top:1px solid #E8E8E8;font-size:14px;line-height:21px;color:#444444;">
+            <h2 style="margin:0 0 5px;font-size:15px;line-height:21px;color:#111111;">
+              Orçamento no PDV
+            </h2>
+            Agora, salve orçamentos pelo PDV do BomControle.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 8px;background:#FFFFFF;">
+            <a href="https://lh3.googleusercontent.com/d/1TLfubervHvMfghoYx7n4o6CQlTzr3zKK" target="_blank" rel="noopener">
+              <img src="https://lh3.googleusercontent.com/d/1TLfubervHvMfghoYx7n4o6CQlTzr3zKK" width="504" alt="Salvar orçamento no PDV do BomControle" style="display:block;width:100%;max-width:504px;height:auto;border:0;border-radius:8px;">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 18px;background:#FFFFFF;font-size:12px;line-height:18px;color:#555555;">
+            <strong>Caminho:</strong> Portal PDV
+          </td>
+        </tr>
 
-                      <p align="left" style="margin:0 0 8px;text-align:left;">
-                        <span style="color:#FEE600;">&#9679;</span>&nbsp;
-                        <strong style="color:#111111;">Financeiro</strong>
-                      </p>
+      </table>
+    </td>
+  </tr>
 
-                      <p align="left" style="margin:0 0 8px;text-align:left;">
-                        <span style="color:#3CDCDC;">&#9679;</span>&nbsp;
-                        <strong style="color:#111111;">Vendas</strong>
-                      </p>
+  <!-- MÓDULO FINANCEIRO -->
+  <tr>
+    <td bgcolor="#F7F8FA" style="padding:0 20px 14px;background:#F7F8FA;">
 
-                      <p align="left" style="margin:0 0 8px;text-align:left;">
-                        <span style="color:#FEE600;">&#9679;</span>&nbsp;
-                        <strong style="color:#111111;">Mobile</strong>
-                      </p>
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="width:100%;background:#FFFFFF;border:1px solid #E6E6E6;border-radius:12px;border-collapse:separate;border-spacing:0;overflow:hidden;">
 
-                      <p align="left" style="margin:0 0 18px;text-align:left;">
-                        <span style="color:#10A447;">&#9679;</span>&nbsp;
-                        <strong style="color:#111111;">PDV</strong>
-                      </p>
+        <tr>
+          <td bgcolor="#FFE600" style="padding:12px 18px;background:#FFE600;border-radius:11px 11px 0 0;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-spacing:0;">
+              <tr>
+                <td style="padding-right:10px;">
+                  <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-financeiro.png" width="28" height="28" alt="" style="display:block;width:28px;height:28px;border:0;">
+                </td>
+                <td style="font-family:Poppins,Arial,sans-serif;font-size:17px;line-height:24px;font-weight:bold;color:#111111;">
+                  Financeiro
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
 
-                      <a
-                        href="https://bomcontrole.com.br/ajuda/novidades-outubro-2026"
-                        target="_blank"
-                        rel="noopener"
-                        style="display:inline-block;padding:10px 14px;background:#FFE600;border:1px solid #E6CF00;border-radius:6px;color:#111111;font-size:13px;line-height:19px;font-weight:bold;text-decoration:none;"
-                      >
-                        Confira as novidades &#8594;
-                      </a>
+        <!-- CONSULTA DE SALDO -->
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:14px 18px;background:#FFFFFF;font-size:14px;line-height:21px;color:#444444;">
+            <h2 style="margin:0 0 5px;font-size:15px;line-height:21px;color:#111111;">
+              Consulta de saldo mais objetiva
+            </h2>
+            Contas bloqueadas ficam ocultas por padrão. Use
+            <strong>Visualizar contas bloqueadas</strong> quando precisar.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 8px;background:#FFFFFF;">
+            <a href="https://lh3.googleusercontent.com/d/1xiAL0jOeR-WF7GZljUYNKFn8UoDP6F9X" target="_blank" rel="noopener">
+              <img src="https://lh3.googleusercontent.com/d/1xiAL0jOeR-WF7GZljUYNKFn8UoDP6F9X" width="504" alt="Visualizar contas bloqueadas na consulta de saldo" style="display:block;width:100%;max-width:504px;height:auto;border:0;border-radius:8px;">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 18px;background:#FFFFFF;font-size:12px;line-height:18px;color:#555555;">
+            <strong>Caminho:</strong> Dashboard Financeiro
+          </td>
+        </tr>
 
-                    </td>
-                  </tr>
+        <!-- CHAVE PIX -->
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:14px 18px;background:#FFFFFF;border-top:1px solid #E8E8E8;font-size:14px;line-height:21px;color:#444444;">
+            <h2 style="margin:0 0 5px;font-size:15px;line-height:21px;color:#111111;">
+              Chave Pix na importação
+            </h2>
+            Importe fornecedores com chave Pix e tipo da chave, reduzindo o preenchimento manual.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 8px;background:#FFFFFF;">
+            <a href="https://lh3.googleusercontent.com/d/1DD1_m_VYBHvciuaFw1VBWTZKjU8RhqzY" target="_blank" rel="noopener">
+              <img src="https://lh3.googleusercontent.com/d/1DD1_m_VYBHvciuaFw1VBWTZKjU8RhqzY" width="504" alt="Cadastro de fornecedor com chave Pix" style="display:block;width:100%;max-width:504px;height:auto;border:0;border-radius:8px;">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 18px;background:#FFFFFF;font-size:12px;line-height:18px;color:#555555;">
+            <strong>Caminho:</strong> Financeiro &gt; Cadastros &gt; Fornecedor &gt; Cadastrar novo
+          </td>
+        </tr>
 
-                </table>
-              </td>
+      </table>
+    </td>
+  </tr>
 
-              <!-- TREINAMENTOS -->
-              <td class="card-column" width="50%" valign="top" style="width:50%;padding:0 0 0 7px;vertical-align:top;">
+  <!-- MÓDULO CRM -->
+  <tr>
+    <td bgcolor="#F7F8FA" style="padding:0 20px 14px;background:#F7F8FA;">
 
-                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="width:100%;background:#FFFFFF;border:1px solid #E6E6E6;border-radius:12px;border-spacing:0;overflow:hidden;">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="width:100%;background:#FFFFFF;border:1px solid #E6E6E6;border-radius:12px;border-collapse:separate;border-spacing:0;overflow:hidden;">
 
-                  <tr>
-                    <td align="left" bgcolor="#FFE600" style="text-align:left;padding:14px 16px;background:#FFE600;border-radius:11px 11px 0 0;">
-                      <h2 style="margin:0;font-size:17px;line-height:23px;color:#111111;">
-                        Treinamentos
-                      </h2>
-                    </td>
-                  </tr>
+        <tr>
+          <td bgcolor="#FF6363" style="padding:12px 18px;background:#FF6363;border-radius:11px 11px 0 0;">
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-spacing:0;">
+              <tr>
+                <td style="padding-right:10px;">
+                  <img src="https://bomcontrole-publico.s3.sa-east-1.amazonaws.com/marketing/modulo-crm.png" width="28" height="28" alt="" style="display:block;width:28px;height:28px;border:0;">
+                </td>
+                <td style="font-family:Poppins,Arial,sans-serif;font-size:17px;line-height:24px;font-weight:bold;color:#111111;">
+                  CRM
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
 
-                  <tr>
-                    <td align="left" style="padding:16px;font-size:14px;line-height:21px;color:#444444;text-align:left;">
+        <!-- ETAPAS OBRIGATÓRIAS -->
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:14px 18px;background:#FFFFFF;font-size:14px;line-height:21px;color:#444444;">
+            <h2 style="margin:0 0 5px;font-size:15px;line-height:21px;color:#111111;">
+              Etapas obrigatórias no funil
+            </h2>
+            Defina etapas obrigatórias para impedir que sejam puladas no fluxo da oportunidade.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 8px;background:#FFFFFF;">
+            <a href="https://lh3.googleusercontent.com/d/1inhpXZN2lvaYF3Jpmg69-v7a6vbg9rCP" target="_blank" rel="noopener">
+              <img src="https://lh3.googleusercontent.com/d/1inhpXZN2lvaYF3Jpmg69-v7a6vbg9rCP" width="504" alt="Etapas obrigatórias no funil de vendas do CRM" style="display:block;width:100%;max-width:504px;height:auto;border:0;border-radius:8px;">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 18px;background:#FFFFFF;font-size:12px;line-height:18px;color:#555555;">
+            <strong>Caminho:</strong> CRM &gt; Cadastros &gt; Funil de vendas &gt; Cadastrar
+          </td>
+        </tr>
 
-                      <p style="margin:0 0 12px;font-size:16px;line-height:23px;font-weight:bold;color:#111111;">
-                        Agora, aprender é gratuito!
-                      </p>
+      </table>
+    </td>
+  </tr>
 
-                      <p style="margin:0 0 14px;">
-                        Participe dos treinamentos gratuitos do BomControle.
-                      </p>
+  <!-- GERAL -->
+  <tr>
+    <td bgcolor="#F7F8FA" style="padding:0 20px 14px;background:#F7F8FA;">
 
-                      <p style="margin:0 0 14px;">
-                        Confira as próximas datas e faça sua inscrição diretamente dentro da sua base.
-                      </p>
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="width:100%;background:#FFFFFF;border:1px solid #E6E6E6;border-radius:12px;border-collapse:separate;border-spacing:0;overflow:hidden;">
 
-                      <p style="margin:0;padding:10px 12px;background:#F7F8FA;border-radius:6px;font-size:12px;line-height:18px;color:#555555;">
-                        <strong style="color:#111111;">Onde encontrar:</strong><br>
-                        Na barra superior da sua base, à direita, no aviso
-                        <strong>Treinamento gratuito</strong>.
-                      </p>
+        <tr>
+          <td bgcolor="#FFE600" style="padding:12px 18px;background:#FFE600;border-radius:11px 11px 0 0;font-family:Poppins,Arial,sans-serif;font-size:17px;line-height:24px;font-weight:bold;color:#111111;">
+            Geral
+          </td>
+        </tr>
 
-                    </td>
-                  </tr>
+        <!-- TREINAMENTOS -->
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:14px 18px;background:#FFFFFF;font-size:14px;line-height:21px;color:#444444;">
+            <h2 style="margin:0 0 5px;font-size:15px;line-height:21px;color:#111111;">
+              Treinamentos gratuitos no sistema
+            </h2>
+            Confira os próximos treinamentos e faça sua inscrição pelo BomControle.
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 8px;background:#FFFFFF;">
+            <a href="https://lh3.googleusercontent.com/d/16Z5b_FjKgQ2YptpfHSdFVRz-1n4G27jx" target="_blank" rel="noopener">
+              <img src="https://lh3.googleusercontent.com/d/16Z5b_FjKgQ2YptpfHSdFVRz-1n4G27jx" width="504" alt="Treinamentos gratuitos no dashboard do BomControle" style="display:block;width:100%;max-width:504px;height:auto;border:0;border-radius:8px;">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:0 18px 18px;background:#FFFFFF;font-size:12px;line-height:18px;color:#555555;">
+            <strong>Caminho:</strong> Dashboard BomControle
+          </td>
+        </tr>
 
-                </table>
-              </td>
+        <!-- PWA -->
+        <tr>
+          <td bgcolor="#FFFFFF" style="padding:14px 18px 18px;background:#FFFFFF;border-top:1px solid #E8E8E8;font-size:14px;line-height:21px;color:#444444;">
 
-            </tr>
-          </table>
+            <h2 style="margin:0 0 8px;font-size:15px;line-height:21px;color:#111111;">
+              BomControle no celular
+            </h2>
 
-        </td>
-      </tr>
+            <p style="margin:0 0 12px;">
+              A PWA é um app pelo navegador que pode ser adicionado à tela inicial do celular. Assim, você abre o BomControle pelo ícone, como um aplicativo.
+            </p>
 
-      <!-- RODAPÉ PADRÃO RD -->
-      <tr>
-        <td style="padding:20px 24px;border-top:1px solid #e5e7eb;background:#fcfcfd;border-radius:0 0 18px 18px;">
+            <p style="margin:0 0 16px;">
+              Abra o navegador do celular e acesse
+              <a href="https://mobile.bomcontrole.com.br/" target="_blank" rel="noopener" style="color:#111111;font-weight:bold;text-decoration:underline;">
+                mobile.bomcontrole.com.br
+              </a>.
+            </p>
 
-          <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+            <h3 style="margin:0 0 8px;font-size:14px;line-height:21px;color:#111111;">
+              No iPhone, usando o Safari
+            </h3>
 
-            <tr>
-              <td align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:21px;color:#64748b;padding-bottom:10px;">
-                O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
-              </td>
-            </tr>
+            <ol style="margin:0 0 18px;padding-left:20px;">
+              <li style="margin-bottom:6px;">
+                Toque em <strong>Compartilhar</strong>.
+              </li>
+              <li style="margin-bottom:6px;">
+                Escolha <strong>Adicionar à Tela de Início</strong>.
+              </li>
+              <li>
+                Confirme em <strong>Adicionar</strong>.
+              </li>
+            </ol>
 
-            <tr>
-              <td align="center">
+            <h3 style="margin:0 0 8px;font-size:14px;line-height:21px;color:#111111;">
+              No Android, usando o Chrome
+            </h3>
 
-                <table role="presentation" border="0" cellspacing="0" cellpadding="0">
-                  <tr>
+            <ol style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">
+                Abra o Chrome e acesse <strong>mobile.bomcontrole.com.br</strong>.
+              </li>
+              <li style="margin-bottom:6px;">
+                Toque no <strong>menu de três pontos</strong>, ao lado da barra de endereço.
+              </li>
+              <li style="margin-bottom:6px;">
+                Selecione <strong>Instalar e criar atalho</strong> e depois <strong>Instalar</strong>.
+              </li>
+              <li>
+                Confirme a instalação seguindo as instruções na tela.
+              </li>
+            </ol>
 
-                    <td style="padding:0 3px;">
-                      <a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;">
-                        <img src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png" alt="Instagram" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;">
-                      </a>
-                    </td>
+            <p style="margin:12px 0 0;font-size:12px;line-height:18px;color:#555555;">
+              Dependendo da versão do Chrome, a opção pode aparecer como
+              <strong>Adicionar à tela inicial</strong> ou <strong>Instalar app</strong>.
+            </p>
 
-                    <td style="padding:0 3px;">
-                      <a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;">
-                        <img src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png" alt="Facebook" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;">
-                      </a>
-                    </td>
+          </td>
+        </tr>
 
-                    <td style="padding:0 3px;">
-                      <a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;">
-                        <img src="https://img.icons8.com/ios-filled/50/475569/linkedin.png" alt="LinkedIn" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;">
-                      </a>
-                    </td>
+      </table>
+    </td>
+  </tr>
 
-                    <td style="padding:0 3px;">
-                      <a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;">
-                        <img src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png" alt="X" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;">
-                      </a>
-                    </td>
+  <!-- RODAPÉ / CTA -->
+  <tr>
+    <td align="center" bgcolor="#F7F8FA" style="padding:18px 22px 24px;background:#F7F8FA;text-align:center;">
+      <a
+        href="https://bomcontrole.com.br/ajuda/novidades-outubro-2026"
+        target="_blank"
+        rel="noopener"
+        style="display:inline-block;padding:14px 20px;background:#FFE600;border:1px solid #E6CF00;border-radius:8px;font-family:Poppins,Arial,sans-serif;font-size:14px;line-height:21px;font-weight:bold;color:#111111;text-decoration:underline;"
+      >
+        Confira os detalhes na nossa central de ajuda.
+      </a>
+    </td>
+  </tr>
 
-                    <td style="padding:0 3px;">
-                      <a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block;width:30px;height:30px;background:#eef2f7;border:1px solid #d8e0ea;border-radius:999px;text-align:center;">
-                        <img src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png" alt="YouTube" width="14" height="14" style="display:inline-block;width:14px;height:14px;border:0;margin-top:8px;">
-                      </a>
-                    </td>
-
-                  </tr>
-                </table>
-
-              </td>
-            </tr>
-
-          </table>
-
-        </td>
-      </tr>
-
-      <!-- LOCALIZAÇÃO E DESCADASTRO -->
-      <tr>
-        <td align="center" style="padding:18px 20px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:18px;color:#64748b;">
-          São Caetano do Sul - SP<br>
-          Caso não queira mais receber estes e-mails
-          <a
-            href="https://app.rdstation.email/descadastrar/*UUID*"
-            target="_blank"
-            rel="noopener"
-            style="text-decoration:underline;color:#0068A5;"
-          >cancele sua inscrição</a>.
-        </td>
-      </tr>
-
-    </table>
-  </div>
+</table>
+</div>
 
 </body>
 </html>
