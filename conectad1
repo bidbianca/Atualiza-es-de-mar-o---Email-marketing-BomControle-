@@ -1,0 +1,484 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="x-apple-disable-message-reformatting">
+<meta name="color-scheme" content="light only">
+<title>É amanhã! | BomControle Conecta</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+  html, body {
+    margin:0 !important;
+    padding:0 !important;
+    width:100% !important;
+    background:#ffffff;
+  }
+
+  table, td {
+    border-collapse:collapse;
+    mso-table-lspace:0pt;
+    mso-table-rspace:0pt;
+  }
+
+  img {
+    border:0;
+    outline:none;
+    text-decoration:none;
+    display:block;
+  }
+
+  a {
+    text-decoration:none;
+  }
+
+  @media only screen and (max-width:620px) {
+    .container {
+      width:100% !important;
+      max-width:600px !important;
+    }
+
+    .mobile-pad {
+      padding-left:24px !important;
+      padding-right:24px !important;
+    }
+
+    .hero-title {
+      font-size:36px !important;
+      line-height:46px !important;
+    }
+
+    .brand-logo {
+      width:190px !important;
+      height:auto !important;
+    }
+
+    .event-name {
+      font-size:25px !important;
+      line-height:29px !important;
+    }
+
+    .brand-cell,
+    .event-cell {
+      display:block !important;
+      width:100% !important;
+      text-align:left !important;
+    }
+
+    .brand-cell {
+      padding-bottom:10px !important;
+    }
+
+    .separator {
+      display:none !important;
+    }
+
+    .detail-col {
+      display:block !important;
+      width:100% !important;
+    }
+
+    .detail-gap {
+      display:block !important;
+      width:100% !important;
+      height:10px !important;
+      line-height:10px !important;
+    }
+
+    .paulista-crop {
+      width:100% !important;
+      height:auto !important;
+      aspect-ratio:1.5 !important;
+    }
+
+    .photo,
+    .entry-copy {
+      display:block !important;
+      width:100% !important;
+      box-sizing:border-box !important;
+    }
+
+    .entry-copy {
+      padding:20px 0 0 !important;
+    }
+
+    .photo img {
+      width:100% !important;
+      max-width:100% !important;
+    }
+  }
+</style>
+</head>
+
+<body style="margin:0; padding:0; width:100%; background-color:#ffffff;">
+
+<div style="display:none; max-height:0; overflow:hidden; opacity:0; color:transparent; line-height:1px; font-size:1px;">
+  É amanhã! Confira as duas entradas, o acesso pelo metrô e os detalhes para chegar ao BomControle Conecta.
+</div>
+
+<table role="presentation" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="width:100%; margin:0 auto; background-color:#ffffff;">
+<tr>
+<td align="center" valign="top" style="padding:0; text-align:center;">
+
+<!--[if mso]>
+<table role="presentation" width="600" align="center" border="0" cellpadding="0" cellspacing="0">
+<tr><td>
+<![endif]-->
+
+<table role="presentation" class="container" width="600" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="width:600px; max-width:600px; margin:0 auto; background-color:#ffffff; text-align:left; border:1px solid #e6e6df;">
+
+<tr>
+  <td height="9" bgcolor="#fee600" style="height:9px; padding:0; background-color:#fee600; font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+
+<!-- CABEÇALHO -->
+<tr>
+<td class="mobile-pad" style="padding:25px 38px 22px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+  <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="brand-cell" valign="middle" style="white-space:nowrap;">
+      <img class="brand-logo"
+        src="https://lh3.googleusercontent.com/d/1VUSSr1H6aNRYnvwdZrWfxZWIQ6WfEaox"
+        alt="BomControle"
+        width="205"
+        style="display:block; width:205px; max-width:100%; height:auto; border:0;">
+    </td>
+
+    <td class="separator" width="38" align="center" valign="middle" style="color:#000000; font-size:40px; line-height:42px; font-weight:300;">|</td>
+
+    <td class="event-cell" valign="middle" style="white-space:nowrap;">
+      <span class="event-name" style="display:inline-block; padding:1px 7px; background-color:#fee600; color:#000000; font-size:30px; line-height:34px; font-weight:500; letter-spacing:-0.5px;">Conecta</span>
+      <br>
+      <span style="color:#4d4d4d; font-size:10px; line-height:16px;">
+        Conteúdo <span style="color:#e2cc00;">●</span>
+        Troca <span style="color:#e2cc00;">●</span>
+        Conexão
+      </span>
+    </td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<!-- MENSAGEM -->
+<tr>
+<td class="mobile-pad" style="padding:38px 48px 22px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+  <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="hero-title" style="color:#000000; font-size:42px; line-height:52px; font-weight:500; letter-spacing:-0.5px;">
+      <span style="display:inline-block; padding:0 8px; color:#000000; background-color:#fee600;">É amanhã!</span>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding-top:16px; color:#4d4d4d; font-size:15px; line-height:25px;">
+      Amanhã, <strong style="color:#000000; font-weight:600;">21 de outubro</strong>, temos um encontro marcado no <strong style="color:#000000; font-weight:600;">BomControle Conecta</strong>. Sua presença já está confirmada!
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding-top:8px; color:#4d4d4d; font-size:14px; line-height:24px;">
+      Estamos preparando tudo para receber você! Confira o horário, as duas entradas e as orientações para chegar ao nosso encontro.
+    </td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<!-- DATA E HORÁRIO -->
+<tr>
+<td class="mobile-pad" style="padding:22px 48px 8px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+  <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="detail-col" width="48%" valign="top">
+      <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#f7f7f4" style="background-color:#f7f7f4; border:1px solid #e6e6df; border-top:4px solid #fee600;">
+      <tr>
+        <td style="padding:15px 14px 16px;">
+          <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="42" valign="middle">
+              <table role="presentation" width="42" border="0" cellpadding="0" cellspacing="0" bgcolor="#fee600">
+              <tr>
+                <td height="42" align="center" valign="middle" style="height:42px; color:#000000; font-size:17px; line-height:20px; font-weight:600;">21</td>
+              </tr>
+              </table>
+            </td>
+
+            <td width="10">&nbsp;</td>
+
+            <td valign="middle">
+              <div style="color:#777777; font-size:9px; line-height:14px; font-weight:600; letter-spacing:0.8px; text-transform:uppercase;">Data</div>
+              <div style="padding-top:3px; color:#000000; font-size:12px; line-height:18px; font-weight:600;">21 de outubro de 2026</div>
+            </td>
+          </tr>
+          </table>
+        </td>
+      </tr>
+      </table>
+    </td>
+
+    <td class="detail-gap" width="4%" style="font-size:1px; line-height:1px;">&nbsp;</td>
+
+    <td class="detail-col" width="48%" valign="top">
+      <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#f7f7f4" style="background-color:#f7f7f4; border:1px solid #e6e6df; border-top:4px solid #fee600;">
+      <tr>
+        <td style="padding:15px 14px 16px;">
+          <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="42" valign="middle">
+              <table role="presentation" width="42" border="0" cellpadding="0" cellspacing="0" bgcolor="#fee600">
+              <tr>
+                <td height="42" align="center" valign="middle" style="height:42px; color:#000000; font-size:12px; line-height:20px; font-weight:600;">09h</td>
+              </tr>
+              </table>
+            </td>
+
+            <td width="10">&nbsp;</td>
+
+            <td valign="middle">
+              <div style="color:#777777; font-size:9px; line-height:14px; font-weight:600; letter-spacing:0.8px; text-transform:uppercase;">Horário</div>
+              <div style="padding-top:3px; color:#000000; font-size:12px; line-height:18px; font-weight:600;">09h00 às 17h00</div>
+            </td>
+          </tr>
+          </table>
+        </td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<!-- LOCAL DO EVENTO -->
+<tr>
+<td class="mobile-pad" style="padding:20px 48px 8px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+  <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" style="width:100%; background-color:#000000;">
+  <tr>
+    <td height="6" bgcolor="#fee600" style="height:6px; font-size:0; line-height:0; background-color:#fee600;">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center" style="padding:27px 25px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+      <div style="color:#fee600 !important; -webkit-text-fill-color:#fee600 !important; font-size:11px; line-height:17px; font-weight:600; letter-spacing:1.3px; text-transform:uppercase;">Local do evento</div>
+
+      <div style="padding-top:9px; color:#ffffff !important; -webkit-text-fill-color:#ffffff !important; font-size:22px; line-height:29px; font-weight:500;">Grupo Essente</div>
+
+      <div style="padding-top:3px; color:#bdbdbd !important; -webkit-text-fill-color:#bdbdbd !important; font-size:12px; line-height:19px;">Condomínio Edifício Conde Andrea Matarazzo</div>
+
+      <div style="padding-top:15px; color:#fee600 !important; -webkit-text-fill-color:#fee600 !important; font-size:17px; line-height:26px; font-weight:600;">Av. Paulista, 1499</div>
+
+      <div style="padding-top:3px; color:#fee600 !important; -webkit-text-fill-color:#fee600 !important; font-size:15px; line-height:23px; font-weight:600;">17º andar – Conjunto 17-04</div>
+
+      <div style="padding-top:6px; color:#ffffff !important; -webkit-text-fill-color:#ffffff !important; font-size:14px; line-height:22px;">
+        Bela Vista – São Paulo – SP<br>
+        CEP 01311-200
+      </div>
+    </td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<!-- COMO CHEGAR -->
+<tr>
+<td class="mobile-pad" style="padding:26px 48px 18px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+  <h2 style="margin:0 0 9px; color:#000000; font-size:23px; line-height:32px; font-weight:500;">Como chegar ao Conecta</h2>
+  <p style="margin:0; color:#4d4d4d; font-size:14px; line-height:24px; font-weight:400;">O edifício tem duas entradas. Confira as fotos abaixo e escolha o melhor acesso para você.</p>
+</td>
+</tr>
+
+<!-- METRÔ -->
+<tr>
+<td class="mobile-pad" style="padding:0 48px 26px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+  <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#f7f7f4" style="border-left:4px solid #fee600;">
+  <tr>
+    <td style="padding:18px 20px;">
+      <p style="margin:0 0 5px; font-size:11px; line-height:18px; letter-spacing:1px; color:#777777;">VEM DE METRÔ?</p>
+      <p style="margin:0; font-size:19px; line-height:28px; font-weight:500; color:#000000;">Estação Trianon-Masp</p>
+      <p style="margin:4px 0 0; font-size:13px; line-height:22px; color:#4d4d4d;">Linha 2–Verde · A estação mais próxima do evento.</p>
+    </td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<!-- ENTRADA PELA PAULISTA -->
+<tr>
+<td class="mobile-pad" style="padding:0 48px 28px;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td class="photo" width="200" valign="top" style="width:200px;">
+
+      <!--[if mso]>
+      <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:200px;height:135px;">
+        <v:fill type="frame" src="https://lh3.googleusercontent.com/d/1JolhlPk8uvQWK4FHE1dL49v_QYH48QiR" aspect="atleast" origin="0.5,1" position="0.5,1"/>
+        <v:textbox inset="0,0,0,0"><div></div></v:textbox>
+      </v:rect>
+      <![endif]-->
+
+      <!--[if !mso]><!-->
+      <div class="paulista-crop" role="img" aria-label="Entrada pela Avenida Paulista, ao lado da hamburgueria Jota. Foto com a parte superior recortada." style="width:200px; height:135px; background-image:url(https://lh3.googleusercontent.com/d/1JolhlPk8uvQWK4FHE1dL49v_QYH48QiR); background-size:cover; background-position:center bottom; background-repeat:no-repeat; border-radius:10px;"></div>
+      <!--<![endif]-->
+
+    </td>
+
+    <td class="entry-copy" valign="middle" style="padding:0 0 0 26px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+      <p style="margin:0 0 10px; font-size:11px; line-height:18px; color:#888888; letter-spacing:1px;">PELA PAULISTA</p>
+
+      <h3 style="margin:0 0 9px; font-size:16px; line-height:26px; font-weight:500; color:#252525; white-space:nowrap;">Av. Paulista, 1499</h3>
+
+      <p style="margin:0 0 10px; font-size:12px; line-height:21px; color:#4d4d4d;">17º andar · Conjunto 17-04</p>
+
+      <p style="margin:0; font-size:13px; line-height:23px; color:#777777;">O acesso fica ao lado da hamburgueria Jota, na passagem com fachada de madeira.</p>
+    </td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<!-- ENTRADA LATERAL -->
+<tr>
+<td class="mobile-pad" style="padding:0 48px 28px;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td class="photo" width="200" valign="middle" style="width:200px;">
+      <img
+        src="https://lh3.googleusercontent.com/d/1I-C-J2ysW-h_IWILYl-okCGAS54AOQDu"
+        width="200"
+        alt="Entrada lateral com portas de vidro e placa Condomínio Edifício Conde Andrea Matarazzo."
+        style="width:200px; max-width:100%; height:auto; border-radius:10px;">
+    </td>
+
+    <td class="entry-copy" valign="middle" style="padding:0 0 0 26px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+      <p style="margin:0 0 10px; font-size:11px; line-height:18px; color:#888888; letter-spacing:1px;">PELA LATERAL</p>
+
+      <h3 style="margin:0 0 9px; font-size:16px; line-height:26px; font-weight:500; color:#252525; white-space:nowrap;">Alameda Casa Branca, 35</h3>
+
+      <p style="margin:0 0 7px; font-size:12px; line-height:21px; color:#4d4d4d;">17º andar · Conjunto 17-04</p>
+
+      <p style="margin:0 0 7px; font-size:12px; line-height:21px; color:#777777;">Cerqueira César · São Paulo/SP</p>
+
+      <p style="margin:0; font-size:12px; line-height:21px; color:#777777;">Procure as portas de vidro e a placa do Edifício Conde Andrea Matarazzo.</p>
+    </td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<!-- BOTÃO DO MAPA -->
+<tr>
+<td class="mobile-pad" align="center" style="padding:17px 24px 12px; font-family:Poppins,Arial,Helvetica,sans-serif;">
+  <table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" bgcolor="#fee600" style="background-color:#fee600; border-radius:9px;">
+      <a href="https://www.google.com/maps/search/?api=1&amp;query=Grupo+Essente+Av+Paulista+1499+Bela+Vista+Sao+Paulo+SP+01311-200"
+        target="_blank"
+        style="display:inline-block; padding:14px 24px; background-color:#fee600 !important; color:#000000 !important; -webkit-text-fill-color:#000000 !important; border-radius:9px; font-size:14px; line-height:21px; font-weight:600; text-align:center; text-decoration:none;">
+        Ver localização no mapa
+      </a>
+    </td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<!-- QR CODE -->
+<tr>
+<td class="mobile-pad" style="padding:14px 48px 0; font-family:Poppins,Arial,Helvetica,sans-serif;">
+  <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#f7f7f4" style="border:1px solid #e6e6df;">
+  <tr>
+    <td style="padding:16px 18px;">
+      <p style="margin:0 0 5px; font-size:14px; line-height:23px; font-weight:500; color:#000000;">Tenha seu QR Code à mão</p>
+
+      <p style="margin:0; font-size:13px; line-height:22px; color:#4d4d4d;">Apresente na recepção o QR Code enviado na confirmação da sua inscrição.</p>
+    </td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<!-- ENCERRAMENTO -->
+<tr>
+<td class="mobile-pad" align="center" style="padding:28px 48px 34px; font-family:Poppins,Arial,Helvetica,sans-serif; color:#6b6b6b; font-size:13px; line-height:21px;">
+  Nos vemos amanhã para um dia de conteúdo, troca e conexão!<br>
+  <strong style="color:#000000; font-weight:600;">Esperamos você no BomControle Conecta!</strong>
+</td>
+</tr>
+
+<!-- RODAPÉ -->
+<tr>
+<td style="padding:20px 24px; border-top:1px solid #e5e7eb; background-color:#fcfcfd;">
+  <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+  <tr>
+    <td align="center" style="padding-bottom:10px; font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:21px; color:#64748b;">
+      O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+
+        <td style="padding:0 3px;">
+          <a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;">
+            <img src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png" alt="Instagram" width="14" height="14" style="display:inline-block; width:14px; height:14px; margin-top:8px; border:0;">
+          </a>
+        </td>
+
+        <td style="padding:0 3px;">
+          <a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;">
+            <img src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png" alt="Facebook" width="14" height="14" style="display:inline-block; width:14px; height:14px; margin-top:8px; border:0;">
+          </a>
+        </td>
+
+        <td style="padding:0 3px;">
+          <a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;">
+            <img src="https://img.icons8.com/ios-filled/50/475569/linkedin.png" alt="LinkedIn" width="14" height="14" style="display:inline-block; width:14px; height:14px; margin-top:8px; border:0;">
+          </a>
+        </td>
+
+        <td style="padding:0 3px;">
+          <a href="https://x.com/BomControleERP" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;">
+            <img src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png" alt="X" width="14" height="14" style="display:inline-block; width:14px; height:14px; margin-top:8px; border:0;">
+          </a>
+        </td>
+
+        <td style="padding:0 3px;">
+          <a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:inline-block; width:30px; height:30px; background:#eef2f7; border:1px solid #d8e0ea; border-radius:999px; text-align:center;">
+            <img src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png" alt="YouTube" width="14" height="14" style="display:inline-block; width:14px; height:14px; margin-top:8px; border:0;">
+          </a>
+        </td>
+
+      </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="padding-top:14px; font-family:Arial,Helvetica,sans-serif; font-size:12px; line-height:18px; color:#64748b;">
+      São Caetano do Sul - SP<br>
+      Caso não queira mais receber estes e-mails
+      <a href="https://app.rdstation.email/descadastrar/*UUID*" target="_blank" rel="noopener" style="text-decoration:underline; color:#0068A5;">cancele sua inscrição</a>.
+    </td>
+  </tr>
+
+  </table>
+</td>
+</tr>
+
+</table>
+
+<!--[if mso]>
+</td></tr></table>
+<![endif]-->
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
