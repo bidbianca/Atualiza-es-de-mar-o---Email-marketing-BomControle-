@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="x-apple-disable-message-reformatting">
+<title>BomControle + Pluga</title>
+
+<style>
+body{
+  margin:0;
+  padding:0;
+  background:#f0f0f0;
+  -webkit-text-size-adjust:100%;
+}
+table{
+  border-collapse:collapse;
+  mso-table-lspace:0;
+  mso-table-rspace:0;
+}
+td{
+  font-family:Poppins,Arial,Helvetica,sans-serif;
+}
+img{
+  border:0;
+  outline:none;
+}
+a[x-apple-data-detectors]{
+  color:inherit!important;
+  text-decoration:none!important;
+}
+@media only screen and (max-width:620px){
+  .email{
+    width:100%!important;
+  }
+  .pad{
+    padding-left:24px!important;
+    padding-right:24px!important;
+  }
+  .column{
+    display:block!important;
+    width:100%!important;
+    box-sizing:border-box!important;
+  }
+  .gap{
+    display:none!important;
+  }
+  .title{
+    font-size:30px!important;
+    line-height:39px!important;
+  }
+  .logo-bc{
+    width:158px!important;
+    height:auto!important;
+  }
+  .logo-pluga{
+    width:88px!important;
+    height:auto!important;
+  }
+  .equal-title,
+  .equal-copy{
+    height:auto!important;
+  }
+}
+</style>
+</head>
+
+<body style="margin:0;padding:0;background:#f0f0f0;">
+
+<div style="display:none;max-height:0;overflow:hidden;font-size:1px;line-height:1px;opacity:0;mso-hide:all;">
+Conecte formulários, planilhas e marketing ao BomControle e reduza tarefas manuais.
+</div>
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f0f0f0">
+<tr>
+<td align="center" style="padding:24px 12px;">
+
+<!--[if mso]>
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0">
+<tr><td>
+<![endif]-->
+
+<table role="presentation" class="email" width="600" cellpadding="0" cellspacing="0" border="0" style="width:100%;max-width:600px;">
+
+<!-- LOGOS -->
+<tr>
+<td align="center" style="padding:8px 0 26px;">
+
+<table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+
+<td align="center" valign="middle">
+<a href="https://bomcontrole.com.br/" target="_blank" style="text-decoration:none;">
+<img
+  class="logo-bc"
+  src="https://lh3.googleusercontent.com/d/1mq6jX4LE2cZQbHQnlSHX-RbGhoSo55GD"
+  alt="BomControle"
+  width="192"
+  style="display:block;width:192px;max-width:100%;height:auto;border:0;">
+</a>
+</td>
+
+<td width="40" align="center" valign="middle" style="font-family:Arial,sans-serif;font-size:22px;line-height:30px;color:#a0a5af;">
++
+</td>
+
+<td align="center" valign="middle">
+<a href="https://pluga.co/" target="_blank" style="text-decoration:none;">
+<img
+  class="logo-pluga"
+  src="https://assets.pluga.co/site/images/branding/png/logo-pluga-26-main.png"
+  alt="Pluga"
+  width="108"
+  style="display:block;width:108px;height:auto;border:0;">
+</a>
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#ffffff" style="background:#ffffff;">
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+
+<!-- ABERTURA -->
+<tr>
+<td class="pad" bgcolor="#edf3ff" style="padding:34px 44px;font-family:Poppins,Arial,sans-serif;">
+
+<p style="margin:0 0 16px;font-size:11px;line-height:18px;letter-spacing:1.5px;font-weight:700;color:#004dbc;">
+MAIS CONEXÕES PARA A SUA OPERAÇÃO
+</p>
+
+<h1 class="title" style="margin:0;font-family:Poppins,Arial,sans-serif;font-size:36px;line-height:45px;letter-spacing:-1px;font-weight:600;color:#17243f;">
+Suas ferramentas<br>
+conectadas.<br>
+<span style="color:#004dbc;">Sua rotina mais simples.</span>
+</h1>
+
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin-top:24px;">
+<tr>
+<td width="54" height="4" bgcolor="#ffe600" style="font-size:0;line-height:0;">&nbsp;</td>
+<td width="54" height="4" bgcolor="#156cea" style="font-size:0;line-height:0;">&nbsp;</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<!-- INTRODUÇÃO -->
+<tr>
+<td class="pad" style="padding:30px 44px 0;font-family:Poppins,Arial,sans-serif;">
+
+<h2 style="margin:0 0 16px;font-size:25px;line-height:34px;font-weight:600;color:#17191e;">
+Menos copiar e colar.<br>
+Mais tempo para o seu negócio.
+</h2>
+
+<p style="margin:0;font-size:15px;line-height:26px;color:#505662;">
+Com a parceria entre <strong>BomControle e Pluga</strong>, você conecta sua gestão às ferramentas que já utiliza e automatiza a troca de informações entre elas.
+</p>
+
+<p style="margin:14px 0 0;font-size:15px;line-height:26px;color:#505662;">
+Você define o que inicia o fluxo e qual ação deve acontecer depois. A Pluga faz essa ponte, sem precisar programar.
+</p>
+
+</td>
+</tr>
+
+<!-- PRIMEIRO CTA -->
+<tr>
+<td align="center" class="pad" style="padding:26px 44px 32px;">
+
+<table role="presentation" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td align="center" bgcolor="#ffe600" style="border-radius:5px;mso-padding-alt:15px 24px;">
+
+<a href="https://pluga.co/ferramentas/bom-controle/integracao/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022&amp;utm_content=cta_abertura"
+target="_blank"
+style="display:inline-block;padding:15px 24px;font-family:Poppins,Arial,sans-serif;font-size:14px;line-height:22px;font-weight:700;color:#111111;text-decoration:none;">
+Conhecer as integrações
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<!-- TÍTULO DOS RECURSOS -->
+<tr>
+<td class="pad" style="padding:0 44px 24px;font-family:Poppins,Arial,sans-serif;">
+
+<h2 style="margin:0;font-size:23px;line-height:32px;font-weight:600;color:#17191e;">
+O que você pode automatizar
+</h2>
+
+</td>
+</tr>
+
+<!-- RECURSOS -->
+<tr>
+<td class="pad" style="padding:0 44px;">
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;">
+
+<tr>
+
+<!-- GOOGLE FORMS -->
+<td class="column" width="48%" valign="top" style="padding:0 0 28px;font-family:Poppins,Arial,sans-serif;">
+
+<p style="margin:0 0 10px;font-size:11px;line-height:18px;font-weight:700;letter-spacing:1px;color:#7052b5;">
+01 / GOOGLE FORMS
+</p>
+
+<h3 style="margin:0 0 10px;font-size:18px;line-height:26px;color:#17191e;font-weight:600;">
+Cadastros sem redigitação
+</h3>
+
+<p style="margin:0;font-size:14px;line-height:24px;color:#505662;">
+A cada nova resposta em um formulário, crie ou atualize um cliente no BomControle.
+</p>
+
+<p style="margin:12px 0 0;font-size:14px;line-height:24px;color:#202632;">
+<strong>Benefício:</strong> economize tempo e reduza erros ao copiar dados.
+</p>
+
+</td>
+
+<td class="gap" width="4%"></td>
+
+<!-- GOOGLE SHEETS -->
+<td class="column" width="48%" valign="top" style="padding:0 0 28px;font-family:Poppins,Arial,sans-serif;">
+
+<p style="margin:0 0 10px;font-size:11px;line-height:18px;font-weight:700;letter-spacing:1px;color:#307044;">
+02 / GOOGLE SHEETS
+</p>
+
+<h3 style="margin:0 0 10px;font-size:18px;line-height:26px;color:#17191e;font-weight:600;">
+Dados direto para a planilha
+</h3>
+
+<p style="margin:0;font-size:14px;line-height:24px;color:#505662;">
+Envie dados de vendas criadas ou de novas contas a receber para uma planilha da equipe.
+</p>
+
+<p style="margin:12px 0 0;font-size:14px;line-height:24px;color:#202632;">
+<strong>Benefício:</strong> compartilhe novos registros sem exportar e colar manualmente.
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- ACTIVECAMPAIGN -->
+<td class="column" width="48%" valign="top" style="padding:0 0 30px;font-family:Poppins,Arial,sans-serif;">
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+
+<tr>
+<td style="padding-bottom:10px;font-size:11px;line-height:18px;font-weight:700;letter-spacing:1px;color:#004dbc;">
+03 / ACTIVECAMPAIGN
+</td>
+</tr>
+
+<tr>
+<td class="equal-title" height="52" valign="top" style="height:52px;padding-bottom:10px;">
+
+<h3 style="margin:0;font-size:18px;line-height:26px;color:#17191e;font-weight:600;">
+Marketing conectado às vendas
+</h3>
+
+</td>
+</tr>
+
+<tr>
+<td class="equal-copy" height="96" valign="top" style="height:96px;">
+
+<p style="margin:0;font-size:14px;line-height:24px;color:#505662;">
+Ao criar uma venda no BomControle, crie ou atualize um contato no ActiveCampaign.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td style="padding-top:12px;">
+
+<p style="margin:0;font-size:14px;line-height:24px;color:#202632;">
+<strong>Benefício:</strong> mantenha sua base de marketing atualizada com menos trabalho manual.
+</p>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+<td class="gap" width="4%"></td>
+
+<!-- FILTROS E CONDIÇÕES -->
+<td class="column" width="48%" valign="top" style="padding:0 0 30px;font-family:Poppins,Arial,sans-serif;">
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+
+<tr>
+<td style="padding-bottom:10px;font-size:11px;line-height:18px;font-weight:700;letter-spacing:1px;color:#8a6b13;">
+04 / FILTROS E CONDIÇÕES
+</td>
+</tr>
+
+<tr>
+<td class="equal-title" height="52" valign="top" style="height:52px;padding-bottom:10px;">
+
+<h3 style="margin:0;font-size:18px;line-height:26px;color:#17191e;font-weight:600;">
+Fluxos com as suas regras
+</h3>
+
+</td>
+</tr>
+
+<tr>
+<td class="equal-copy" height="96" valign="top" style="height:96px;">
+
+<p style="margin:0;font-size:14px;line-height:24px;color:#505662;">
+Defina condições na Pluga para a automação avançar somente nos casos que interessam.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td style="padding-top:12px;">
+
+<p style="margin:0;font-size:14px;line-height:24px;color:#202632;">
+<strong>Benefício:</strong> adapte a troca de informações à rotina da sua empresa.
+</p>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+
+<!-- FECHAMENTO -->
+<tr>
+<td class="pad" bgcolor="#fafbfe" align="center" style="padding:30px 44px;font-family:Poppins,Arial,sans-serif;">
+
+<h2 style="margin:0 0 12px;font-size:23px;line-height:32px;font-weight:600;color:#17191e;">
+Comece pela tarefa que mais<br>
+toma tempo da sua equipe.
+</h2>
+
+<p style="margin:0 0 22px;font-size:14px;line-height:25px;color:#505662;">
+Explore os fluxos disponíveis e escolha as conexões que fazem sentido para o seu dia a dia.
+</p>
+
+<table role="presentation" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td align="center" bgcolor="#ffe600" style="border-radius:5px;mso-padding-alt:15px 24px;">
+
+<a href="https://pluga.co/ferramentas/bom-controle/integracao/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022&amp;utm_content=cta_final"
+target="_blank"
+style="display:inline-block;padding:15px 24px;font-family:Poppins,Arial,sans-serif;font-size:14px;line-height:22px;font-weight:700;color:#111111;text-decoration:none;">
+Explorar BomControle + Pluga
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+
+<!-- RODAPÉ BOMCONTROLE -->
+<tr>
+<td align="center" style="padding:24px;border-top:1px solid #e5e7eb;background-color:#fcfcfd;font-family:Poppins,Arial,Helvetica,sans-serif;">
+
+<p style="margin:0 0 12px;font-size:17px;line-height:26px;font-weight:600;color:#17191e;">
+Bom é estar no controle.
+</p>
+
+<p style="margin:0 0 14px;font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:21px;color:#64748b;">
+O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
+</p>
+
+<table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+
+<!-- INSTAGRAM -->
+<td style="padding:0 3px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;">
+<tr>
+<td align="center" valign="middle" width="30" height="30" bgcolor="#eef2f7" style="border:1px solid #d8e0ea;border-radius:30px;">
+
+<a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:block;padding:8px;text-decoration:none;">
+<img
+  src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png"
+  alt="Instagram"
+  width="14"
+  height="14"
+  style="display:block;width:14px;height:14px;border:0;">
+</a>
+
+</td>
+</tr>
+</table>
+</td>
+
+<!-- FACEBOOK -->
+<td style="padding:0 3px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;">
+<tr>
+<td align="center" valign="middle" width="30" height="30" bgcolor="#eef2f7" style="border:1px solid #d8e0ea;border-radius:30px;">
+
+<a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:block;padding:8px;text-decoration:none;">
+<img
+  src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png"
+  alt="Facebook"
+  width="14"
+  height="14"
+  style="display:block;width:14px;height:14px;border:0;">
+</a>
+
+</td>
+</tr>
+</table>
+</td>
+
+<!-- LINKEDIN -->
+<td style="padding:0 3px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;">
+<tr>
+<td align="center" valign="middle" width="30" height="30" bgcolor="#eef2f7" style="border:1px solid #d8e0ea;border-radius:30px;">
+
+<a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:block;padding:8px;text-decoration:none;">
+<img
+  src="https://img.icons8.com/ios-filled/50/475569/linkedin.png"
+  alt="LinkedIn"
+  width="14"
+  height="14"
+  style="display:block;width:14px;height:14px;border:0;">
+</a>
+
+</td>
+</tr>
+</table>
+</td>
+
+<!-- X -->
+<td style="padding:0 3px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;">
+<tr>
+<td align="center" valign="middle" width="30" height="30" bgcolor="#eef2f7" style="border:1px solid #d8e0ea;border-radius:30px;">
+
+<a href="https://x.com/BomControleERP" target="_blank" style="display:block;padding:8px;text-decoration:none;">
+<img
+  src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png"
+  alt="X"
+  width="14"
+  height="14"
+  style="display:block;width:14px;height:14px;border:0;">
+</a>
+
+</td>
+</tr>
+</table>
+</td>
+
+<!-- YOUTUBE -->
+<td style="padding:0 3px;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;">
+<tr>
+<td align="center" valign="middle" width="30" height="30" bgcolor="#eef2f7" style="border:1px solid #d8e0ea;border-radius:30px;">
+
+<a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:block;padding:8px;text-decoration:none;">
+<img
+  src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png"
+  alt="YouTube"
+  width="14"
+  height="14"
+  style="display:block;width:14px;height:14px;border:0;">
+</a>
+
+</td>
+</tr>
+</table>
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+</table>
+
+<!--[if mso]>
+</td></tr></table>
+<![endif]-->
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
