@@ -57,8 +57,12 @@ a[x-apple-data-detectors]{
     width:88px!important;
     height:auto!important;
   }
+  .hero-brands{
+    width:286px!important;
+  }
   .equal-title,
-  .equal-copy{
+  .equal-copy,
+  .equal-benefit{
     height:auto!important;
   }
 }
@@ -68,7 +72,7 @@ a[x-apple-data-detectors]{
 <body style="margin:0;padding:0;background:#f0f0f0;">
 
 <div style="display:none;max-height:0;overflow:hidden;font-size:1px;line-height:1px;opacity:0;mso-hide:all;">
-Conecte formulários, planilhas e marketing ao BomControle e reduza tarefas manuais.
+Conecte o BomControle a mais de 136 ferramentas e crie automações sem programar.
 </div>
 
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f0f0f0">
@@ -82,7 +86,7 @@ Conecte formulários, planilhas e marketing ao BomControle e reduza tarefas manu
 
 <table role="presentation" class="email" width="600" cellpadding="0" cellspacing="0" border="0" style="width:100%;max-width:600px;">
 
-<!-- LOGOS -->
+<!-- CABEÇALHO -->
 <tr>
 <td align="center" style="padding:8px 0 26px;">
 
@@ -91,12 +95,11 @@ Conecte formulários, planilhas e marketing ao BomControle e reduza tarefas manu
 
 <td align="center" valign="middle">
 <a href="https://bomcontrole.com.br/" target="_blank" style="text-decoration:none;">
-<img
-  class="logo-bc"
-  src="https://lh3.googleusercontent.com/d/1mq6jX4LE2cZQbHQnlSHX-RbGhoSo55GD"
-  alt="BomControle"
-  width="192"
-  style="display:block;width:192px;max-width:100%;height:auto;border:0;">
+<img class="logo-bc"
+src="https://lh3.googleusercontent.com/d/1mq6jX4LE2cZQbHQnlSHX-RbGhoSo55GD"
+alt="BomControle"
+width="192"
+style="display:block;width:192px;max-width:100%;height:auto;border:0;">
 </a>
 </td>
 
@@ -106,12 +109,11 @@ Conecte formulários, planilhas e marketing ao BomControle e reduza tarefas manu
 
 <td align="center" valign="middle">
 <a href="https://pluga.co/" target="_blank" style="text-decoration:none;">
-<img
-  class="logo-pluga"
-  src="https://assets.pluga.co/site/images/branding/png/logo-pluga-26-main.png"
-  alt="Pluga"
-  width="108"
-  style="display:block;width:108px;height:auto;border:0;">
+<img class="logo-pluga"
+src="https://assets.pluga.co/site/images/branding/png/logo-pluga-26-main.png"
+alt="Pluga"
+width="108"
+style="display:block;width:108px;height:auto;border:0;">
 </a>
 </td>
 
@@ -126,21 +128,50 @@ Conecte formulários, planilhas e marketing ao BomControle e reduza tarefas manu
 
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 
-<!-- ABERTURA -->
+<!-- ABERTURA CENTRALIZADA -->
 <tr>
-<td class="pad" bgcolor="#edf3ff" style="padding:34px 44px;font-family:Poppins,Arial,sans-serif;">
+<td class="pad" align="center" bgcolor="#edf3ff" style="padding:34px 44px;text-align:center;font-family:Poppins,Arial,sans-serif;">
 
 <p style="margin:0 0 16px;font-size:11px;line-height:18px;letter-spacing:1.5px;font-weight:700;color:#004dbc;">
 MAIS CONEXÕES PARA A SUA OPERAÇÃO
 </p>
 
-<h1 class="title" style="margin:0;font-family:Poppins,Arial,sans-serif;font-size:36px;line-height:45px;letter-spacing:-1px;font-weight:600;color:#17243f;">
-Suas ferramentas<br>
-conectadas.<br>
-<span style="color:#004dbc;">Sua rotina mais simples.</span>
+<table role="presentation" class="hero-brands" align="center" width="340" cellpadding="0" cellspacing="0" border="0" style="width:340px;max-width:100%;margin:0 auto 22px;table-layout:fixed;">
+<tr>
+
+<td width="192" align="center" valign="middle">
+<img class="logo-bc"
+src="https://lh3.googleusercontent.com/d/1mq6jX4LE2cZQbHQnlSHX-RbGhoSo55GD"
+alt="BomControle"
+width="192"
+style="display:block;width:192px;max-width:100%;height:auto;border:0;">
+</td>
+
+<td width="40" align="center" valign="middle" style="font-family:Arial,sans-serif;font-size:28px;line-height:36px;color:#74829a;">
++
+</td>
+
+<td width="108" align="center" valign="middle">
+<img class="logo-pluga"
+src="https://assets.pluga.co/site/images/branding/png/logo-pluga-26-main.png"
+alt="Pluga"
+width="108"
+style="display:block;width:108px;max-width:100%;height:auto;border:0;">
+</td>
+
+</tr>
+</table>
+
+<h1 class="title" style="margin:0;text-align:center;font-family:Poppins,Arial,sans-serif;font-size:36px;line-height:45px;letter-spacing:-1px;font-weight:600;color:#004dbc;">
+Mais conexões.<br>
+Menos tarefas manuais.
 </h1>
 
-<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin-top:24px;">
+<p style="margin:18px 0 0;text-align:center;font-size:15px;line-height:26px;color:#505662;">
+A Pluga conecta o BomControle às ferramentas da sua empresa e automatiza a troca de informações entre elas, sem precisar programar.
+</p>
+
+<table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0" style="margin:24px auto 0;">
 <tr>
 <td width="54" height="4" bgcolor="#ffe600" style="font-size:0;line-height:0;">&nbsp;</td>
 <td width="54" height="4" bgcolor="#156cea" style="font-size:0;line-height:0;">&nbsp;</td>
@@ -150,21 +181,43 @@ conectadas.<br>
 </td>
 </tr>
 
-<!-- INTRODUÇÃO -->
+<!-- DESTAQUE AMARELO -->
 <tr>
 <td class="pad" style="padding:30px 44px 0;font-family:Poppins,Arial,sans-serif;">
 
-<h2 style="margin:0 0 16px;font-size:25px;line-height:34px;font-weight:600;color:#17191e;">
-Menos copiar e colar.<br>
-Mais tempo para o seu negócio.
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#fff8c4" style="border-collapse:separate;border-spacing:0;border:1px solid #f0e39b;border-radius:12px;background:#fff8c4;background-color:#fff8c4!important;margin-bottom:20px;">
+<tr>
+
+<td width="116" align="center" valign="middle" style="padding:20px 8px 20px 14px;">
+
+<p style="margin:0;font-size:11px;line-height:18px;font-weight:700;letter-spacing:1px;color:#655c28;">
+MAIS DE
+</p>
+
+<p style="margin:0;font-size:52px;line-height:60px;font-weight:700;letter-spacing:-2px;color:#004dbc;">
+136
+</p>
+
+</td>
+
+<td valign="middle" style="padding:20px 18px 20px 8px;">
+
+<h2 style="margin:0;font-size:21px;line-height:29px;font-weight:600;color:#17191e;">
+Ferramentas para<br>
+conectar à sua gestão.
 </h2>
 
+</td>
+
+</tr>
+</table>
+
 <p style="margin:0;font-size:15px;line-height:26px;color:#505662;">
-Com a parceria entre <strong>BomControle e Pluga</strong>, você conecta sua gestão às ferramentas que já utiliza e automatiza a troca de informações entre elas.
+RD Station CRM, Pipedrive, HubSpot, Google Sheets, Excel e RD Station Marketing são algumas das possibilidades.
 </p>
 
 <p style="margin:14px 0 0;font-size:15px;line-height:26px;color:#505662;">
-Você define o que inicia o fluxo e qual ação deve acontecer depois. A Pluga faz essa ponte, sem precisar programar.
+Já utiliza alguma delas? Conecte os dados à sua operação no BomControle e reduza o trabalho de copiar informações entre sistemas.
 </p>
 
 </td>
@@ -181,7 +234,7 @@ Você define o que inicia o fluxo e qual ação deve acontecer depois. A Pluga f
 <a href="https://pluga.co/ferramentas/bom-controle/integracao/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022&amp;utm_content=cta_abertura"
 target="_blank"
 style="display:inline-block;padding:15px 24px;font-family:Poppins,Arial,sans-serif;font-size:14px;line-height:22px;font-weight:700;color:#111111;text-decoration:none;">
-Conhecer as integrações
+Ver integrações com BomControle
 </a>
 
 </td>
@@ -191,7 +244,53 @@ Conhecer as integrações
 </td>
 </tr>
 
-<!-- TÍTULO DOS RECURSOS -->
+<!-- COMO COMEÇAR -->
+<tr>
+<td class="pad" style="padding:0 44px 28px;font-family:Poppins,Arial,sans-serif;">
+
+<h2 style="margin:0 0 18px;font-size:23px;line-height:32px;font-weight:600;color:#17191e;">
+Três formas de começar.<br>
+Todas sem precisar programar.
+</h2>
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+
+<tr>
+<td width="28" valign="top" style="padding:0 8px 16px 0;font-size:16px;line-height:25px;font-weight:700;color:#004dbc;">
+1.
+</td>
+<td style="padding-bottom:16px;font-size:14px;line-height:25px;color:#505662;">
+<strong style="color:#17191e;">Use um modelo pronto</strong><br>
+Escolha uma automatização disponível e configure as contas e os campos.
+</td>
+</tr>
+
+<tr>
+<td width="28" valign="top" style="padding:0 8px 16px 0;font-size:16px;line-height:25px;font-weight:700;color:#004dbc;">
+2.
+</td>
+<td style="padding-bottom:16px;font-size:14px;line-height:25px;color:#505662;">
+<strong style="color:#17191e;">Descreva o que precisa para a IA</strong><br>
+Escreva seu pedido em linguagem natural. O assistente monta a estrutura do fluxo; depois, conecte as contas e ajuste os campos.
+</td>
+</tr>
+
+<tr>
+<td width="28" valign="top" style="padding:0 8px 0 0;font-size:16px;line-height:25px;font-weight:700;color:#004dbc;">
+3.
+</td>
+<td style="font-size:14px;line-height:25px;color:#505662;">
+<strong style="color:#17191e;">Crie do zero</strong><br>
+Selecione as ferramentas, defina o gatilho e as ações e configure cada etapa no editor visual.
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+
+<!-- TÍTULO DOS CARDS -->
 <tr>
 <td class="pad" style="padding:0 44px 24px;font-family:Poppins,Arial,sans-serif;">
 
@@ -202,7 +301,7 @@ O que você pode automatizar
 </td>
 </tr>
 
-<!-- RECURSOS -->
+<!-- CARDS DE AUTOMAÇÃO -->
 <tr>
 <td class="pad" style="padding:0 44px;">
 
@@ -211,46 +310,144 @@ O que você pode automatizar
 <tr>
 
 <!-- GOOGLE FORMS -->
-<td class="column" width="48%" valign="top" style="padding:0 0 28px;font-family:Poppins,Arial,sans-serif;">
+<td class="column" width="48%" valign="top" style="padding:0 0 30px;">
 
-<p style="margin:0 0 10px;font-size:11px;line-height:18px;font-weight:700;letter-spacing:1px;color:#7052b5;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f8f5ff" style="border-collapse:separate;border-spacing:0;background:#f8f5ff;border:1px solid #e7dff5;border-radius:14px;">
+<tr>
+<td style="padding:20px;">
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+
+<tr>
+<td style="padding-bottom:10px;font-size:11px;line-height:18px;font-weight:700;letter-spacing:1px;color:#7052b5;">
+<a href="https://pluga.co/ferramentas/google-forms/integracao/bom-controle/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022"
+target="_blank"
+style="color:#7052b5;text-decoration:none;">
 01 / GOOGLE FORMS
-</p>
+</a>
+</td>
+</tr>
 
-<h3 style="margin:0 0 10px;font-size:18px;line-height:26px;color:#17191e;font-weight:600;">
+<tr>
+<td class="equal-title" height="52" valign="top" style="height:52px;padding-bottom:10px;">
+
+<h3 style="margin:0;font-size:18px;line-height:26px;color:#17191e;font-weight:600;">
 Cadastros sem redigitação
 </h3>
+
+</td>
+</tr>
+
+<tr>
+<td class="equal-copy" height="120" valign="top" style="height:120px;">
 
 <p style="margin:0;font-size:14px;line-height:24px;color:#505662;">
 A cada nova resposta em um formulário, crie ou atualize um cliente no BomControle.
 </p>
 
-<p style="margin:12px 0 0;font-size:14px;line-height:24px;color:#202632;">
+</td>
+</tr>
+
+<tr>
+<td class="equal-benefit" height="96" valign="top" style="height:96px;padding-top:12px;">
+
+<p style="margin:0;font-size:14px;line-height:24px;color:#202632;">
 <strong>Benefício:</strong> economize tempo e reduza erros ao copiar dados.
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td style="padding-top:12px;">
+
+<a href="https://pluga.co/ferramentas/google-forms/integracao/bom-controle/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022"
+target="_blank"
+style="font-size:13px;line-height:22px;font-weight:600;color:#004dbc;text-decoration:underline;">
+Ver essa integração &rarr;
+</a>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
 
 </td>
 
 <td class="gap" width="4%"></td>
 
 <!-- GOOGLE SHEETS -->
-<td class="column" width="48%" valign="top" style="padding:0 0 28px;font-family:Poppins,Arial,sans-serif;">
+<td class="column" width="48%" valign="top" style="padding:0 0 30px;">
 
-<p style="margin:0 0 10px;font-size:11px;line-height:18px;font-weight:700;letter-spacing:1px;color:#307044;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f4faf6" style="border-collapse:separate;border-spacing:0;background:#f4faf6;border:1px solid #dcece1;border-radius:14px;">
+<tr>
+<td style="padding:20px;">
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+
+<tr>
+<td style="padding-bottom:10px;font-size:11px;line-height:18px;font-weight:700;letter-spacing:1px;color:#307044;">
+
+<a href="https://pluga.co/ferramentas/bom-controle/integracao/google-sheets/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022"
+target="_blank"
+style="color:#307044;text-decoration:none;">
 02 / GOOGLE SHEETS
-</p>
+</a>
 
-<h3 style="margin:0 0 10px;font-size:18px;line-height:26px;color:#17191e;font-weight:600;">
+</td>
+</tr>
+
+<tr>
+<td class="equal-title" height="52" valign="top" style="height:52px;padding-bottom:10px;">
+
+<h3 style="margin:0;font-size:18px;line-height:26px;color:#17191e;font-weight:600;">
 Dados direto para a planilha
 </h3>
+
+</td>
+</tr>
+
+<tr>
+<td class="equal-copy" height="120" valign="top" style="height:120px;">
 
 <p style="margin:0;font-size:14px;line-height:24px;color:#505662;">
 Envie dados de vendas criadas ou de novas contas a receber para uma planilha da equipe.
 </p>
 
-<p style="margin:12px 0 0;font-size:14px;line-height:24px;color:#202632;">
+</td>
+</tr>
+
+<tr>
+<td class="equal-benefit" height="96" valign="top" style="height:96px;padding-top:12px;">
+
+<p style="margin:0;font-size:14px;line-height:24px;color:#202632;">
 <strong>Benefício:</strong> compartilhe novos registros sem exportar e colar manualmente.
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td style="padding-top:12px;">
+
+<a href="https://pluga.co/ferramentas/bom-controle/integracao/google-sheets/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022"
+target="_blank"
+style="font-size:13px;line-height:22px;font-weight:600;color:#004dbc;text-decoration:underline;">
+Ver essa integração &rarr;
+</a>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -259,13 +456,23 @@ Envie dados de vendas criadas ou de novas contas a receber para uma planilha da 
 <tr>
 
 <!-- ACTIVECAMPAIGN -->
-<td class="column" width="48%" valign="top" style="padding:0 0 30px;font-family:Poppins,Arial,sans-serif;">
+<td class="column" width="48%" valign="top" style="padding:0 0 30px;">
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f5f8ff" style="border-collapse:separate;border-spacing:0;background:#f5f8ff;border:1px solid #dfe8f7;border-radius:14px;">
+<tr>
+<td style="padding:20px;">
 
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 
 <tr>
 <td style="padding-bottom:10px;font-size:11px;line-height:18px;font-weight:700;letter-spacing:1px;color:#004dbc;">
+
+<a href="https://pluga.co/ferramentas/bom-controle/integracao/active-campaign/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022"
+target="_blank"
+style="color:#004dbc;text-decoration:none;">
 03 / ACTIVECAMPAIGN
+</a>
+
 </td>
 </tr>
 
@@ -280,7 +487,7 @@ Marketing conectado às vendas
 </tr>
 
 <tr>
-<td class="equal-copy" height="96" valign="top" style="height:96px;">
+<td class="equal-copy" height="120" valign="top" style="height:120px;">
 
 <p style="margin:0;font-size:14px;line-height:24px;color:#505662;">
 Ao criar uma venda no BomControle, crie ou atualize um contato no ActiveCampaign.
@@ -290,7 +497,7 @@ Ao criar uma venda no BomControle, crie ou atualize um contato no ActiveCampaign
 </tr>
 
 <tr>
-<td style="padding-top:12px;">
+<td class="equal-benefit" height="96" valign="top" style="height:96px;padding-top:12px;">
 
 <p style="margin:0;font-size:14px;line-height:24px;color:#202632;">
 <strong>Benefício:</strong> mantenha sua base de marketing atualizada com menos trabalho manual.
@@ -299,20 +506,46 @@ Ao criar uma venda no BomControle, crie ou atualize um contato no ActiveCampaign
 </td>
 </tr>
 
+<tr>
+<td style="padding-top:12px;">
+
+<a href="https://pluga.co/ferramentas/bom-controle/integracao/active-campaign/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022"
+target="_blank"
+style="font-size:13px;line-height:22px;font-weight:600;color:#004dbc;text-decoration:underline;">
+Ver essa integração &rarr;
+</a>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
 </table>
 
 </td>
 
 <td class="gap" width="4%"></td>
 
-<!-- FILTROS E CONDIÇÕES -->
-<td class="column" width="48%" valign="top" style="padding:0 0 30px;font-family:Poppins,Arial,sans-serif;">
+<!-- NUVEMSHOP -->
+<td class="column" width="48%" valign="top" style="padding:0 0 30px;">
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#fffaf0" style="border-collapse:separate;border-spacing:0;background:#fffaf0;border:1px solid #f0e5c9;border-radius:14px;">
+<tr>
+<td style="padding:20px;">
 
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
 
 <tr>
 <td style="padding-bottom:10px;font-size:11px;line-height:18px;font-weight:700;letter-spacing:1px;color:#8a6b13;">
-04 / FILTROS E CONDIÇÕES
+
+<a href="https://pluga.co/ferramentas/bom-controle/integracao/nuvemshop/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022"
+target="_blank"
+style="color:#8a6b13;text-decoration:none;">
+04 / NUVEMSHOP
+</a>
+
 </td>
 </tr>
 
@@ -320,17 +553,27 @@ Ao criar uma venda no BomControle, crie ou atualize um contato no ActiveCampaign
 <td class="equal-title" height="52" valign="top" style="height:52px;padding-bottom:10px;">
 
 <h3 style="margin:0;font-size:18px;line-height:26px;color:#17191e;font-weight:600;">
-Fluxos com as suas regras
+Sua loja conectada à gestão
 </h3>
 
 </td>
 </tr>
 
 <tr>
-<td class="equal-copy" height="96" valign="top" style="height:96px;">
+<td class="equal-copy" height="120" valign="top" style="height:120px;">
 
 <p style="margin:0;font-size:14px;line-height:24px;color:#505662;">
-Defina condições na Pluga para a automação avançar somente nos casos que interessam.
+A cada venda paga na Nuvemshop, crie ou atualize um cliente no BomControle.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td class="equal-benefit" height="96" valign="top" style="height:96px;padding-top:12px;">
+
+<p style="margin:0;font-size:14px;line-height:24px;color:#202632;">
+<strong>Benefício:</strong> leve os dados dos clientes da loja ao ERP sem redigitação.
 </p>
 
 </td>
@@ -339,19 +582,70 @@ Defina condições na Pluga para a automação avançar somente nos casos que in
 <tr>
 <td style="padding-top:12px;">
 
-<p style="margin:0;font-size:14px;line-height:24px;color:#202632;">
-<strong>Benefício:</strong> adapte a troca de informações à rotina da sua empresa.
+<a href="https://pluga.co/ferramentas/bom-controle/integracao/nuvemshop/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022"
+target="_blank"
+style="font-size:13px;line-height:22px;font-weight:600;color:#004dbc;text-decoration:underline;">
+Ver essa integração &rarr;
+</a>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+<!-- GIF NUVEMSHOP -->
+<tr>
+<td class="pad" style="padding:0 44px 30px;font-family:Poppins,Arial,sans-serif;">
+
+<h2 style="margin:0 0 12px;font-size:23px;line-height:32px;font-weight:600;color:#17191e;">
+BomControle + Nuvemshop, na prática!
+</h2>
+
+<p style="margin:0 0 18px;font-size:14px;line-height:25px;color:#505662;">
+Veja a demonstração da integração e explore as possibilidades para conectar sua loja ao BomControle.
 </p>
 
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border-spacing:0;border:1px solid #e3e8f0;border-radius:12px;background:#ffffff;">
+<tr>
+<td align="center" style="padding:8px;">
+
+<a href="https://pluga.co/ferramentas/bom-controle/integracao/nuvemshop/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022&amp;utm_content=gif_nuvemshop"
+target="_blank"
+style="display:block;text-decoration:none;">
+
+<img
+src="https://lh3.googleusercontent.com/d/102TDokGDLehuZRAxZ1KNUtN28e5EhmrX"
+alt="Demonstração da integração entre Nuvemshop e BomControle pela Pluga"
+width="494"
+style="display:block;width:100%;max-width:494px;height:auto;border:0;border-radius:8px;">
+
+</a>
+
 </td>
 </tr>
-
 </table>
 
-</td>
-</tr>
+<p style="margin:12px 0 0;text-align:center;">
 
-</table>
+<a href="https://pluga.co/ferramentas/bom-controle/integracao/nuvemshop/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022&amp;utm_content=gif_nuvemshop"
+target="_blank"
+style="font-size:13px;line-height:22px;font-weight:600;color:#004dbc;text-decoration:underline;">
+Ver a integração com Nuvemshop &rarr;
+</a>
+
+</p>
 
 </td>
 </tr>
@@ -376,7 +670,7 @@ Explore os fluxos disponíveis e escolha as conexões que fazem sentido para o s
 <a href="https://pluga.co/ferramentas/bom-controle/integracao/?utm_source=bomcontrole&amp;utm_medium=email&amp;utm_campaign=parceria_pluga_20261022&amp;utm_content=cta_final"
 target="_blank"
 style="display:inline-block;padding:15px 24px;font-family:Poppins,Arial,sans-serif;font-size:14px;line-height:22px;font-weight:700;color:#111111;text-decoration:none;">
-Explorar BomControle + Pluga
+Ver integrações com BomControle
 </a>
 
 </td>
@@ -391,7 +685,7 @@ Explorar BomControle + Pluga
 </td>
 </tr>
 
-<!-- RODAPÉ BOMCONTROLE -->
+<!-- RODAPÉ -->
 <tr>
 <td align="center" style="padding:24px;border-top:1px solid #e5e7eb;background-color:#fcfcfd;font-family:Poppins,Arial,Helvetica,sans-serif;">
 
@@ -414,11 +708,11 @@ O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
 
 <a href="https://www.instagram.com/bomcontrole/" target="_blank" style="display:block;padding:8px;text-decoration:none;">
 <img
-  src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png"
-  alt="Instagram"
-  width="14"
-  height="14"
-  style="display:block;width:14px;height:14px;border:0;">
+src="https://img.icons8.com/ios-filled/50/475569/instagram-new.png"
+alt="Instagram"
+width="14"
+height="14"
+style="display:block;width:14px;height:14px;border:0;">
 </a>
 
 </td>
@@ -434,11 +728,11 @@ O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
 
 <a href="https://www.facebook.com/erpbomcontrole?locale=pt_BR" target="_blank" style="display:block;padding:8px;text-decoration:none;">
 <img
-  src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png"
-  alt="Facebook"
-  width="14"
-  height="14"
-  style="display:block;width:14px;height:14px;border:0;">
+src="https://img.icons8.com/ios-filled/50/475569/facebook-new.png"
+alt="Facebook"
+width="14"
+height="14"
+style="display:block;width:14px;height:14px;border:0;">
 </a>
 
 </td>
@@ -454,11 +748,11 @@ O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
 
 <a href="https://www.linkedin.com/company/bom-controle/?viewAsMember=true" target="_blank" style="display:block;padding:8px;text-decoration:none;">
 <img
-  src="https://img.icons8.com/ios-filled/50/475569/linkedin.png"
-  alt="LinkedIn"
-  width="14"
-  height="14"
-  style="display:block;width:14px;height:14px;border:0;">
+src="https://img.icons8.com/ios-filled/50/475569/linkedin.png"
+alt="LinkedIn"
+width="14"
+height="14"
+style="display:block;width:14px;height:14px;border:0;">
 </a>
 
 </td>
@@ -474,11 +768,11 @@ O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
 
 <a href="https://x.com/BomControleERP" target="_blank" style="display:block;padding:8px;text-decoration:none;">
 <img
-  src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png"
-  alt="X"
-  width="14"
-  height="14"
-  style="display:block;width:14px;height:14px;border:0;">
+src="https://img.icons8.com/ios-filled/50/475569/twitterx--v1.png"
+alt="X"
+width="14"
+height="14"
+style="display:block;width:14px;height:14px;border:0;">
 </a>
 
 </td>
@@ -494,11 +788,11 @@ O sistema ERP que conecta todas as áreas da sua empresa de ponta a ponta.
 
 <a href="https://www.youtube.com/@bomcontrole2058" target="_blank" style="display:block;padding:8px;text-decoration:none;">
 <img
-  src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png"
-  alt="YouTube"
-  width="14"
-  height="14"
-  style="display:block;width:14px;height:14px;border:0;">
+src="https://img.icons8.com/ios-filled/50/475569/youtube-play.png"
+alt="YouTube"
+width="14"
+height="14"
+style="display:block;width:14px;height:14px;border:0;">
 </a>
 
 </td>
