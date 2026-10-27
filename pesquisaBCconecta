@@ -99,6 +99,25 @@ Agora, queremos saber como foi essa experiência para você: o que mais gostou, 
 </td>
 </tr>
 
+<!-- CONTEÚDO DO EVENTO -->
+<tr>
+<td class="mobile-pad" style="padding:0 48px 24px;font-family:Poppins,Arial,Helvetica,sans-serif;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#fffbe0" style="background-color:#fffbe0;border:1px solid #eee6b0;">
+<tr>
+<td style="padding:18px 22px;">
+
+<h2 style="margin:0 0 8px;color:#000000;font-size:21px;line-height:30px;font-weight:500;">O conteúdo do Conecta vem aí!</h2>
+
+<p style="margin:0;color:#4d4d4d;font-size:14px;line-height:24px;">
+Em até <strong style="color:#000000;font-weight:600;">10 dias úteis</strong>, compartilharemos com você o conteúdo do BomControle Conecta.
+</p>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
 <!-- PESQUISA -->
 <tr>
 <td class="mobile-pad" style="padding:4px 48px 24px;font-family:Poppins,Arial,Helvetica,sans-serif;">
