@@ -46,7 +46,7 @@ Seu certificado do BomControle Conecta está disponível. Acesse e compartilhe s
 <td height="9" bgcolor="#fee600" style="height:9px;padding:0;background-color:#fee600;font-size:0;line-height:0;">&nbsp;</td>
 </tr>
 
-<!-- CABEÇALHO CONECTA -->
+<!-- CABEÇALHO -->
 <tr>
 <td class="mobile-pad" style="padding:25px 38px 22px;font-family:Poppins,Arial,Helvetica,sans-serif;">
 <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -87,7 +87,7 @@ Obrigado por participar do <strong style="color:#000000;font-weight:600;">BomCon
 <strong style="color:#000000;font-weight:500;">*|NOME|*, você fez parte desse encontro!</strong> Para registrar sua participação, preparamos o seu certificado do BomControle Conecta.
 </p>
 
-<!-- LINK INDIVIDUAL DO CERTIFICADO -->
+<!-- CERTIFICADO -->
 <p style="margin:12px 0 0;font-size:15px;line-height:25px;">
 <a href="*|LINK-CERTIFICADO|*" target="_blank" style="color:#000000;text-decoration:underline;font-family:Poppins,Arial,Helvetica,sans-serif;font-weight:500;">Clique aqui para acessar seu certificado</a>
 </p>
@@ -99,12 +99,12 @@ Agora, queremos saber como foi essa experiência para você: o que mais gostou, 
 </td>
 </tr>
 
-<!-- CONTEÚDO DO EVENTO -->
+<!-- CARD DO CONTEÚDO -->
 <tr>
-<td class="mobile-pad" style="padding:0 48px 24px;font-family:Poppins,Arial,Helvetica,sans-serif;">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#fffbe0" style="background-color:#fffbe0;border:1px solid #eee6b0;">
+<td class="mobile-pad" style="padding:4px 48px 24px;font-family:Poppins,Arial,Helvetica,sans-serif;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#f7f7f4" style="background-color:#f7f7f4;border:1px solid #e6e6df;border-left:4px solid #fee600;">
 <tr>
-<td style="padding:18px 22px;">
+<td style="padding:20px 22px;">
 
 <h2 style="margin:0 0 8px;color:#000000;font-size:21px;line-height:30px;font-weight:500;">O conteúdo do Conecta vem aí!</h2>
 
@@ -118,7 +118,7 @@ Em até <strong style="color:#000000;font-weight:600;">10 dias úteis</strong>, 
 </td>
 </tr>
 
-<!-- PESQUISA -->
+<!-- CARD DA PESQUISA -->
 <tr>
 <td class="mobile-pad" style="padding:4px 48px 24px;font-family:Poppins,Arial,Helvetica,sans-serif;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#f7f7f4" style="background-color:#f7f7f4;border:1px solid #e6e6df;border-left:4px solid #fee600;">
@@ -137,7 +137,7 @@ Compartilhe sua avaliação na nossa pesquisa de satisfação. Sua opinião ajud
 </td>
 </tr>
 
-<!-- BLOCO PRETO COM CTA DA PESQUISA -->
+<!-- CTA DA PESQUISA -->
 <tr>
 <td class="mobile-pad" style="padding:0 48px;font-family:Poppins,Arial,Helvetica,sans-serif;">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#000000" style="background-color:#000000;">
